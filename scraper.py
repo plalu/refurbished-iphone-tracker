@@ -190,6 +190,11 @@ async def main():
 
     print(f"取得件数: {len(scraped)} 件")
 
+    if len(scraped) == 0:
+        # 0件はページ構造変更・ネットワーク障害の可能性が高いため更新しない
+        print("警告: 商品が0件でした。データは更新しません。", file=sys.stderr)
+        sys.exit(1)
+
     data = load_data()
     data = update_records(data, scraped, timestamp)
     save_data(data)
