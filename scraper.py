@@ -17,7 +17,6 @@ if sys.stderr.encoding != "utf-8":
     sys.stderr = io.TextIOWrapper(sys.stderr.buffer, encoding="utf-8", errors="replace")
 from datetime import datetime, timezone, timedelta
 from pathlib import Path
-from urllib.parse import unquote
 
 from playwright.async_api import async_playwright
 
