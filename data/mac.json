@@ -1,0 +1,520 @@
+{
+  "products": {
+    "FWUC3J/A": {
+      "name": "24インチiMac [整備済製品] 8コアCPUと8コアGPUを搭載したApple M4チップ - シルバー",
+      "price": 168800,
+      "price_text": "168,800円",
+      "retail_price_text": "¥168,800",
+      "part_number": "FWUC3J/A",
+      "url": "https://www.apple.com/jp/shop/product/fwuc3j/a/24%E3%82%A4%E3%83%B3%E3%83%81iMac-%E6%95%B4%E5%82%99%E6%B8%88%E8%A3%BD%E5%93%81-8%E3%82%B3%E3%82%A2CPU%E3%81%A88%E3%82%B3%E3%82%A2GPU%E3%82%92%E6%90%AD%E8%BC%89%E3%81%97%E3%81%9FApple-M4%E3%83%81%E3%83%83%E3%83%97-%E3%82%B7%E3%83%AB%E3%83%90%E3%83%BC?fnode=4c714e8d249bc25c9a0503b744833a99c3dd52fd4d286859f20f023cd8c65cd78d79bbb1d3e185ac1b4e844665d48a434897462ad5af1a87eca16f4788ca214e9baf599ab158c04b50d58af09890a424",
+      "first_seen": "2026-04-22T19:18:14+09:00",
+      "last_seen": "2026-04-22T19:18:14+09:00",
+      "is_available": true,
+      "periods": [
+        {
+          "start": "2026-04-22T19:18:14+09:00",
+          "end": null
+        }
+      ]
+    },
+    "FWUF3J/A": {
+      "name": "24インチiMac [整備済製品] 8コアCPUと8コアGPUを搭載したApple M4チップ - ブルー",
+      "price": 168800,
+      "price_text": "168,800円",
+      "retail_price_text": "¥168,800",
+      "part_number": "FWUF3J/A",
+      "url": "https://www.apple.com/jp/shop/product/fwuf3j/a/24%E3%82%A4%E3%83%B3%E3%83%81iMac-%E6%95%B4%E5%82%99%E6%B8%88%E8%A3%BD%E5%93%81-8%E3%82%B3%E3%82%A2CPU%E3%81%A88%E3%82%B3%E3%82%A2GPU%E3%82%92%E6%90%AD%E8%BC%89%E3%81%97%E3%81%9FApple-M4%E3%83%81%E3%83%83%E3%83%97-%E3%83%96%E3%83%AB%E3%83%BC?fnode=4c714e8d249bc25c9a0503b744833a99c3dd52fd4d286859f20f023cd8c65cd78d79bbb1d3e185ac1b4e844665d48a434897462ad5af1a87eca16f4788ca214e9baf599ab158c04b50d58af09890a424",
+      "first_seen": "2026-04-22T19:18:14+09:00",
+      "last_seen": "2026-04-22T19:18:14+09:00",
+      "is_available": true,
+      "periods": [
+        {
+          "start": "2026-04-22T19:18:14+09:00",
+          "end": null
+        }
+      ]
+    },
+    "FWUG3J/A": {
+      "name": "24インチiMac [整備済製品] 8コアCPUと8コアGPUを搭載したApple M4チップ - ピンク",
+      "price": 168800,
+      "price_text": "168,800円",
+      "retail_price_text": "¥168,800",
+      "part_number": "FWUG3J/A",
+      "url": "https://www.apple.com/jp/shop/product/fwug3j/a/24%E3%82%A4%E3%83%B3%E3%83%81iMac-%E6%95%B4%E5%82%99%E6%B8%88%E8%A3%BD%E5%93%81-8%E3%82%B3%E3%82%A2CPU%E3%81%A88%E3%82%B3%E3%82%A2GPU%E3%82%92%E6%90%AD%E8%BC%89%E3%81%97%E3%81%9FApple-M4%E3%83%81%E3%83%83%E3%83%97-%E3%83%94%E3%83%B3%E3%82%AF?fnode=4c714e8d249bc25c9a0503b744833a99c3dd52fd4d286859f20f023cd8c65cd78d79bbb1d3e185ac1b4e844665d48a434897462ad5af1a87eca16f4788ca214e9baf599ab158c04b50d58af09890a424",
+      "first_seen": "2026-04-22T19:18:14+09:00",
+      "last_seen": "2026-04-22T19:18:14+09:00",
+      "is_available": true,
+      "periods": [
+        {
+          "start": "2026-04-22T19:18:14+09:00",
+          "end": null
+        }
+      ]
+    },
+    "G1E53J/A": {
+      "name": "24インチiMac [整備済製品] 8コアCPUと8コアGPUを搭載したApple M4チップ - ブルー",
+      "price": 193800,
+      "price_text": "193,800円",
+      "retail_price_text": "¥193,800",
+      "part_number": "G1E53J/A",
+      "url": "https://www.apple.com/jp/shop/product/g1e53j/a/24%E3%82%A4%E3%83%B3%E3%83%81iMac-%E6%95%B4%E5%82%99%E6%B8%88%E8%A3%BD%E5%93%81-8%E3%82%B3%E3%82%A2CPU%E3%81%A88%E3%82%B3%E3%82%A2GPU%E3%82%92%E6%90%AD%E8%BC%89%E3%81%97%E3%81%9FApple-M4%E3%83%81%E3%83%83%E3%83%97-%E3%83%96%E3%83%AB%E3%83%BC?fnode=4c714e8d249bc25c9a0503b744833a99c3dd52fd4d286859f20f023cd8c65cd78d79bbb1d3e185ac1b4e844665d48a434897462ad5af1a87eca16f4788ca214e9baf599ab158c04b50d58af09890a424",
+      "first_seen": "2026-04-22T19:18:14+09:00",
+      "last_seen": "2026-04-22T19:18:14+09:00",
+      "is_available": true,
+      "periods": [
+        {
+          "start": "2026-04-22T19:18:14+09:00",
+          "end": null
+        }
+      ]
+    },
+    "G1E71J/A": {
+      "name": "24インチiMac [整備済製品] 8コアCPUと8コアGPUを搭載したApple M4チップ - パープル",
+      "price": 193800,
+      "price_text": "193,800円",
+      "retail_price_text": "¥193,800",
+      "part_number": "G1E71J/A",
+      "url": "https://www.apple.com/jp/shop/product/g1e71j/a/24%E3%82%A4%E3%83%B3%E3%83%81iMac-%E6%95%B4%E5%82%99%E6%B8%88%E8%A3%BD%E5%93%81-8%E3%82%B3%E3%82%A2CPU%E3%81%A88%E3%82%B3%E3%82%A2GPU%E3%82%92%E6%90%AD%E8%BC%89%E3%81%97%E3%81%9FApple-M4%E3%83%81%E3%83%83%E3%83%97-%E3%83%91%E3%83%BC%E3%83%97%E3%83%AB?fnode=4c714e8d249bc25c9a0503b744833a99c3dd52fd4d286859f20f023cd8c65cd78d79bbb1d3e185ac1b4e844665d48a434897462ad5af1a87eca16f4788ca214e9baf599ab158c04b50d58af09890a424",
+      "first_seen": "2026-04-22T19:18:14+09:00",
+      "last_seen": "2026-04-22T19:18:14+09:00",
+      "is_available": true,
+      "periods": [
+        {
+          "start": "2026-04-22T19:18:14+09:00",
+          "end": null
+        }
+      ]
+    },
+    "FWUU3J/A": {
+      "name": "24インチiMac [整備済製品] 10コアCPUと10コアGPUを搭載したApple M4チップ、ギガビットEthernet - シルバー",
+      "price": 199800,
+      "price_text": "199,800円",
+      "retail_price_text": "¥199,800",
+      "part_number": "FWUU3J/A",
+      "url": "https://www.apple.com/jp/shop/product/fwuu3j/a/24%E3%82%A4%E3%83%B3%E3%83%81imac-%E6%95%B4%E5%82%99%E6%B8%88%E8%A3%BD%E5%93%81-10%E3%82%B3%E3%82%A2cpu%E3%81%A810%E3%82%B3%E3%82%A2gpu%E3%82%92%E6%90%AD%E8%BC%89%E3%81%97%E3%81%9Fapple-m4%E3%83%81%E3%83%83%E3%83%97-%E3%82%AE%E3%82%AC%E3%83%93%E3%83%83%E3%83%88ethernet-%E3%82%B7%E3%83%AB%E3%83%90%E3%83%BC?fnode=4c714e8d249bc25c9a0503b744833a99c3dd52fd4d286859f20f023cd8c65cd78d79bbb1d3e185ac1b4e844665d48a434897462ad5af1a87eca16f4788ca214e9baf599ab158c04b50d58af09890a424",
+      "first_seen": "2026-04-22T19:18:14+09:00",
+      "last_seen": "2026-04-22T19:18:14+09:00",
+      "is_available": true,
+      "periods": [
+        {
+          "start": "2026-04-22T19:18:14+09:00",
+          "end": null
+        }
+      ]
+    },
+    "FWUY3J/A": {
+      "name": "24インチiMac [整備済製品] 10コアCPUと10コアGPUを搭載したApple M4チップ、ギガビットEthernet - グリーン",
+      "price": 199800,
+      "price_text": "199,800円",
+      "retail_price_text": "¥199,800",
+      "part_number": "FWUY3J/A",
+      "url": "https://www.apple.com/jp/shop/product/fwuy3j/a/24%E3%82%A4%E3%83%B3%E3%83%81imac-%E6%95%B4%E5%82%99%E6%B8%88%E8%A3%BD%E5%93%81-10%E3%82%B3%E3%82%A2cpu%E3%81%A810%E3%82%B3%E3%82%A2gpu%E3%82%92%E6%90%AD%E8%BC%89%E3%81%97%E3%81%9Fapple-m4%E3%83%81%E3%83%83%E3%83%97-%E3%82%AE%E3%82%AC%E3%83%93%E3%83%83%E3%83%88ethernet-%E3%82%B0%E3%83%AA%E3%83%BC%E3%83%B3?fnode=4c714e8d249bc25c9a0503b744833a99c3dd52fd4d286859f20f023cd8c65cd78d79bbb1d3e185ac1b4e844665d48a434897462ad5af1a87eca16f4788ca214e9baf599ab158c04b50d58af09890a424",
+      "first_seen": "2026-04-22T19:18:14+09:00",
+      "last_seen": "2026-04-22T19:18:14+09:00",
+      "is_available": true,
+      "periods": [
+        {
+          "start": "2026-04-22T19:18:14+09:00",
+          "end": null
+        }
+      ]
+    },
+    "FWV13J/A": {
+      "name": "24インチiMac [整備済製品] 10コアCPUと10コアGPUを搭載したApple M4チップ、ギガビットEthernet - ブルー",
+      "price": 199800,
+      "price_text": "199,800円",
+      "retail_price_text": "¥199,800",
+      "part_number": "FWV13J/A",
+      "url": "https://www.apple.com/jp/shop/product/fwv13j/a/24%E3%82%A4%E3%83%B3%E3%83%81imac-%E6%95%B4%E5%82%99%E6%B8%88%E8%A3%BD%E5%93%81-10%E3%82%B3%E3%82%A2cpu%E3%81%A810%E3%82%B3%E3%82%A2gpu%E3%82%92%E6%90%AD%E8%BC%89%E3%81%97%E3%81%9Fapple-m4%E3%83%81%E3%83%83%E3%83%97-%E3%82%AE%E3%82%AC%E3%83%93%E3%83%83%E3%83%88ethernet-%E3%83%96%E3%83%AB%E3%83%BC?fnode=4c714e8d249bc25c9a0503b744833a99c3dd52fd4d286859f20f023cd8c65cd78d79bbb1d3e185ac1b4e844665d48a434897462ad5af1a87eca16f4788ca214e9baf599ab158c04b50d58af09890a424",
+      "first_seen": "2026-04-22T19:18:14+09:00",
+      "last_seen": "2026-04-22T19:18:14+09:00",
+      "is_available": true,
+      "periods": [
+        {
+          "start": "2026-04-22T19:18:14+09:00",
+          "end": null
+        }
+      ]
+    },
+    "FWV43J/A": {
+      "name": "24インチiMac [整備済製品] 10コアCPUと10コアGPUを搭載したApple M4チップ、ギガビットEthernet - ピンク",
+      "price": 199800,
+      "price_text": "199,800円",
+      "retail_price_text": "¥199,800",
+      "part_number": "FWV43J/A",
+      "url": "https://www.apple.com/jp/shop/product/fwv43j/a/24%E3%82%A4%E3%83%B3%E3%83%81imac-%E6%95%B4%E5%82%99%E6%B8%88%E8%A3%BD%E5%93%81-10%E3%82%B3%E3%82%A2cpu%E3%81%A810%E3%82%B3%E3%82%A2gpu%E3%82%92%E6%90%AD%E8%BC%89%E3%81%97%E3%81%9Fapple-m4%E3%83%81%E3%83%83%E3%83%97-%E3%82%AE%E3%82%AC%E3%83%93%E3%83%83%E3%83%88ethernet-%E3%83%94%E3%83%B3%E3%82%AF?fnode=4c714e8d249bc25c9a0503b744833a99c3dd52fd4d286859f20f023cd8c65cd78d79bbb1d3e185ac1b4e844665d48a434897462ad5af1a87eca16f4788ca214e9baf599ab158c04b50d58af09890a424",
+      "first_seen": "2026-04-22T19:18:14+09:00",
+      "last_seen": "2026-04-22T19:18:14+09:00",
+      "is_available": true,
+      "periods": [
+        {
+          "start": "2026-04-22T19:18:14+09:00",
+          "end": null
+        }
+      ]
+    },
+    "G1E44J/A": {
+      "name": "24インチiMac [整備済製品] 8コアCPUと8コアGPUを搭載したApple M4チップ - グリーン",
+      "price": 219800,
+      "price_text": "219,800円",
+      "retail_price_text": "¥219,800",
+      "part_number": "G1E44J/A",
+      "url": "https://www.apple.com/jp/shop/product/g1e44j/a/24%E3%82%A4%E3%83%B3%E3%83%81iMac-%E6%95%B4%E5%82%99%E6%B8%88%E8%A3%BD%E5%93%81-8%E3%82%B3%E3%82%A2CPU%E3%81%A88%E3%82%B3%E3%82%A2GPU%E3%82%92%E6%90%AD%E8%BC%89%E3%81%97%E3%81%9FApple-M4%E3%83%81%E3%83%83%E3%83%97-%E3%82%B0%E3%83%AA%E3%83%BC%E3%83%B3?fnode=4c714e8d249bc25c9a0503b744833a99c3dd52fd4d286859f20f023cd8c65cd78d79bbb1d3e185ac1b4e844665d48a434897462ad5af1a87eca16f4788ca214e9baf599ab158c04b50d58af09890a424",
+      "first_seen": "2026-04-22T19:18:14+09:00",
+      "last_seen": "2026-04-22T19:18:14+09:00",
+      "is_available": true,
+      "periods": [
+        {
+          "start": "2026-04-22T19:18:14+09:00",
+          "end": null
+        }
+      ]
+    },
+    "G1E74J/A": {
+      "name": "24インチiMac [整備済製品] 8コアCPUと8コアGPUを搭載したApple M4チップ - パープル",
+      "price": 219800,
+      "price_text": "219,800円",
+      "retail_price_text": "¥219,800",
+      "part_number": "G1E74J/A",
+      "url": "https://www.apple.com/jp/shop/product/g1e74j/a/24%E3%82%A4%E3%83%B3%E3%83%81iMac-%E6%95%B4%E5%82%99%E6%B8%88%E8%A3%BD%E5%93%81-8%E3%82%B3%E3%82%A2CPU%E3%81%A88%E3%82%B3%E3%82%A2GPU%E3%82%92%E6%90%AD%E8%BC%89%E3%81%97%E3%81%9FApple-M4%E3%83%81%E3%83%83%E3%83%97-%E3%83%91%E3%83%BC%E3%83%97%E3%83%AB?fnode=4c714e8d249bc25c9a0503b744833a99c3dd52fd4d286859f20f023cd8c65cd78d79bbb1d3e185ac1b4e844665d48a434897462ad5af1a87eca16f4788ca214e9baf599ab158c04b50d58af09890a424",
+      "first_seen": "2026-04-22T19:18:14+09:00",
+      "last_seen": "2026-04-22T19:18:14+09:00",
+      "is_available": true,
+      "periods": [
+        {
+          "start": "2026-04-22T19:18:14+09:00",
+          "end": null
+        }
+      ]
+    },
+    "FDE04J/A": {
+      "name": "14インチMacBook Pro [整備済製品] 10コアCPUと10コアGPUを搭載したApple M5チップ - スペースブラック",
+      "price": 223800,
+      "price_text": "223,800円",
+      "retail_price_text": "¥223,800",
+      "part_number": "FDE04J/A",
+      "url": "https://www.apple.com/jp/shop/product/fde04j/a/14%E3%82%A4%E3%83%B3%E3%83%81MacBook-Pro-%E6%95%B4%E5%82%99%E6%B8%88%E8%A3%BD%E5%93%81-10%E3%82%B3%E3%82%A2CPU%E3%81%A810%E3%82%B3%E3%82%A2GPU%E3%82%92%E6%90%AD%E8%BC%89%E3%81%97%E3%81%9FApple-M5%E3%83%81%E3%83%83%E3%83%97-%E3%82%B9%E3%83%9A%E3%83%BC%E3%82%B9%E3%83%96%E3%83%A9%E3%83%83%E3%82%AF?fnode=4c714e8d249bc25c9a0503b744833a99c3dd52fd4d286859f20f023cd8c65cd78d79bbb1d3e185ac1b4e844665d48a434897462ad5af1a87eca16f4788ca214e9baf599ab158c04b50d58af09890a424",
+      "first_seen": "2026-04-22T19:18:14+09:00",
+      "last_seen": "2026-04-22T19:18:14+09:00",
+      "is_available": true,
+      "periods": [
+        {
+          "start": "2026-04-22T19:18:14+09:00",
+          "end": null
+        }
+      ]
+    },
+    "FDE44J/A": {
+      "name": "14インチMacBook Pro [整備済製品] 10コアCPUと10コアGPUを搭載したApple M5チップ - シルバー",
+      "price": 223800,
+      "price_text": "223,800円",
+      "retail_price_text": "¥223,800",
+      "part_number": "FDE44J/A",
+      "url": "https://www.apple.com/jp/shop/product/fde44j/a/14%E3%82%A4%E3%83%B3%E3%83%81MacBook-Pro-%E6%95%B4%E5%82%99%E6%B8%88%E8%A3%BD%E5%93%81-10%E3%82%B3%E3%82%A2CPU%E3%81%A810%E3%82%B3%E3%82%A2GPU%E3%82%92%E6%90%AD%E8%BC%89%E3%81%97%E3%81%9FApple-M5%E3%83%81%E3%83%83%E3%83%97-%E3%82%B7%E3%83%AB%E3%83%90%E3%83%BC?fnode=4c714e8d249bc25c9a0503b744833a99c3dd52fd4d286859f20f023cd8c65cd78d79bbb1d3e185ac1b4e844665d48a434897462ad5af1a87eca16f4788ca214e9baf599ab158c04b50d58af09890a424",
+      "first_seen": "2026-04-22T19:18:14+09:00",
+      "last_seen": "2026-04-22T19:18:14+09:00",
+      "is_available": true,
+      "periods": [
+        {
+          "start": "2026-04-22T19:18:14+09:00",
+          "end": null
+        }
+      ]
+    },
+    "FWUV3J/A": {
+      "name": "24インチiMac [整備済製品] 10コアCPUと10コアGPUを搭載したApple M4チップ、ギガビットEthernet - シルバー",
+      "price": 224800,
+      "price_text": "224,800円",
+      "retail_price_text": "¥224,800",
+      "part_number": "FWUV3J/A",
+      "url": "https://www.apple.com/jp/shop/product/fwuv3j/a/24%E3%82%A4%E3%83%B3%E3%83%81imac-%E6%95%B4%E5%82%99%E6%B8%88%E8%A3%BD%E5%93%81-10%E3%82%B3%E3%82%A2cpu%E3%81%A810%E3%82%B3%E3%82%A2gpu%E3%82%92%E6%90%AD%E8%BC%89%E3%81%97%E3%81%9Fapple-m4%E3%83%81%E3%83%83%E3%83%97-%E3%82%AE%E3%82%AC%E3%83%93%E3%83%83%E3%83%88ethernet-%E3%82%B7%E3%83%AB%E3%83%90%E3%83%BC?fnode=4c714e8d249bc25c9a0503b744833a99c3dd52fd4d286859f20f023cd8c65cd78d79bbb1d3e185ac1b4e844665d48a434897462ad5af1a87eca16f4788ca214e9baf599ab158c04b50d58af09890a424",
+      "first_seen": "2026-04-22T19:18:14+09:00",
+      "last_seen": "2026-04-22T19:18:14+09:00",
+      "is_available": true,
+      "periods": [
+        {
+          "start": "2026-04-22T19:18:14+09:00",
+          "end": null
+        }
+      ]
+    },
+    "FWV03J/A": {
+      "name": "24インチiMac [整備済製品] 10コアCPUと10コアGPUを搭載したApple M4チップ、ギガビットEthernet - グリーン",
+      "price": 224800,
+      "price_text": "224,800円",
+      "retail_price_text": "¥224,800",
+      "part_number": "FWV03J/A",
+      "url": "https://www.apple.com/jp/shop/product/fwv03j/a/24%E3%82%A4%E3%83%B3%E3%83%81imac-%E6%95%B4%E5%82%99%E6%B8%88%E8%A3%BD%E5%93%81-10%E3%82%B3%E3%82%A2cpu%E3%81%A810%E3%82%B3%E3%82%A2gpu%E3%82%92%E6%90%AD%E8%BC%89%E3%81%97%E3%81%9Fapple-m4%E3%83%81%E3%83%83%E3%83%97-%E3%82%AE%E3%82%AC%E3%83%93%E3%83%83%E3%83%88ethernet-%E3%82%B0%E3%83%AA%E3%83%BC%E3%83%B3?fnode=4c714e8d249bc25c9a0503b744833a99c3dd52fd4d286859f20f023cd8c65cd78d79bbb1d3e185ac1b4e844665d48a434897462ad5af1a87eca16f4788ca214e9baf599ab158c04b50d58af09890a424",
+      "first_seen": "2026-04-22T19:18:14+09:00",
+      "last_seen": "2026-04-22T19:18:14+09:00",
+      "is_available": true,
+      "periods": [
+        {
+          "start": "2026-04-22T19:18:14+09:00",
+          "end": null
+        }
+      ]
+    },
+    "FWV33J/A": {
+      "name": "24インチiMac [整備済製品] 10コアCPUと10コアGPUを搭載したApple M4チップ、ギガビットEthernet - ブルー",
+      "price": 224800,
+      "price_text": "224,800円",
+      "retail_price_text": "¥224,800",
+      "part_number": "FWV33J/A",
+      "url": "https://www.apple.com/jp/shop/product/fwv33j/a/24%E3%82%A4%E3%83%B3%E3%83%81imac-%E6%95%B4%E5%82%99%E6%B8%88%E8%A3%BD%E5%93%81-10%E3%82%B3%E3%82%A2cpu%E3%81%A810%E3%82%B3%E3%82%A2gpu%E3%82%92%E6%90%AD%E8%BC%89%E3%81%97%E3%81%9Fapple-m4%E3%83%81%E3%83%83%E3%83%97-%E3%82%AE%E3%82%AC%E3%83%93%E3%83%83%E3%83%88ethernet-%E3%83%96%E3%83%AB%E3%83%BC?fnode=4c714e8d249bc25c9a0503b744833a99c3dd52fd4d286859f20f023cd8c65cd78d79bbb1d3e185ac1b4e844665d48a434897462ad5af1a87eca16f4788ca214e9baf599ab158c04b50d58af09890a424",
+      "first_seen": "2026-04-22T19:18:14+09:00",
+      "last_seen": "2026-04-22T19:18:14+09:00",
+      "is_available": true,
+      "periods": [
+        {
+          "start": "2026-04-22T19:18:14+09:00",
+          "end": null
+        }
+      ]
+    },
+    "G1EH1J/A": {
+      "name": "24インチiMac [整備済製品] 10コアCPUと10コアGPUを搭載したApple M4チップ、ギガビットEthernet、Nano-textureガラス - シルバー",
+      "price": 224800,
+      "price_text": "224,800円",
+      "retail_price_text": "¥224,800",
+      "part_number": "G1EH1J/A",
+      "url": "https://www.apple.com/jp/shop/product/g1eh1j/a/24%E3%82%A4%E3%83%B3%E3%83%81imac-%E6%95%B4%E5%82%99%E6%B8%88%E8%A3%BD%E5%93%81-10%E3%82%B3%E3%82%A2cpu%E3%81%A810%E3%82%B3%E3%82%A2gpu%E3%82%92%E6%90%AD%E8%BC%89%E3%81%97%E3%81%9Fapple-m4%E3%83%81%E3%83%83%E3%83%97-%E3%82%AE%E3%82%AC%E3%83%93%E3%83%83%E3%83%88ethernet-nano-texture%E3%82%AC%E3%83%A9%E3%82%B9-%E3%82%B7%E3%83%AB%E3%83%90%E3%83%BC?fnode=4c714e8d249bc25c9a0503b744833a99c3dd52fd4d286859f20f023cd8c65cd78d79bbb1d3e185ac1b4e844665d48a434897462ad5af1a87eca16f4788ca214e9baf599ab158c04b50d58af09890a424",
+      "first_seen": "2026-04-22T19:18:14+09:00",
+      "last_seen": "2026-04-22T19:18:14+09:00",
+      "is_available": true,
+      "periods": [
+        {
+          "start": "2026-04-22T19:18:14+09:00",
+          "end": null
+        }
+      ]
+    },
+    "G1EP1J/A": {
+      "name": "24インチiMac [整備済製品] 10コアCPUと10コアGPUを搭載したApple M4チップ、ギガビットEthernet、Nano-textureガラス - ブルー",
+      "price": 224800,
+      "price_text": "224,800円",
+      "retail_price_text": "¥224,800",
+      "part_number": "G1EP1J/A",
+      "url": "https://www.apple.com/jp/shop/product/g1ep1j/a/24%E3%82%A4%E3%83%B3%E3%83%81imac-%E6%95%B4%E5%82%99%E6%B8%88%E8%A3%BD%E5%93%81-10%E3%82%B3%E3%82%A2cpu%E3%81%A810%E3%82%B3%E3%82%A2gpu%E3%82%92%E6%90%AD%E8%BC%89%E3%81%97%E3%81%9Fapple-m4%E3%83%81%E3%83%83%E3%83%97-%E3%82%AE%E3%82%AC%E3%83%93%E3%83%83%E3%83%88ethernet-nano-texture%E3%82%AC%E3%83%A9%E3%82%B9-%E3%83%96%E3%83%AB%E3%83%BC?fnode=4c714e8d249bc25c9a0503b744833a99c3dd52fd4d286859f20f023cd8c65cd78d79bbb1d3e185ac1b4e844665d48a434897462ad5af1a87eca16f4788ca214e9baf599ab158c04b50d58af09890a424",
+      "first_seen": "2026-04-22T19:18:14+09:00",
+      "last_seen": "2026-04-22T19:18:14+09:00",
+      "is_available": true,
+      "periods": [
+        {
+          "start": "2026-04-22T19:18:14+09:00",
+          "end": null
+        }
+      ]
+    },
+    "FDE14J/A": {
+      "name": "14インチMacBook Pro [整備済製品] 10コアCPUと10コアGPUを搭載したApple M5チップ - スペースブラック",
+      "price": 234800,
+      "price_text": "234,800円",
+      "retail_price_text": "¥234,800",
+      "part_number": "FDE14J/A",
+      "url": "https://www.apple.com/jp/shop/product/fde14j/a/14%E3%82%A4%E3%83%B3%E3%83%81MacBook-Pro-%E6%95%B4%E5%82%99%E6%B8%88%E8%A3%BD%E5%93%81-10%E3%82%B3%E3%82%A2CPU%E3%81%A810%E3%82%B3%E3%82%A2GPU%E3%82%92%E6%90%AD%E8%BC%89%E3%81%97%E3%81%9FApple-M5%E3%83%81%E3%83%83%E3%83%97-%E3%82%B9%E3%83%9A%E3%83%BC%E3%82%B9%E3%83%96%E3%83%A9%E3%83%83%E3%82%AF?fnode=4c714e8d249bc25c9a0503b744833a99c3dd52fd4d286859f20f023cd8c65cd78d79bbb1d3e185ac1b4e844665d48a434897462ad5af1a87eca16f4788ca214e9baf599ab158c04b50d58af09890a424",
+      "first_seen": "2026-04-22T19:18:14+09:00",
+      "last_seen": "2026-04-22T19:18:14+09:00",
+      "is_available": true,
+      "periods": [
+        {
+          "start": "2026-04-22T19:18:14+09:00",
+          "end": null
+        }
+      ]
+    },
+    "FDE54J/A": {
+      "name": "14インチMacBook Pro [整備済製品] 10コアCPUと10コアGPUを搭載したApple M5チップ - シルバー",
+      "price": 234800,
+      "price_text": "234,800円",
+      "retail_price_text": "¥234,800",
+      "part_number": "FDE54J/A",
+      "url": "https://www.apple.com/jp/shop/product/fde54j/a/14%E3%82%A4%E3%83%B3%E3%83%81MacBook-Pro-%E6%95%B4%E5%82%99%E6%B8%88%E8%A3%BD%E5%93%81-10%E3%82%B3%E3%82%A2CPU%E3%81%A810%E3%82%B3%E3%82%A2GPU%E3%82%92%E6%90%AD%E8%BC%89%E3%81%97%E3%81%9FApple-M5%E3%83%81%E3%83%83%E3%83%97-%E3%82%B7%E3%83%AB%E3%83%90%E3%83%BC?fnode=4c714e8d249bc25c9a0503b744833a99c3dd52fd4d286859f20f023cd8c65cd78d79bbb1d3e185ac1b4e844665d48a434897462ad5af1a87eca16f4788ca214e9baf599ab158c04b50d58af09890a424",
+      "first_seen": "2026-04-22T19:18:14+09:00",
+      "last_seen": "2026-04-22T19:18:14+09:00",
+      "is_available": true,
+      "periods": [
+        {
+          "start": "2026-04-22T19:18:14+09:00",
+          "end": null
+        }
+      ]
+    },
+    "G1KH2J/A": {
+      "name": "14インチMacBook Pro [整備済製品] 10コアCPUと10コアGPUを搭載したApple M5チップ、 Nano-textureディスプレイ - スペースブラック",
+      "price": 242800,
+      "price_text": "242,800円",
+      "retail_price_text": "¥242,800",
+      "part_number": "G1KH2J/A",
+      "url": "https://www.apple.com/jp/shop/product/g1kh2j/a/14%E3%82%A4%E3%83%B3%E3%83%81MacBook-Pro-%E6%95%B4%E5%82%99%E6%B8%88%E8%A3%BD%E5%93%81-10%E3%82%B3%E3%82%A2CPU%E3%81%A810%E3%82%B3%E3%82%A2GPU%E3%82%92%E6%90%AD%E8%BC%89%E3%81%97%E3%81%9FApple-M5%E3%83%81%E3%83%83%E3%83%97-Nano-texture%E3%83%87%E3%82%A3%E3%82%B9%E3%83%97%E3%83%AC%E3%82%A4-%E3%82%B9%E3%83%9A%E3%83%BC%E3%82%B9%E3%83%96%E3%83%A9%E3%83%83%E3%82%AF?fnode=4c714e8d249bc25c9a0503b744833a99c3dd52fd4d286859f20f023cd8c65cd78d79bbb1d3e185ac1b4e844665d48a434897462ad5af1a87eca16f4788ca214e9baf599ab158c04b50d58af09890a424",
+      "first_seen": "2026-04-22T19:18:14+09:00",
+      "last_seen": "2026-04-22T19:18:14+09:00",
+      "is_available": true,
+      "periods": [
+        {
+          "start": "2026-04-22T19:18:14+09:00",
+          "end": null
+        }
+      ]
+    },
+    "G1KL2J/A": {
+      "name": "14インチMacBook Pro [整備済製品] 10コアCPUと10コアGPUを搭載したApple M5チップ、 Nano-textureディスプレイ - シルバー",
+      "price": 242800,
+      "price_text": "242,800円",
+      "retail_price_text": "¥242,800",
+      "part_number": "G1KL2J/A",
+      "url": "https://www.apple.com/jp/shop/product/g1kl2j/a/14%E3%82%A4%E3%83%B3%E3%83%81MacBook-Pro-%E6%95%B4%E5%82%99%E6%B8%88%E8%A3%BD%E5%93%81-10%E3%82%B3%E3%82%A2CPU%E3%81%A810%E3%82%B3%E3%82%A2GPU%E3%82%92%E6%90%AD%E8%BC%89%E3%81%97%E3%81%9FApple-M5%E3%83%81%E3%83%83%E3%83%97-Nano-texture%E3%83%87%E3%82%A3%E3%82%B9%E3%83%97%E3%83%AC%E3%82%A4-%E3%82%B7%E3%83%AB%E3%83%90%E3%83%BC?fnode=4c714e8d249bc25c9a0503b744833a99c3dd52fd4d286859f20f023cd8c65cd78d79bbb1d3e185ac1b4e844665d48a434897462ad5af1a87eca16f4788ca214e9baf599ab158c04b50d58af09890a424",
+      "first_seen": "2026-04-22T19:18:14+09:00",
+      "last_seen": "2026-04-22T19:18:14+09:00",
+      "is_available": true,
+      "periods": [
+        {
+          "start": "2026-04-22T19:18:14+09:00",
+          "end": null
+        }
+      ]
+    },
+    "G1KL0J/A": {
+      "name": "14インチMacBook Pro [整備済製品] 10コアCPUと10コアGPUを搭載したApple M5チップ - シルバー",
+      "price": 248800,
+      "price_text": "248,800円",
+      "retail_price_text": "¥248,800",
+      "part_number": "G1KL0J/A",
+      "url": "https://www.apple.com/jp/shop/product/g1kl0j/a/14%E3%82%A4%E3%83%B3%E3%83%81MacBook-Pro-%E6%95%B4%E5%82%99%E6%B8%88%E8%A3%BD%E5%93%81-10%E3%82%B3%E3%82%A2CPU%E3%81%A810%E3%82%B3%E3%82%A2GPU%E3%82%92%E6%90%AD%E8%BC%89%E3%81%97%E3%81%9FApple-M5%E3%83%81%E3%83%83%E3%83%97-%E3%82%B7%E3%83%AB%E3%83%90%E3%83%BC?fnode=4c714e8d249bc25c9a0503b744833a99c3dd52fd4d286859f20f023cd8c65cd78d79bbb1d3e185ac1b4e844665d48a434897462ad5af1a87eca16f4788ca214e9baf599ab158c04b50d58af09890a424",
+      "first_seen": "2026-04-22T19:18:14+09:00",
+      "last_seen": "2026-04-22T19:18:14+09:00",
+      "is_available": true,
+      "periods": [
+        {
+          "start": "2026-04-22T19:18:14+09:00",
+          "end": null
+        }
+      ]
+    },
+    "FD2Q4J/A": {
+      "name": "24インチiMac [整備済製品] 10コアCPUと10コアGPUを搭載したApple M4チップ、ギガビットEthernet - グリーン",
+      "price": 250800,
+      "price_text": "250,800円",
+      "retail_price_text": "¥250,800",
+      "part_number": "FD2Q4J/A",
+      "url": "https://www.apple.com/jp/shop/product/fd2q4j/a/24%E3%82%A4%E3%83%B3%E3%83%81imac-%E6%95%B4%E5%82%99%E6%B8%88%E8%A3%BD%E5%93%81-10%E3%82%B3%E3%82%A2cpu%E3%81%A810%E3%82%B3%E3%82%A2gpu%E3%82%92%E6%90%AD%E8%BC%89%E3%81%97%E3%81%9Fapple-m4%E3%83%81%E3%83%83%E3%83%97-%E3%82%AE%E3%82%AC%E3%83%93%E3%83%83%E3%83%88ethernet-%E3%82%B0%E3%83%AA%E3%83%BC%E3%83%B3?fnode=4c714e8d249bc25c9a0503b744833a99c3dd52fd4d286859f20f023cd8c65cd78d79bbb1d3e185ac1b4e844665d48a434897462ad5af1a87eca16f4788ca214e9baf599ab158c04b50d58af09890a424",
+      "first_seen": "2026-04-22T19:18:14+09:00",
+      "last_seen": "2026-04-22T19:18:14+09:00",
+      "is_available": true,
+      "periods": [
+        {
+          "start": "2026-04-22T19:18:14+09:00",
+          "end": null
+        }
+      ]
+    },
+    "FD2U4J/A": {
+      "name": "24インチiMac [整備済製品] 10コアCPUと10コアGPUを搭載したApple M4チップ、ギガビットEthernet - ピンク",
+      "price": 250800,
+      "price_text": "250,800円",
+      "retail_price_text": "¥250,800",
+      "part_number": "FD2U4J/A",
+      "url": "https://www.apple.com/jp/shop/product/fd2u4j/a/24%E3%82%A4%E3%83%B3%E3%83%81imac-%E6%95%B4%E5%82%99%E6%B8%88%E8%A3%BD%E5%93%81-10%E3%82%B3%E3%82%A2cpu%E3%81%A810%E3%82%B3%E3%82%A2gpu%E3%82%92%E6%90%AD%E8%BC%89%E3%81%97%E3%81%9Fapple-m4%E3%83%81%E3%83%83%E3%83%97-%E3%82%AE%E3%82%AC%E3%83%93%E3%83%83%E3%83%88ethernet-%E3%83%94%E3%83%B3%E3%82%AF?fnode=4c714e8d249bc25c9a0503b744833a99c3dd52fd4d286859f20f023cd8c65cd78d79bbb1d3e185ac1b4e844665d48a434897462ad5af1a87eca16f4788ca214e9baf599ab158c04b50d58af09890a424",
+      "first_seen": "2026-04-22T19:18:14+09:00",
+      "last_seen": "2026-04-22T19:18:14+09:00",
+      "is_available": true,
+      "periods": [
+        {
+          "start": "2026-04-22T19:18:14+09:00",
+          "end": null
+        }
+      ]
+    },
+    "G1EJ0J/A": {
+      "name": "24インチiMac [整備済製品] 10コアCPUと10コアGPUを搭載したApple M4チップ、ギガビットEthernet - シルバー",
+      "price": 250800,
+      "price_text": "250,800円",
+      "retail_price_text": "¥250,800",
+      "part_number": "G1EJ0J/A",
+      "url": "https://www.apple.com/jp/shop/product/g1ej0j/a/24%E3%82%A4%E3%83%B3%E3%83%81imac-%E6%95%B4%E5%82%99%E6%B8%88%E8%A3%BD%E5%93%81-10%E3%82%B3%E3%82%A2cpu%E3%81%A810%E3%82%B3%E3%82%A2gpu%E3%82%92%E6%90%AD%E8%BC%89%E3%81%97%E3%81%9Fapple-m4%E3%83%81%E3%83%83%E3%83%97-%E3%82%AE%E3%82%AC%E3%83%93%E3%83%83%E3%83%88ethernet-%E3%82%B7%E3%83%AB%E3%83%90%E3%83%BC?fnode=4c714e8d249bc25c9a0503b744833a99c3dd52fd4d286859f20f023cd8c65cd78d79bbb1d3e185ac1b4e844665d48a434897462ad5af1a87eca16f4788ca214e9baf599ab158c04b50d58af09890a424",
+      "first_seen": "2026-04-22T19:18:14+09:00",
+      "last_seen": "2026-04-22T19:18:14+09:00",
+      "is_available": true,
+      "periods": [
+        {
+          "start": "2026-04-22T19:18:14+09:00",
+          "end": null
+        }
+      ]
+    },
+    "G1KJ2J/A": {
+      "name": "14インチMacBook Pro [整備済製品] 10コアCPUと10コアGPUを搭載したApple M5チップ、 Nano-textureディスプレイ - スペースブラック",
+      "price": 253800,
+      "price_text": "253,800円",
+      "retail_price_text": "¥253,800",
+      "part_number": "G1KJ2J/A",
+      "url": "https://www.apple.com/jp/shop/product/g1kj2j/a/14%E3%82%A4%E3%83%B3%E3%83%81MacBook-Pro-%E6%95%B4%E5%82%99%E6%B8%88%E8%A3%BD%E5%93%81-10%E3%82%B3%E3%82%A2CPU%E3%81%A810%E3%82%B3%E3%82%A2GPU%E3%82%92%E6%90%AD%E8%BC%89%E3%81%97%E3%81%9FApple-M5%E3%83%81%E3%83%83%E3%83%97-Nano-texture%E3%83%87%E3%82%A3%E3%82%B9%E3%83%97%E3%83%AC%E3%82%A4-%E3%82%B9%E3%83%9A%E3%83%BC%E3%82%B9%E3%83%96%E3%83%A9%E3%83%83%E3%82%AF?fnode=4c714e8d249bc25c9a0503b744833a99c3dd52fd4d286859f20f023cd8c65cd78d79bbb1d3e185ac1b4e844665d48a434897462ad5af1a87eca16f4788ca214e9baf599ab158c04b50d58af09890a424",
+      "first_seen": "2026-04-22T19:18:14+09:00",
+      "last_seen": "2026-04-22T19:18:14+09:00",
+      "is_available": true,
+      "periods": [
+        {
+          "start": "2026-04-22T19:18:14+09:00",
+          "end": null
+        }
+      ]
+    },
+    "FDE34J/A": {
+      "name": "14インチMacBook Pro [整備済製品] 10コアCPUと10コアGPUを搭載したApple M5チップ - スペースブラック",
+      "price": 259800,
+      "price_text": "259,800円",
+      "retail_price_text": "¥259,800",
+      "part_number": "FDE34J/A",
+      "url": "https://www.apple.com/jp/shop/product/fde34j/a/14%E3%82%A4%E3%83%B3%E3%83%81MacBook-Pro-%E6%95%B4%E5%82%99%E6%B8%88%E8%A3%BD%E5%93%81-10%E3%82%B3%E3%82%A2CPU%E3%81%A810%E3%82%B3%E3%82%A2GPU%E3%82%92%E6%90%AD%E8%BC%89%E3%81%97%E3%81%9FApple-M5%E3%83%81%E3%83%83%E3%83%97-%E3%82%B9%E3%83%9A%E3%83%BC%E3%82%B9%E3%83%96%E3%83%A9%E3%83%83%E3%82%AF?fnode=4c714e8d249bc25c9a0503b744833a99c3dd52fd4d286859f20f023cd8c65cd78d79bbb1d3e185ac1b4e844665d48a434897462ad5af1a87eca16f4788ca214e9baf599ab158c04b50d58af09890a424",
+      "first_seen": "2026-04-22T19:18:14+09:00",
+      "last_seen": "2026-04-22T19:18:14+09:00",
+      "is_available": true,
+      "periods": [
+        {
+          "start": "2026-04-22T19:18:14+09:00",
+          "end": null
+        }
+      ]
+    },
+    "FDE64J/A": {
+      "name": "14インチMacBook Pro [整備済製品] 10コアCPUと10コアGPUを搭載したApple M5チップ - シルバー",
+      "price": 259800,
+      "price_text": "259,800円",
+      "retail_price_text": "¥259,800",
+      "part_number": "FDE64J/A",
+      "url": "https://www.apple.com/jp/shop/product/fde64j/a/14%E3%82%A4%E3%83%B3%E3%83%81MacBook-Pro-%E6%95%B4%E5%82%99%E6%B8%88%E8%A3%BD%E5%93%81-10%E3%82%B3%E3%82%A2CPU%E3%81%A810%E3%82%B3%E3%82%A2GPU%E3%82%92%E6%90%AD%E8%BC%89%E3%81%97%E3%81%9FApple-M5%E3%83%81%E3%83%83%E3%83%97-%E3%82%B7%E3%83%AB%E3%83%90%E3%83%BC?fnode=4c714e8d249bc25c9a0503b744833a99c3dd52fd4d286859f20f023cd8c65cd78d79bbb1d3e185ac1b4e844665d48a434897462ad5af1a87eca16f4788ca214e9baf599ab158c04b50d58af09890a424",
+      "first_seen": "2026-04-22T19:18:14+09:00",
+      "last_seen": "2026-04-22T19:18:14+09:00",
+      "is_available": true,
+      "periods": [
+        {
+          "start": "2026-04-22T19:18:14+09:00",
+          "end": null
+        }
+      ]
+    },
+    "G1K10J/A": {
+      "name": "24インチiMac [整備済製品] 10コアCPUと10コアGPUを搭載したApple M4チップ、ギガビットEthernet - シルバー",
+      "price": 275800,
+      "price_text": "275,800円",
+      "retail_price_text": "¥275,800",
+      "part_number": "G1K10J/A",
+      "url": "https://www.apple.com/jp/shop/product/g1k10j/a/24%E3%82%A4%E3%83%B3%E3%83%81imac-%E6%95%B4%E5%82%99%E6%B8%88%E8%A3%BD%E5%93%81-10%E3%82%B3%E3%82%A2cpu%E3%81%A810%E3%82%B3%E3%82%A2gpu%E3%82%92%E6%90%AD%E8%BC%89%E3%81%97%E3%81%9Fapple-m4%E3%83%81%E3%83%83%E3%83%97-%E3%82%AE%E3%82%AC%E3%83%93%E3%83%83%E3%83%88ethernet-%E3%82%B7%E3%83%AB%E3%83%90%E3%83%BC?fnode=4c714e8d249bc25c9a0503b744833a99c3dd52fd4d286859f20f023cd8c65cd78d79bbb1d3e185ac1b4e844665d48a434897462ad5af1a87eca16f4788ca214e9baf599ab158c04b50d58af09890a424",
+      "first_seen": "2026-04-22T19:18:14+09:00",
+      "last_seen": "2026-04-22T19:18:14+09:00",
+      "is_available": true,
+      "periods": [
+        {
+          "start": "2026-04-22T19:18:14+09:00",
+          "end": null
+        }
+      ]
+    }
+  },
+  "scrape_history": [
+    {
+      "timestamp": "2026-04-22T19:18:14+09:00",
+      "product_count": 30
+    }
+  ]
+}

@@ -1,0 +1,520 @@
+{
+  "products": {
+    "FD4G4J/A": {
+      "name": "iPad（A16）Wi-Fi 256GB - シルバー",
+      "price": 63800,
+      "price_text": "63,800円",
+      "retail_price_text": "¥63,800",
+      "part_number": "FD4G4J/A",
+      "url": "https://www.apple.com/jp/shop/product/fd4g4j/a/iPadA16Wi-Fi-256GB-%E3%82%B7%E3%83%AB%E3%83%90%E3%83%BC-%E6%95%B4%E5%82%99%E6%B8%88%E8%A3%BD%E5%93%81?fnode=2bbe2a9cbed52839239ae1f5dca724d0a7aad03104b36356c6b730d63dda975dbf9458cfe5b0974b998aa8ff119d8d3e4b5d2552b43684702e2615d946026fed9b4fc7d0a98d40df9b1e929b03c79662",
+      "first_seen": "2026-04-22T19:19:08+09:00",
+      "last_seen": "2026-04-22T19:19:08+09:00",
+      "is_available": true,
+      "periods": [
+        {
+          "start": "2026-04-22T19:19:08+09:00",
+          "end": null
+        }
+      ]
+    },
+    "FD4P4J/A": {
+      "name": "iPad（A16）Wi-Fi 256GB - ピンク",
+      "price": 63800,
+      "price_text": "63,800円",
+      "retail_price_text": "¥63,800",
+      "part_number": "FD4P4J/A",
+      "url": "https://www.apple.com/jp/shop/product/fd4p4j/a/iPadA16Wi-Fi-256GB-%E3%83%94%E3%83%B3%E3%82%AF-%E6%95%B4%E5%82%99%E6%B8%88%E8%A3%BD%E5%93%81?fnode=2bbe2a9cbed52839239ae1f5dca724d0a7aad03104b36356c6b730d63dda975dbf9458cfe5b0974b998aa8ff119d8d3e4b5d2552b43684702e2615d946026fed9b4fc7d0a98d40df9b1e929b03c79662",
+      "first_seen": "2026-04-22T19:19:08+09:00",
+      "last_seen": "2026-04-22T19:19:08+09:00",
+      "is_available": true,
+      "periods": [
+        {
+          "start": "2026-04-22T19:19:08+09:00",
+          "end": null
+        }
+      ]
+    },
+    "FQ6J3J/A": {
+      "name": "iPad Wi-Fi + Cellular 64GB - シルバー（第10世代）",
+      "price": 63800,
+      "price_text": "63,800円",
+      "retail_price_text": "¥63,800",
+      "part_number": "FQ6J3J/A",
+      "url": "https://www.apple.com/jp/shop/product/fq6j3j/a/iPad-Wi-Fi-Cellular-64GB-%E3%82%B7%E3%83%AB%E3%83%90%E3%83%BC%E7%AC%AC10%E4%B8%96%E4%BB%A3%E6%95%B4%E5%82%99%E6%B8%88%E8%A3%BD%E5%93%81?fnode=2bbe2a9cbed52839239ae1f5dca724d0a7aad03104b36356c6b730d63dda975dbf9458cfe5b0974b998aa8ff119d8d3e4b5d2552b43684702e2615d946026fed9b4fc7d0a98d40df9b1e929b03c79662",
+      "first_seen": "2026-04-22T19:19:08+09:00",
+      "last_seen": "2026-04-22T19:19:08+09:00",
+      "is_available": true,
+      "periods": [
+        {
+          "start": "2026-04-22T19:19:08+09:00",
+          "end": null
+        }
+      ]
+    },
+    "FQ6T3J/A": {
+      "name": "iPad Wi-Fi + Cellular 256GB - シルバー（第10世代）",
+      "price": 77800,
+      "price_text": "77,800円",
+      "retail_price_text": "¥77,800",
+      "part_number": "FQ6T3J/A",
+      "url": "https://www.apple.com/jp/shop/product/fq6t3j/a/iPad-Wi-Fi-Cellular-256GB-%E3%82%B7%E3%83%AB%E3%83%90%E3%83%BC%E7%AC%AC10%E4%B8%96%E4%BB%A3%E6%95%B4%E5%82%99%E6%B8%88%E8%A3%BD%E5%93%81?fnode=2bbe2a9cbed52839239ae1f5dca724d0a7aad03104b36356c6b730d63dda975dbf9458cfe5b0974b998aa8ff119d8d3e4b5d2552b43684702e2615d946026fed9b4fc7d0a98d40df9b1e929b03c79662",
+      "first_seen": "2026-04-22T19:19:08+09:00",
+      "last_seen": "2026-04-22T19:19:08+09:00",
+      "is_available": true,
+      "periods": [
+        {
+          "start": "2026-04-22T19:19:08+09:00",
+          "end": null
+        }
+      ]
+    },
+    "FQ6V3J/A": {
+      "name": "iPad Wi-Fi + Cellular 256GB - イエロー（第10世代）",
+      "price": 77800,
+      "price_text": "77,800円",
+      "retail_price_text": "¥77,800",
+      "part_number": "FQ6V3J/A",
+      "url": "https://www.apple.com/jp/shop/product/fq6v3j/a/iPad-Wi-Fi-Cellular-256GB-%E3%82%A4%E3%82%A8%E3%83%AD%E3%83%BC%E7%AC%AC10%E4%B8%96%E4%BB%A3%E6%95%B4%E5%82%99%E6%B8%88%E8%A3%BD%E5%93%81?fnode=2bbe2a9cbed52839239ae1f5dca724d0a7aad03104b36356c6b730d63dda975dbf9458cfe5b0974b998aa8ff119d8d3e4b5d2552b43684702e2615d946026fed9b4fc7d0a98d40df9b1e929b03c79662",
+      "first_seen": "2026-04-22T19:19:08+09:00",
+      "last_seen": "2026-04-22T19:19:08+09:00",
+      "is_available": true,
+      "periods": [
+        {
+          "start": "2026-04-22T19:19:08+09:00",
+          "end": null
+        }
+      ]
+    },
+    "FNYC3J/A": {
+      "name": "11インチiPad Pro Wi-Fi + Cellular 128GB - スペースグレイ（第4世代）",
+      "price": 120800,
+      "price_text": "120,800円",
+      "retail_price_text": "¥120,800",
+      "part_number": "FNYC3J/A",
+      "url": "https://www.apple.com/jp/shop/product/fnyc3j/a/11%E3%82%A4%E3%83%B3%E3%83%81iPad-Pro-Wi-Fi-Cellular-128GB-%E3%82%B9%E3%83%9A%E3%83%BC%E3%82%B9%E3%82%B0%E3%83%AC%E3%82%A4%E7%AC%AC4%E4%B8%96%E4%BB%A3%E6%95%B4%E5%82%99%E6%B8%88%E8%A3%BD%E5%93%81?fnode=2bbe2a9cbed52839239ae1f5dca724d0a7aad03104b36356c6b730d63dda975dbf9458cfe5b0974b998aa8ff119d8d3e4b5d2552b43684702e2615d946026fed9b4fc7d0a98d40df9b1e929b03c79662",
+      "first_seen": "2026-04-22T19:19:08+09:00",
+      "last_seen": "2026-04-22T19:19:08+09:00",
+      "is_available": true,
+      "periods": [
+        {
+          "start": "2026-04-22T19:19:08+09:00",
+          "end": null
+        }
+      ]
+    },
+    "FNYD3J/A": {
+      "name": "11インチiPad Pro Wi-Fi + Cellular 128GB - シルバー（第4世代）",
+      "price": 120800,
+      "price_text": "120,800円",
+      "retail_price_text": "¥120,800",
+      "part_number": "FNYD3J/A",
+      "url": "https://www.apple.com/jp/shop/product/fnyd3j/a/11%E3%82%A4%E3%83%B3%E3%83%81iPad-Pro-Wi-Fi-Cellular-128GB-%E3%82%B7%E3%83%AB%E3%83%90%E3%83%BC%E7%AC%AC4%E4%B8%96%E4%BB%A3%E6%95%B4%E5%82%99%E6%B8%88%E8%A3%BD%E5%93%81?fnode=2bbe2a9cbed52839239ae1f5dca724d0a7aad03104b36356c6b730d63dda975dbf9458cfe5b0974b998aa8ff119d8d3e4b5d2552b43684702e2615d946026fed9b4fc7d0a98d40df9b1e929b03c79662",
+      "first_seen": "2026-04-22T19:19:08+09:00",
+      "last_seen": "2026-04-22T19:19:08+09:00",
+      "is_available": true,
+      "periods": [
+        {
+          "start": "2026-04-22T19:19:08+09:00",
+          "end": null
+        }
+      ]
+    },
+    "FVV83J/A": {
+      "name": "11インチiPad Pro（M4）Wi-Fi 256GB（標準ガラス搭載）- スペースブラック",
+      "price": 128800,
+      "price_text": "128,800円",
+      "retail_price_text": "¥128,800",
+      "part_number": "FVV83J/A",
+      "url": "https://www.apple.com/jp/shop/product/fvv83j/a/11%E3%82%A4%E3%83%B3%E3%83%81iPad-ProM4Wi-Fi-256GB%E6%A8%99%E6%BA%96%E3%82%AC%E3%83%A9%E3%82%B9%E6%90%AD%E8%BC%89-%E3%82%B9%E3%83%9A%E3%83%BC%E3%82%B9%E3%83%96%E3%83%A9%E3%83%83%E3%82%AF-%E6%95%B4%E5%82%99%E6%B8%88%E8%A3%BD%E5%93%81?fnode=2bbe2a9cbed52839239ae1f5dca724d0a7aad03104b36356c6b730d63dda975dbf9458cfe5b0974b998aa8ff119d8d3e4b5d2552b43684702e2615d946026fed9b4fc7d0a98d40df9b1e929b03c79662",
+      "first_seen": "2026-04-22T19:19:08+09:00",
+      "last_seen": "2026-04-22T19:19:08+09:00",
+      "is_available": true,
+      "periods": [
+        {
+          "start": "2026-04-22T19:19:08+09:00",
+          "end": null
+        }
+      ]
+    },
+    "FVV93J/A": {
+      "name": "11インチiPad Pro（M4）Wi-Fi 256GB（標準ガラス搭載）- シルバー",
+      "price": 128800,
+      "price_text": "128,800円",
+      "retail_price_text": "¥128,800",
+      "part_number": "FVV93J/A",
+      "url": "https://www.apple.com/jp/shop/product/fvv93j/a/11%E3%82%A4%E3%83%B3%E3%83%81iPad-ProM4Wi-Fi-256GB%E6%A8%99%E6%BA%96%E3%82%AC%E3%83%A9%E3%82%B9%E6%90%AD%E8%BC%89-%E3%82%B7%E3%83%AB%E3%83%90%E3%83%BC-%E6%95%B4%E5%82%99%E6%B8%88%E8%A3%BD%E5%93%81?fnode=2bbe2a9cbed52839239ae1f5dca724d0a7aad03104b36356c6b730d63dda975dbf9458cfe5b0974b998aa8ff119d8d3e4b5d2552b43684702e2615d946026fed9b4fc7d0a98d40df9b1e929b03c79662",
+      "first_seen": "2026-04-22T19:19:08+09:00",
+      "last_seen": "2026-04-22T19:19:08+09:00",
+      "is_available": true,
+      "periods": [
+        {
+          "start": "2026-04-22T19:19:08+09:00",
+          "end": null
+        }
+      ]
+    },
+    "FNYE3J/A": {
+      "name": "11インチiPad Pro Wi-Fi + Cellular 256GB - スペースグレイ（第4世代）",
+      "price": 136800,
+      "price_text": "136,800円",
+      "retail_price_text": "¥136,800",
+      "part_number": "FNYE3J/A",
+      "url": "https://www.apple.com/jp/shop/product/fnye3j/a/11%E3%82%A4%E3%83%B3%E3%83%81iPad-Pro-Wi-Fi-Cellular-256GB-%E3%82%B9%E3%83%9A%E3%83%BC%E3%82%B9%E3%82%B0%E3%83%AC%E3%82%A4%E7%AC%AC4%E4%B8%96%E4%BB%A3%E6%95%B4%E5%82%99%E6%B8%88%E8%A3%BD%E5%93%81?fnode=2bbe2a9cbed52839239ae1f5dca724d0a7aad03104b36356c6b730d63dda975dbf9458cfe5b0974b998aa8ff119d8d3e4b5d2552b43684702e2615d946026fed9b4fc7d0a98d40df9b1e929b03c79662",
+      "first_seen": "2026-04-22T19:19:08+09:00",
+      "last_seen": "2026-04-22T19:19:08+09:00",
+      "is_available": true,
+      "periods": [
+        {
+          "start": "2026-04-22T19:19:08+09:00",
+          "end": null
+        }
+      ]
+    },
+    "FNXH3J/A": {
+      "name": "11インチiPad Pro Wi-Fi 512GB - スペースグレイ（第4世代）",
+      "price": 142800,
+      "price_text": "142,800円",
+      "retail_price_text": "¥142,800",
+      "part_number": "FNXH3J/A",
+      "url": "https://www.apple.com/jp/shop/product/fnxh3j/a/11%E3%82%A4%E3%83%B3%E3%83%81iPad-Pro-Wi-Fi-512GB-%E3%82%B9%E3%83%9A%E3%83%BC%E3%82%B9%E3%82%B0%E3%83%AC%E3%82%A4%E7%AC%AC4%E4%B8%96%E4%BB%A3%E6%95%B4%E5%82%99%E6%B8%88%E8%A3%BD%E5%93%81?fnode=2bbe2a9cbed52839239ae1f5dca724d0a7aad03104b36356c6b730d63dda975dbf9458cfe5b0974b998aa8ff119d8d3e4b5d2552b43684702e2615d946026fed9b4fc7d0a98d40df9b1e929b03c79662",
+      "first_seen": "2026-04-22T19:19:08+09:00",
+      "last_seen": "2026-04-22T19:19:08+09:00",
+      "is_available": true,
+      "periods": [
+        {
+          "start": "2026-04-22T19:19:08+09:00",
+          "end": null
+        }
+      ]
+    },
+    "FNXJ3J/A": {
+      "name": "11インチiPad Pro Wi-Fi 512GB - シルバー（第4世代）",
+      "price": 142800,
+      "price_text": "142,800円",
+      "retail_price_text": "¥142,800",
+      "part_number": "FNXJ3J/A",
+      "url": "https://www.apple.com/jp/shop/product/fnxj3j/a/11%E3%82%A4%E3%83%B3%E3%83%81iPad-Pro-Wi-Fi-512GB-%E3%82%B7%E3%83%AB%E3%83%90%E3%83%BC%E7%AC%AC4%E4%B8%96%E4%BB%A3%E6%95%B4%E5%82%99%E6%B8%88%E8%A3%BD%E5%93%81?fnode=2bbe2a9cbed52839239ae1f5dca724d0a7aad03104b36356c6b730d63dda975dbf9458cfe5b0974b998aa8ff119d8d3e4b5d2552b43684702e2615d946026fed9b4fc7d0a98d40df9b1e929b03c79662",
+      "first_seen": "2026-04-22T19:19:08+09:00",
+      "last_seen": "2026-04-22T19:19:08+09:00",
+      "is_available": true,
+      "periods": [
+        {
+          "start": "2026-04-22T19:19:08+09:00",
+          "end": null
+        }
+      ]
+    },
+    "FVVC3J/A": {
+      "name": "11インチiPad Pro（M4）Wi-Fi 512GB（標準ガラス搭載）- スペースブラック",
+      "price": 159800,
+      "price_text": "159,800円",
+      "retail_price_text": "¥159,800",
+      "part_number": "FVVC3J/A",
+      "url": "https://www.apple.com/jp/shop/product/fvvc3j/a/11%E3%82%A4%E3%83%B3%E3%83%81iPad-ProM4Wi-Fi-512GB%E6%A8%99%E6%BA%96%E3%82%AC%E3%83%A9%E3%82%B9%E6%90%AD%E8%BC%89-%E3%82%B9%E3%83%9A%E3%83%BC%E3%82%B9%E3%83%96%E3%83%A9%E3%83%83%E3%82%AF-%E6%95%B4%E5%82%99%E6%B8%88%E8%A3%BD%E5%93%81?fnode=2bbe2a9cbed52839239ae1f5dca724d0a7aad03104b36356c6b730d63dda975dbf9458cfe5b0974b998aa8ff119d8d3e4b5d2552b43684702e2615d946026fed9b4fc7d0a98d40df9b1e929b03c79662",
+      "first_seen": "2026-04-22T19:19:08+09:00",
+      "last_seen": "2026-04-22T19:19:08+09:00",
+      "is_available": true,
+      "periods": [
+        {
+          "start": "2026-04-22T19:19:08+09:00",
+          "end": null
+        }
+      ]
+    },
+    "FVW13J/A": {
+      "name": "11インチiPad Pro（M4）Wi-Fi + Cellular 256GB（標準ガラス搭載）- スペースブラック",
+      "price": 159800,
+      "price_text": "159,800円",
+      "retail_price_text": "¥159,800",
+      "part_number": "FVW13J/A",
+      "url": "https://www.apple.com/jp/shop/product/fvw13j/a/11%E3%82%A4%E3%83%B3%E3%83%81iPad-ProM4Wi-Fi-Cellular-256GB%E6%A8%99%E6%BA%96%E3%82%AC%E3%83%A9%E3%82%B9%E6%90%AD%E8%BC%89-%E3%82%B9%E3%83%9A%E3%83%BC%E3%82%B9%E3%83%96%E3%83%A9%E3%83%83%E3%82%AF-%E6%95%B4%E5%82%99%E6%B8%88%E8%A3%BD%E5%93%81?fnode=2bbe2a9cbed52839239ae1f5dca724d0a7aad03104b36356c6b730d63dda975dbf9458cfe5b0974b998aa8ff119d8d3e4b5d2552b43684702e2615d946026fed9b4fc7d0a98d40df9b1e929b03c79662",
+      "first_seen": "2026-04-22T19:19:08+09:00",
+      "last_seen": "2026-04-22T19:19:08+09:00",
+      "is_available": true,
+      "periods": [
+        {
+          "start": "2026-04-22T19:19:08+09:00",
+          "end": null
+        }
+      ]
+    },
+    "FVW23J/A": {
+      "name": "11インチiPad Pro（M4）Wi-Fi + Cellular 256GB（標準ガラス搭載）- シルバー",
+      "price": 159800,
+      "price_text": "159,800円",
+      "retail_price_text": "¥159,800",
+      "part_number": "FVW23J/A",
+      "url": "https://www.apple.com/jp/shop/product/fvw23j/a/11%E3%82%A4%E3%83%B3%E3%83%81iPad-ProM4Wi-Fi-Cellular-256GB%E6%A8%99%E6%BA%96%E3%82%AC%E3%83%A9%E3%82%B9%E6%90%AD%E8%BC%89-%E3%82%B7%E3%83%AB%E3%83%90%E3%83%BC-%E6%95%B4%E5%82%99%E6%B8%88%E8%A3%BD%E5%93%81?fnode=2bbe2a9cbed52839239ae1f5dca724d0a7aad03104b36356c6b730d63dda975dbf9458cfe5b0974b998aa8ff119d8d3e4b5d2552b43684702e2615d946026fed9b4fc7d0a98d40df9b1e929b03c79662",
+      "first_seen": "2026-04-22T19:19:08+09:00",
+      "last_seen": "2026-04-22T19:19:08+09:00",
+      "is_available": true,
+      "periods": [
+        {
+          "start": "2026-04-22T19:19:08+09:00",
+          "end": null
+        }
+      ]
+    },
+    "FP1X3J/A": {
+      "name": "12.9インチiPad Pro Wi-Fi + Cellular 128GB - スペースグレイ（第6世代）",
+      "price": 164800,
+      "price_text": "164,800円",
+      "retail_price_text": "¥164,800",
+      "part_number": "FP1X3J/A",
+      "url": "https://www.apple.com/jp/shop/product/fp1x3j/a/129%E3%82%A4%E3%83%B3%E3%83%81iPad-Pro-Wi-Fi-Cellular-128GB-%E3%82%B9%E3%83%9A%E3%83%BC%E3%82%B9%E3%82%B0%E3%83%AC%E3%82%A4%E7%AC%AC6%E4%B8%96%E4%BB%A3%E6%95%B4%E5%82%99%E6%B8%88%E8%A3%BD%E5%93%81?fnode=2bbe2a9cbed52839239ae1f5dca724d0a7aad03104b36356c6b730d63dda975dbf9458cfe5b0974b998aa8ff119d8d3e4b5d2552b43684702e2615d946026fed9b4fc7d0a98d40df9b1e929b03c79662",
+      "first_seen": "2026-04-22T19:19:08+09:00",
+      "last_seen": "2026-04-22T19:19:08+09:00",
+      "is_available": true,
+      "periods": [
+        {
+          "start": "2026-04-22T19:19:08+09:00",
+          "end": null
+        }
+      ]
+    },
+    "FP1Y3J/A": {
+      "name": "12.9インチiPad Pro Wi-Fi + Cellular 128GB - シルバー（第6世代）",
+      "price": 164800,
+      "price_text": "164,800円",
+      "retail_price_text": "¥164,800",
+      "part_number": "FP1Y3J/A",
+      "url": "https://www.apple.com/jp/shop/product/fp1y3j/a/129%E3%82%A4%E3%83%B3%E3%83%81ipad-pro-wi-fi-cellular-128gb-%E3%82%B7%E3%83%AB%E3%83%90%E3%83%BC-%E7%AC%AC6%E4%B8%96%E4%BB%A3-%E6%95%B4%E5%82%99%E6%B8%88%E8%A3%BD%E5%93%81?fnode=2bbe2a9cbed52839239ae1f5dca724d0a7aad03104b36356c6b730d63dda975dbf9458cfe5b0974b998aa8ff119d8d3e4b5d2552b43684702e2615d946026fed9b4fc7d0a98d40df9b1e929b03c79662",
+      "first_seen": "2026-04-22T19:19:08+09:00",
+      "last_seen": "2026-04-22T19:19:08+09:00",
+      "is_available": true,
+      "periods": [
+        {
+          "start": "2026-04-22T19:19:08+09:00",
+          "end": null
+        }
+      ]
+    },
+    "FNYG3J/A": {
+      "name": "11インチiPad Pro Wi-Fi + Cellular 512GB - スペースグレイ（第4世代）",
+      "price": 166800,
+      "price_text": "166,800円",
+      "retail_price_text": "¥166,800",
+      "part_number": "FNYG3J/A",
+      "url": "https://www.apple.com/jp/shop/product/fnyg3j/a/11%E3%82%A4%E3%83%B3%E3%83%81iPad-Pro-Wi-Fi-Cellular-512GB-%E3%82%B9%E3%83%9A%E3%83%BC%E3%82%B9%E3%82%B0%E3%83%AC%E3%82%A4%E7%AC%AC4%E4%B8%96%E4%BB%A3%E6%95%B4%E5%82%99%E6%B8%88%E8%A3%BD%E5%93%81?fnode=2bbe2a9cbed52839239ae1f5dca724d0a7aad03104b36356c6b730d63dda975dbf9458cfe5b0974b998aa8ff119d8d3e4b5d2552b43684702e2615d946026fed9b4fc7d0a98d40df9b1e929b03c79662",
+      "first_seen": "2026-04-22T19:19:08+09:00",
+      "last_seen": "2026-04-22T19:19:08+09:00",
+      "is_available": true,
+      "periods": [
+        {
+          "start": "2026-04-22T19:19:08+09:00",
+          "end": null
+        }
+      ]
+    },
+    "FNYH3J/A": {
+      "name": "11インチiPad Pro Wi-Fi + Cellular 512GB - シルバー（第4世代）",
+      "price": 166800,
+      "price_text": "166,800円",
+      "retail_price_text": "¥166,800",
+      "part_number": "FNYH3J/A",
+      "url": "https://www.apple.com/jp/shop/product/fnyh3j/a/11%E3%82%A4%E3%83%B3%E3%83%81iPad-Pro-Wi-Fi-Cellular-512GB-%E3%82%B7%E3%83%AB%E3%83%90%E3%83%BC%E7%AC%AC4%E4%B8%96%E4%BB%A3%E6%95%B4%E5%82%99%E6%B8%88%E8%A3%BD%E5%93%81?fnode=2bbe2a9cbed52839239ae1f5dca724d0a7aad03104b36356c6b730d63dda975dbf9458cfe5b0974b998aa8ff119d8d3e4b5d2552b43684702e2615d946026fed9b4fc7d0a98d40df9b1e929b03c79662",
+      "first_seen": "2026-04-22T19:19:08+09:00",
+      "last_seen": "2026-04-22T19:19:08+09:00",
+      "is_available": true,
+      "periods": [
+        {
+          "start": "2026-04-22T19:19:08+09:00",
+          "end": null
+        }
+      ]
+    },
+    "FVX23J/A": {
+      "name": "13インチiPad Pro（M4）Wi-Fi 256GB（標準ガラス搭載）- スペースブラック",
+      "price": 171800,
+      "price_text": "171,800円",
+      "retail_price_text": "¥171,800",
+      "part_number": "FVX23J/A",
+      "url": "https://www.apple.com/jp/shop/product/fvx23j/a/13%E3%82%A4%E3%83%B3%E3%83%81iPad-ProM4Wi-Fi-256GB%E6%A8%99%E6%BA%96%E3%82%AC%E3%83%A9%E3%82%B9%E6%90%AD%E8%BC%89-%E3%82%B9%E3%83%9A%E3%83%BC%E3%82%B9%E3%83%96%E3%83%A9%E3%83%83%E3%82%AF-%E6%95%B4%E5%82%99%E6%B8%88%E8%A3%BD%E5%93%81?fnode=2bbe2a9cbed52839239ae1f5dca724d0a7aad03104b36356c6b730d63dda975dbf9458cfe5b0974b998aa8ff119d8d3e4b5d2552b43684702e2615d946026fed9b4fc7d0a98d40df9b1e929b03c79662",
+      "first_seen": "2026-04-22T19:19:08+09:00",
+      "last_seen": "2026-04-22T19:19:08+09:00",
+      "is_available": true,
+      "periods": [
+        {
+          "start": "2026-04-22T19:19:08+09:00",
+          "end": null
+        }
+      ]
+    },
+    "FVX33J/A": {
+      "name": "13インチiPad Pro（M4）Wi-Fi 256GB（標準ガラス搭載）- シルバー",
+      "price": 171800,
+      "price_text": "171,800円",
+      "retail_price_text": "¥171,800",
+      "part_number": "FVX33J/A",
+      "url": "https://www.apple.com/jp/shop/product/fvx33j/a/13%E3%82%A4%E3%83%B3%E3%83%81iPad-ProM4Wi-Fi-256GB%E6%A8%99%E6%BA%96%E3%82%AC%E3%83%A9%E3%82%B9%E6%90%AD%E8%BC%89-%E3%82%B7%E3%83%AB%E3%83%90%E3%83%BC-%E6%95%B4%E5%82%99%E6%B8%88%E8%A3%BD%E5%93%81?fnode=2bbe2a9cbed52839239ae1f5dca724d0a7aad03104b36356c6b730d63dda975dbf9458cfe5b0974b998aa8ff119d8d3e4b5d2552b43684702e2615d946026fed9b4fc7d0a98d40df9b1e929b03c79662",
+      "first_seen": "2026-04-22T19:19:08+09:00",
+      "last_seen": "2026-04-22T19:19:08+09:00",
+      "is_available": true,
+      "periods": [
+        {
+          "start": "2026-04-22T19:19:08+09:00",
+          "end": null
+        }
+      ]
+    },
+    "FCGC4J/A": {
+      "name": "11インチiPad Air（M3）Wi-Fi + Cellular 1TB - パープル",
+      "price": 172800,
+      "price_text": "172,800円",
+      "retail_price_text": "¥172,800",
+      "part_number": "FCGC4J/A",
+      "url": "https://www.apple.com/jp/shop/product/fcgc4j/a/11%E3%82%A4%E3%83%B3%E3%83%81iPad-AirM3Wi-Fi-Cellular-1TB-%E3%83%91%E3%83%BC%E3%83%97%E3%83%AB-%E6%95%B4%E5%82%99%E6%B8%88%E8%A3%BD%E5%93%81?fnode=2bbe2a9cbed52839239ae1f5dca724d0a7aad03104b36356c6b730d63dda975dbf9458cfe5b0974b998aa8ff119d8d3e4b5d2552b43684702e2615d946026fed9b4fc7d0a98d40df9b1e929b03c79662",
+      "first_seen": "2026-04-22T19:19:08+09:00",
+      "last_seen": "2026-04-22T19:19:08+09:00",
+      "is_available": true,
+      "periods": [
+        {
+          "start": "2026-04-22T19:19:08+09:00",
+          "end": null
+        }
+      ]
+    },
+    "FP203J/A": {
+      "name": "12.9インチiPad Pro Wi-Fi + Cellular 256GB - スペースグレイ（第6世代）",
+      "price": 177800,
+      "price_text": "177,800円",
+      "retail_price_text": "¥177,800",
+      "part_number": "FP203J/A",
+      "url": "https://www.apple.com/jp/shop/product/fp203j/a/129%E3%82%A4%E3%83%B3%E3%83%81ipad-pro-wi-fi-cellular-256gb-%E3%82%B9%E3%83%9A%E3%83%BC%E3%82%B9%E3%82%B0%E3%83%AC%E3%82%A4-%E7%AC%AC6%E4%B8%96%E4%BB%A3-%E6%95%B4%E5%82%99%E6%B8%88%E8%A3%BD%E5%93%81?fnode=2bbe2a9cbed52839239ae1f5dca724d0a7aad03104b36356c6b730d63dda975dbf9458cfe5b0974b998aa8ff119d8d3e4b5d2552b43684702e2615d946026fed9b4fc7d0a98d40df9b1e929b03c79662",
+      "first_seen": "2026-04-22T19:19:08+09:00",
+      "last_seen": "2026-04-22T19:19:08+09:00",
+      "is_available": true,
+      "periods": [
+        {
+          "start": "2026-04-22T19:19:08+09:00",
+          "end": null
+        }
+      ]
+    },
+    "FVW33J/A": {
+      "name": "11インチiPad Pro（M4）Wi-Fi + Cellular 512GB（標準ガラス搭載）- スペースブラック",
+      "price": 189800,
+      "price_text": "189,800円",
+      "retail_price_text": "¥189,800",
+      "part_number": "FVW33J/A",
+      "url": "https://www.apple.com/jp/shop/product/fvw33j/a/11%E3%82%A4%E3%83%B3%E3%83%81iPad-ProM4Wi-Fi-Cellular-512GB%E6%A8%99%E6%BA%96%E3%82%AC%E3%83%A9%E3%82%B9%E6%90%AD%E8%BC%89-%E3%82%B9%E3%83%9A%E3%83%BC%E3%82%B9%E3%83%96%E3%83%A9%E3%83%83%E3%82%AF-%E6%95%B4%E5%82%99%E6%B8%88%E8%A3%BD%E5%93%81?fnode=2bbe2a9cbed52839239ae1f5dca724d0a7aad03104b36356c6b730d63dda975dbf9458cfe5b0974b998aa8ff119d8d3e4b5d2552b43684702e2615d946026fed9b4fc7d0a98d40df9b1e929b03c79662",
+      "first_seen": "2026-04-22T19:19:08+09:00",
+      "last_seen": "2026-04-22T19:19:08+09:00",
+      "is_available": true,
+      "periods": [
+        {
+          "start": "2026-04-22T19:19:08+09:00",
+          "end": null
+        }
+      ]
+    },
+    "FVW43J/A": {
+      "name": "11インチiPad Pro（M4）Wi-Fi + Cellular 512GB（標準ガラス搭載）- シルバー",
+      "price": 189800,
+      "price_text": "189,800円",
+      "retail_price_text": "¥189,800",
+      "part_number": "FVW43J/A",
+      "url": "https://www.apple.com/jp/shop/product/fvw43j/a/11%E3%82%A4%E3%83%B3%E3%83%81iPad-ProM4Wi-Fi-Cellular-512GB%E6%A8%99%E6%BA%96%E3%82%AC%E3%83%A9%E3%82%B9%E6%90%AD%E8%BC%89-%E3%82%B7%E3%83%AB%E3%83%90%E3%83%BC-%E6%95%B4%E5%82%99%E6%B8%88%E8%A3%BD%E5%93%81?fnode=2bbe2a9cbed52839239ae1f5dca724d0a7aad03104b36356c6b730d63dda975dbf9458cfe5b0974b998aa8ff119d8d3e4b5d2552b43684702e2615d946026fed9b4fc7d0a98d40df9b1e929b03c79662",
+      "first_seen": "2026-04-22T19:19:08+09:00",
+      "last_seen": "2026-04-22T19:19:08+09:00",
+      "is_available": true,
+      "periods": [
+        {
+          "start": "2026-04-22T19:19:08+09:00",
+          "end": null
+        }
+      ]
+    },
+    "FNXK3J/A": {
+      "name": "11インチiPad Pro Wi-Fi 1TB - スペースグレイ（第4世代）",
+      "price": 200800,
+      "price_text": "200,800円",
+      "retail_price_text": "¥200,800",
+      "part_number": "FNXK3J/A",
+      "url": "https://www.apple.com/jp/shop/product/fnxk3j/a/11%E3%82%A4%E3%83%B3%E3%83%81iPad-Pro-Wi-Fi-1TB-%E3%82%B9%E3%83%9A%E3%83%BC%E3%82%B9%E3%82%B0%E3%83%AC%E3%82%A4%E7%AC%AC4%E4%B8%96%E4%BB%A3%E6%95%B4%E5%82%99%E6%B8%88%E8%A3%BD%E5%93%81?fnode=2bbe2a9cbed52839239ae1f5dca724d0a7aad03104b36356c6b730d63dda975dbf9458cfe5b0974b998aa8ff119d8d3e4b5d2552b43684702e2615d946026fed9b4fc7d0a98d40df9b1e929b03c79662",
+      "first_seen": "2026-04-22T19:19:08+09:00",
+      "last_seen": "2026-04-22T19:19:08+09:00",
+      "is_available": true,
+      "periods": [
+        {
+          "start": "2026-04-22T19:19:08+09:00",
+          "end": null
+        }
+      ]
+    },
+    "FNXL3J/A": {
+      "name": "11インチiPad Pro Wi-Fi 1TB - シルバー（第4世代）",
+      "price": 200800,
+      "price_text": "200,800円",
+      "retail_price_text": "¥200,800",
+      "part_number": "FNXL3J/A",
+      "url": "https://www.apple.com/jp/shop/product/fnxl3j/a/11%E3%82%A4%E3%83%B3%E3%83%81iPad-Pro-Wi-Fi-1TB-%E3%82%B7%E3%83%AB%E3%83%90%E3%83%BC%E7%AC%AC4%E4%B8%96%E4%BB%A3%E6%95%B4%E5%82%99%E6%B8%88%E8%A3%BD%E5%93%81?fnode=2bbe2a9cbed52839239ae1f5dca724d0a7aad03104b36356c6b730d63dda975dbf9458cfe5b0974b998aa8ff119d8d3e4b5d2552b43684702e2615d946026fed9b4fc7d0a98d40df9b1e929b03c79662",
+      "first_seen": "2026-04-22T19:19:08+09:00",
+      "last_seen": "2026-04-22T19:19:08+09:00",
+      "is_available": true,
+      "periods": [
+        {
+          "start": "2026-04-22T19:19:08+09:00",
+          "end": null
+        }
+      ]
+    },
+    "FVX43J/A": {
+      "name": "13インチiPad Pro（M4）Wi-Fi 512GB（標準ガラス搭載）- スペースブラック",
+      "price": 201800,
+      "price_text": "201,800円",
+      "retail_price_text": "¥201,800",
+      "part_number": "FVX43J/A",
+      "url": "https://www.apple.com/jp/shop/product/fvx43j/a/13%E3%82%A4%E3%83%B3%E3%83%81iPad-ProM4Wi-Fi-512GB%E6%A8%99%E6%BA%96%E3%82%AC%E3%83%A9%E3%82%B9%E6%90%AD%E8%BC%89-%E3%82%B9%E3%83%9A%E3%83%BC%E3%82%B9%E3%83%96%E3%83%A9%E3%83%83%E3%82%AF-%E6%95%B4%E5%82%99%E6%B8%88%E8%A3%BD%E5%93%81?fnode=2bbe2a9cbed52839239ae1f5dca724d0a7aad03104b36356c6b730d63dda975dbf9458cfe5b0974b998aa8ff119d8d3e4b5d2552b43684702e2615d946026fed9b4fc7d0a98d40df9b1e929b03c79662",
+      "first_seen": "2026-04-22T19:19:08+09:00",
+      "last_seen": "2026-04-22T19:19:08+09:00",
+      "is_available": true,
+      "periods": [
+        {
+          "start": "2026-04-22T19:19:08+09:00",
+          "end": null
+        }
+      ]
+    },
+    "FVX53J/A": {
+      "name": "13インチiPad Pro（M4）Wi-Fi 512GB（標準ガラス搭載）- シルバー",
+      "price": 201800,
+      "price_text": "201,800円",
+      "retail_price_text": "¥201,800",
+      "part_number": "FVX53J/A",
+      "url": "https://www.apple.com/jp/shop/product/fvx53j/a/13%E3%82%A4%E3%83%B3%E3%83%81iPad-ProM4Wi-Fi-512GB%E6%A8%99%E6%BA%96%E3%82%AC%E3%83%A9%E3%82%B9%E6%90%AD%E8%BC%89-%E3%82%B7%E3%83%AB%E3%83%90%E3%83%BC-%E6%95%B4%E5%82%99%E6%B8%88%E8%A3%BD%E5%93%81?fnode=2bbe2a9cbed52839239ae1f5dca724d0a7aad03104b36356c6b730d63dda975dbf9458cfe5b0974b998aa8ff119d8d3e4b5d2552b43684702e2615d946026fed9b4fc7d0a98d40df9b1e929b03c79662",
+      "first_seen": "2026-04-22T19:19:08+09:00",
+      "last_seen": "2026-04-22T19:19:08+09:00",
+      "is_available": true,
+      "periods": [
+        {
+          "start": "2026-04-22T19:19:08+09:00",
+          "end": null
+        }
+      ]
+    },
+    "FVXR3J/A": {
+      "name": "13インチiPad Pro（M4）Wi-Fi + Cellular 256GB（標準ガラス搭載）- スペースブラック",
+      "price": 201800,
+      "price_text": "201,800円",
+      "retail_price_text": "¥201,800",
+      "part_number": "FVXR3J/A",
+      "url": "https://www.apple.com/jp/shop/product/fvxr3j/a/13%E3%82%A4%E3%83%B3%E3%83%81iPad-ProM4Wi-Fi-Cellular-256GB%E6%A8%99%E6%BA%96%E3%82%AC%E3%83%A9%E3%82%B9%E6%90%AD%E8%BC%89-%E3%82%B9%E3%83%9A%E3%83%BC%E3%82%B9%E3%83%96%E3%83%A9%E3%83%83%E3%82%AF-%E6%95%B4%E5%82%99%E6%B8%88%E8%A3%BD%E5%93%81?fnode=2bbe2a9cbed52839239ae1f5dca724d0a7aad03104b36356c6b730d63dda975dbf9458cfe5b0974b998aa8ff119d8d3e4b5d2552b43684702e2615d946026fed9b4fc7d0a98d40df9b1e929b03c79662",
+      "first_seen": "2026-04-22T19:19:08+09:00",
+      "last_seen": "2026-04-22T19:19:08+09:00",
+      "is_available": true,
+      "periods": [
+        {
+          "start": "2026-04-22T19:19:08+09:00",
+          "end": null
+        }
+      ]
+    }
+  },
+  "scrape_history": [
+    {
+      "timestamp": "2026-04-22T19:19:08+09:00",
+      "product_count": 30
+    }
+  ]
+}
