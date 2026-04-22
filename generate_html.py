@@ -247,8 +247,7 @@ def generate(data: dict) -> str:
     </svg>
     <h1>整備済 iPhone 掲載履歴</h1>
     <div class="meta">
-      最終更新: {last_updated}<br>
-      スクレイプ回数: {total_scrapes}回
+      最終更新: {last_updated}
     </div>
   </header>
 
