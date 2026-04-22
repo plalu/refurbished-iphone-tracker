@@ -139,7 +139,7 @@ CSS = """
     .price-row { display: flex; flex-direction: column; gap: 2px; }
     .price-refurb { font-size: 1rem; font-weight: 700; color: #1d1d1f; }
     .price-retail { font-size: 0.75rem; color: #6e6e73; }
-    .price-retail span { text-decoration: line-through; }
+    .price-retail span { text-decoration: none; }
     .price-discount {
       font-size: 0.7rem;
       font-weight: 600;
@@ -217,7 +217,7 @@ def product_card(p: dict, available: bool) -> str:
             if retail_num > refurb_num > 0:
                 pct = round((retail_num - refurb_num) / retail_num * 100)
                 discount_html = f'<span class="price-discount">-{pct}%</span>'
-            retail_html = f'定価 <span>{retail}</span>{discount_html}'
+            retail_html = f'定価: <span>{retail}</span>{discount_html}'
             price_html = f"""<div class="price-row">
             <span class="price-refurb">{p['price_text']}</span>
             <span class="price-retail">{retail_html}</span>
