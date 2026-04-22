@@ -18,7 +18,7 @@ if sys.stderr.encoding != "utf-8":
 from datetime import datetime, timezone, timedelta
 from pathlib import Path
 
-from playwright.async_api import async_playwright
+from playwright.async_api import async_playwright, Browser
 
 JST = timezone(timedelta(hours=9))
 BASE_DIR = Path(__file__).parent
@@ -37,7 +37,6 @@ def now_jst() -> str:
 
 def load_data(category: str) -> dict:
     path = DATA_DIR / f"{category}.json"
-    # legacy: products.json -> iphone.json
     if category == "iphone" and not path.exists():
         legacy = DATA_DIR / "products.json"
         if legacy.exists():
@@ -68,43 +67,113 @@ def extract_part_number(url: str) -> str:
     return ""
 
 
-async def scrape_products(url: str) -> list[dict]:
-    async with async_playwright() as p:
-        browser = await p.chromium.launch(headless=True)
-        context = await browser.new_context(locale="ja-JP")
-        page = await context.new_page()
+async def scrape_products(url: str, browser: Browser) -> list[dict]:
+    """整備済ページから商品リストを取得する"""
+    context = await browser.new_context(locale="ja-JP")
+    page = await context.new_page()
 
-        print(f"ページを取得中: {url}")
-        await page.goto(url, wait_until="networkidle", timeout=45000)
+    print(f"ページを取得中: {url}")
+    await page.goto(url, wait_until="networkidle", timeout=45000)
 
-        try:
-            await page.wait_for_selector("li[class*='refurb'] a[href*='/product/']", timeout=10000)
-        except Exception:
-            pass
+    try:
+        await page.wait_for_selector("li[class*='refurb'] a[href*='/product/']", timeout=10000)
+    except Exception:
+        pass
 
-        items = await page.evaluate("""
+    items = await page.evaluate("""
+    () => {
+        const results = [];
+        const liItems = document.querySelectorAll("li[class*='refurb']");
+        liItems.forEach(li => {
+            const link = li.querySelector("a[data-part-number]");
+            if (!link) return;
+            const partNumber = link.getAttribute("data-part-number") || "";
+            const rawName = link.innerText.trim().replace(/\u00a0/g, " ");
+            const name = rawName.replace(/\[整備済製品\]$/, "").trim();
+            const priceEl = li.querySelector("span.rf-refurb-producttile-currentprice");
+            const priceText = priceEl ? priceEl.innerText.trim() : "";
+            const priceNum = parseInt(priceText.replace(/[^0-9]/g, ""), 10) || 0;
+            if (partNumber && name) {
+                results.push({ name, price_text: priceText, price: priceNum, part_number: partNumber, url: link.href });
+            }
+        });
+        return results;
+    }
+    """)
+
+    await context.close()
+    return items
+
+
+async def fetch_retail_price(url: str, browser: Browser) -> str:
+    """Apple商品ページから定価（新品価格）を取得する"""
+    if not url:
+        return ""
+    context = await browser.new_context(locale="ja-JP")
+    page = await context.new_page()
+    try:
+        await page.goto(url, wait_until="domcontentloaded", timeout=25000)
+
+        result = await page.evaluate("""
         () => {
-            const results = [];
-            const liItems = document.querySelectorAll("li[class*='refurb']");
-            liItems.forEach(li => {
-                const link = li.querySelector("a[data-part-number]");
-                if (!link) return;
-                const partNumber = link.getAttribute("data-part-number") || "";
-                const rawName = link.innerText.trim().replace(/\u00a0/g, " ");
-                const name = rawName.replace(/\[整備済製品\]$/, "").trim();
-                const priceEl = li.querySelector("span.rf-refurb-producttile-currentprice");
-                const priceText = priceEl ? priceEl.innerText.trim() : "";
-                const priceNum = parseInt(priceText.replace(/[^0-9]/g, ""), 10) || 0;
-                if (partNumber && name) {
-                    results.push({ name, price_text: priceText, price: priceNum, part_number: partNumber, url: link.href });
-                }
-            });
-            return results;
+            // JSON-LD structured data を確認
+            for (const script of document.querySelectorAll('script[type="application/ld+json"]')) {
+                try {
+                    const data = JSON.parse(script.textContent);
+                    const extract = (obj) => {
+                        if (!obj || typeof obj !== 'object') return null;
+                        if (obj['@type'] === 'Product' && obj.offers) {
+                            const offers = Array.isArray(obj.offers) ? obj.offers : [obj.offers];
+                            for (const offer of offers) {
+                                const p = parseInt(offer.price);
+                                if (p > 0) return '¥' + p.toLocaleString('ja-JP');
+                            }
+                        }
+                        return null;
+                    };
+                    const items = Array.isArray(data) ? data : [data];
+                    for (const item of items) {
+                        const found = extract(item);
+                        if (found) return found;
+                    }
+                } catch(e) {}
+            }
+
+            // ページ内の価格要素を探す（複数セレクタを試す）
+            const selectors = [
+                '[data-autom="full-price"]',
+                '[data-autom="original-price"]',
+                '.rc-prices-fullPrice',
+                '.as-price-fullPrice',
+                'span[class*="fullprice"]',
+                'span[class*="full-price"]',
+                'span[class*="original"]',
+            ];
+            for (const sel of selectors) {
+                const el = document.querySelector(sel);
+                if (el && el.innerText.includes('¥')) return el.innerText.trim();
+            }
+
+            // __NEXT_DATA__ などのページ埋め込みJSONを確認
+            const nextData = document.getElementById('__NEXT_DATA__');
+            if (nextData) {
+                try {
+                    const json = JSON.parse(nextData.textContent);
+                    const str = JSON.stringify(json);
+                    const m = str.match(/"fullPrice"\s*:\s*"?([\d]+)"?/);
+                    if (m) return '¥' + parseInt(m[1]).toLocaleString('ja-JP');
+                } catch(e) {}
+            }
+
+            return "";
         }
         """)
-
-        await browser.close()
-        return items
+        return result or ""
+    except Exception as e:
+        print(f"  定価取得エラー: {e}")
+        return ""
+    finally:
+        await context.close()
 
 
 def update_records(data: dict, scraped: list[dict], timestamp: str) -> dict:
@@ -122,6 +191,7 @@ def update_records(data: dict, scraped: list[dict], timestamp: str) -> dict:
                 "name": item["name"],
                 "price": item["price"],
                 "price_text": item.get("price_text", ""),
+                "retail_price_text": item.get("retail_price_text", ""),
                 "part_number": part,
                 "url": item.get("url", ""),
                 "first_seen": timestamp,
@@ -129,7 +199,7 @@ def update_records(data: dict, scraped: list[dict], timestamp: str) -> dict:
                 "is_available": True,
                 "periods": [{"start": timestamp, "end": None}],
             }
-            print(f"  [新規] {item['name']} ({part}) - {item.get('price_text', '')}")
+            print(f"  [新規] {item['name']} ({part}) - {item.get('price_text', '')} / 定価: {item.get('retail_price_text', '—')}")
         else:
             existing = products[part]
             if not existing["is_available"]:
@@ -142,6 +212,9 @@ def update_records(data: dict, scraped: list[dict], timestamp: str) -> dict:
             existing["last_seen"] = timestamp
             existing["price"] = item["price"]
             existing["price_text"] = item.get("price_text", "")
+            # 定価は一度取得できたら上書きしない
+            if item.get("retail_price_text") and not existing.get("retail_price_text"):
+                existing["retail_price_text"] = item["retail_price_text"]
 
     for part, product in products.items():
         if product["is_available"] and part not in scraped_parts:
@@ -164,23 +237,41 @@ async def main():
         print(f"不明なカテゴリ: {category}。有効: {list(CATEGORIES.keys())}", file=sys.stderr)
         sys.exit(1)
 
-    url = CATEGORIES[category]
     timestamp = now_jst()
     print(f"[{category}] スクレイピング開始: {timestamp}")
 
-    try:
-        scraped = await scrape_products(url)
-    except Exception as e:
-        print(f"エラー: {e}", file=sys.stderr)
-        sys.exit(1)
+    async with async_playwright() as p:
+        browser = await p.chromium.launch(headless=True)
 
-    print(f"取得件数: {len(scraped)} 件")
+        try:
+            scraped = await scrape_products(CATEGORIES[category], browser)
+        except Exception as e:
+            print(f"エラー: {e}", file=sys.stderr)
+            await browser.close()
+            sys.exit(1)
 
-    if len(scraped) == 0:
-        print("警告: 商品が0件でした。データは更新しません。", file=sys.stderr)
-        sys.exit(1)
+        print(f"取得件数: {len(scraped)} 件")
+        if len(scraped) == 0:
+            print("警告: 商品が0件でした。データは更新しません。", file=sys.stderr)
+            await browser.close()
+            sys.exit(1)
 
-    data = load_data(category)
+        # 定価が未取得の商品を対象に取得する
+        data = load_data(category)
+        existing_products = data.get("products", {})
+        for item in scraped:
+            part = item.get("part_number")
+            already_has = existing_products.get(part, {}).get("retail_price_text", "")
+            if not already_has and item.get("url"):
+                print(f"  定価を取得中: {item['name']}")
+                item["retail_price_text"] = await fetch_retail_price(item["url"], browser)
+                if item["retail_price_text"]:
+                    print(f"    → {item['retail_price_text']}")
+                else:
+                    print(f"    → 取得できませんでした")
+
+        await browser.close()
+
     data = update_records(data, scraped, timestamp)
     save_data(data, category)
     print(f"データを保存しました: data/{category}.json")

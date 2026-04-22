@@ -136,6 +136,19 @@ CSS = """
       color: #a1a1a6;
     }
     footer a { color: #a1a1a6; }
+    .price-row { display: flex; flex-direction: column; gap: 2px; }
+    .price-refurb { font-size: 1rem; font-weight: 700; color: #1d1d1f; }
+    .price-retail { font-size: 0.75rem; color: #6e6e73; }
+    .price-retail span { text-decoration: line-through; }
+    .price-discount {
+      font-size: 0.7rem;
+      font-weight: 600;
+      color: #1a7f37;
+      background: #d1f0da;
+      border-radius: 4px;
+      padding: 1px 5px;
+      margin-left: 4px;
+    }
 """
 
 
@@ -194,7 +207,23 @@ def product_card(p: dict, available: bool) -> str:
         f'<a href="{url}" target="_blank" rel="noopener">{p["name"]}</a>'
         if url else p["name"]
     )
-    price_html = f'<span class="price">{p["price_text"]}</span>' if p.get("price_text") else ""
+    price_html = ""
+    if p.get("price_text"):
+        retail = p.get("retail_price_text", "")
+        discount_html = ""
+        if retail:
+            refurb_num = p.get("price", 0)
+            retail_num = int(retail.replace("¥", "").replace(",", "")) if retail else 0
+            if retail_num > refurb_num > 0:
+                pct = round((retail_num - refurb_num) / retail_num * 100)
+                discount_html = f'<span class="price-discount">-{pct}%</span>'
+            retail_html = f'定価 <span>{retail}</span>{discount_html}'
+            price_html = f"""<div class="price-row">
+            <span class="price-refurb">{p['price_text']}</span>
+            <span class="price-retail">{retail_html}</span>
+          </div>"""
+        else:
+            price_html = f'<span class="price-refurb">{p["price_text"]}</span>'
 
     return f"""
     <div class="card {"card-available" if available else "card-ended"}">
