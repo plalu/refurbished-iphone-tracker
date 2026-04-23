@@ -7,14 +7,19 @@
       "part_number": "FTMJ3J/A",
       "url": "https://www.apple.com/jp/shop/product/ftmj3j/a/iphone-15-128gb-%E3%83%94%E3%83%B3%E3%82%AF-SIM%E3%83%95%E3%83%AA%E3%83%BC-%E6%95%B4%E5%82%99%E6%B8%88%E8%A3%BD%E5%93%81?fnode=d291c180856e4ed0d36f7d735c775e91cf55754e6a64357d4702120dd25643f683aada16f2917ff912432f099153e96cca3cf5564a3d7f3edf5a011bc560e7820841fcca154000c3acb803581910333ac3ac126dc8c86dff34081e864cae9f08",
       "first_seen": "2026-04-20T21:12:05+09:00",
-      "last_seen": "2026-04-22T01:09:39+09:00",
-      "is_available": false,
+      "last_seen": "2026-04-23T14:28:26+09:00",
+      "is_available": true,
       "periods": [
         {
           "start": "2026-04-20T21:12:05+09:00",
           "end": "2026-04-22T06:43:30+09:00"
+        },
+        {
+          "start": "2026-04-23T14:28:26+09:00",
+          "end": null
         }
-      ]
+      ],
+      "retail_price_text": "¥82,800"
     },
     "FTMK3J/A": {
       "name": "iPhone 15 128GB - イエロー（SIMフリー）",
@@ -23,7 +28,7 @@
       "part_number": "FTMK3J/A",
       "url": "https://www.apple.com/jp/shop/product/ftmk3j/a/iphone-15-128gb-%E3%82%A4%E3%82%A8%E3%83%AD%E3%83%BC-SIM%E3%83%95%E3%83%AA%E3%83%BC-%E6%95%B4%E5%82%99%E6%B8%88%E8%A3%BD%E5%93%81?fnode=d291c180856e4ed0d36f7d735c775e91cf55754e6a64357d4702120dd25643f683aada16f2917ff912432f099153e96cca3cf5564a3d7f3edf5a011bc560e7820841fcca154000c3acb803581910333ac3ac126dc8c86dff34081e864cae9f08",
       "first_seen": "2026-04-20T21:12:05+09:00",
-      "last_seen": "2026-04-23T06:49:09+09:00",
+      "last_seen": "2026-04-23T14:28:26+09:00",
       "is_available": true,
       "periods": [
         {
@@ -40,14 +45,19 @@
       "part_number": "FTMM3J/A",
       "url": "https://www.apple.com/jp/shop/product/ftmm3j/a/iphone-15-128gb-%E3%82%B0%E3%83%AA%E3%83%BC%E3%83%B3-SIM%E3%83%95%E3%83%AA%E3%83%BC-%E6%95%B4%E5%82%99%E6%B8%88%E8%A3%BD%E5%93%81?fnode=d291c180856e4ed0d36f7d735c775e91cf55754e6a64357d4702120dd25643f683aada16f2917ff912432f099153e96cca3cf5564a3d7f3edf5a011bc560e7820841fcca154000c3acb803581910333ac3ac126dc8c86dff34081e864cae9f08",
       "first_seen": "2026-04-20T21:12:05+09:00",
-      "last_seen": "2026-04-22T14:23:59+09:00",
-      "is_available": false,
+      "last_seen": "2026-04-23T14:28:26+09:00",
+      "is_available": true,
       "periods": [
         {
           "start": "2026-04-20T21:12:05+09:00",
           "end": "2026-04-22T19:18:04+09:00"
+        },
+        {
+          "start": "2026-04-23T14:28:26+09:00",
+          "end": null
         }
-      ]
+      ],
+      "retail_price_text": "¥82,800"
     },
     "FTU73J/A": {
       "name": "iPhone 15 Pro 128GB - ブラックチタニウム（SIMフリー）",
@@ -56,7 +66,7 @@
       "part_number": "FTU73J/A",
       "url": "https://www.apple.com/jp/shop/product/ftu73j/a/iphone-15-pro-128gb-%E3%83%96%E3%83%A9%E3%83%83%E3%82%AF%E3%83%81%E3%82%BF%E3%83%8B%E3%82%A6%E3%83%A0-SIM%E3%83%95%E3%83%AA%E3%83%BC-%E6%95%B4%E5%82%99%E6%B8%88%E8%A3%BD%E5%93%81?fnode=d291c180856e4ed0d36f7d735c775e91cf55754e6a64357d4702120dd25643f683aada16f2917ff912432f099153e96cca3cf5564a3d7f3edf5a011bc560e7820841fcca154000c3acb803581910333ac3ac126dc8c86dff34081e864cae9f08",
       "first_seen": "2026-04-20T21:12:05+09:00",
-      "last_seen": "2026-04-23T06:49:09+09:00",
+      "last_seen": "2026-04-23T14:28:26+09:00",
       "is_available": true,
       "periods": [
         {
@@ -73,7 +83,7 @@
       "part_number": "FU6Y3J/A",
       "url": "https://www.apple.com/jp/shop/product/fu6y3j/a/iphone-15-pro-max-1tb-%E3%83%96%E3%83%A9%E3%83%83%E3%82%AF%E3%83%81%E3%82%BF%E3%83%8B%E3%82%A6%E3%83%A0-SIM%E3%83%95%E3%83%AA%E3%83%BC-%E6%95%B4%E5%82%99%E6%B8%88%E8%A3%BD%E5%93%81?fnode=d291c180856e4ed0d36f7d735c775e91cf55754e6a64357d4702120dd25643f683aada16f2917ff912432f099153e96cca3cf5564a3d7f3edf5a011bc560e7820841fcca154000c3acb803581910333ac3ac126dc8c86dff34081e864cae9f08",
       "first_seen": "2026-04-20T21:12:05+09:00",
-      "last_seen": "2026-04-23T06:49:09+09:00",
+      "last_seen": "2026-04-23T14:28:26+09:00",
       "is_available": true,
       "periods": [
         {
@@ -90,7 +100,7 @@
       "part_number": "FU703J/A",
       "url": "https://www.apple.com/jp/shop/product/fu703j/a/iphone-15-pro-max-1tb-%E3%83%9B%E3%83%AF%E3%82%A4%E3%83%88%E3%83%81%E3%82%BF%E3%83%8B%E3%82%A6%E3%83%A0-SIM%E3%83%95%E3%83%AA%E3%83%BC-%E6%95%B4%E5%82%99%E6%B8%88%E8%A3%BD%E5%93%81?fnode=d291c180856e4ed0d36f7d735c775e91cf55754e6a64357d4702120dd25643f683aada16f2917ff912432f099153e96cca3cf5564a3d7f3edf5a011bc560e7820841fcca154000c3acb803581910333ac3ac126dc8c86dff34081e864cae9f08",
       "first_seen": "2026-04-20T21:12:05+09:00",
-      "last_seen": "2026-04-23T06:49:09+09:00",
+      "last_seen": "2026-04-23T14:28:26+09:00",
       "is_available": true,
       "periods": [
         {
@@ -107,7 +117,7 @@
       "part_number": "FU713J/A",
       "url": "https://www.apple.com/jp/shop/product/fu713j/a/iphone-15-pro-max-1tb-%E3%83%8A%E3%83%81%E3%83%A5%E3%83%A9%E3%83%AB%E3%83%81%E3%82%BF%E3%83%8B%E3%82%A6%E3%83%A0-SIM%E3%83%95%E3%83%AA%E3%83%BC-%E6%95%B4%E5%82%99%E6%B8%88%E8%A3%BD%E5%93%81?fnode=d291c180856e4ed0d36f7d735c775e91cf55754e6a64357d4702120dd25643f683aada16f2917ff912432f099153e96cca3cf5564a3d7f3edf5a011bc560e7820841fcca154000c3acb803581910333ac3ac126dc8c86dff34081e864cae9f08",
       "first_seen": "2026-04-20T21:12:05+09:00",
-      "last_seen": "2026-04-23T06:49:09+09:00",
+      "last_seen": "2026-04-23T14:28:26+09:00",
       "is_available": true,
       "periods": [
         {
@@ -116,6 +126,295 @@
         }
       ],
       "retail_price_text": "¥196,800"
+    },
+    "FTMH3J/A": {
+      "name": "iPhone 15 128GB - ブラック（SIMフリー）",
+      "price": 82800,
+      "price_text": "82,800円",
+      "retail_price_text": "¥82,800",
+      "part_number": "FTMH3J/A",
+      "url": "https://www.apple.com/jp/shop/product/ftmh3j/a/Iphone-15-128GB-%E3%83%96%E3%83%A9%E3%83%83%E3%82%AF-SIM%E3%83%95%E3%83%AA%E3%83%BC-%E6%95%B4%E5%82%99%E6%B8%88%E8%A3%BD%E5%93%81?fnode=a6b94eaee6e5c61e7ba01f6977c5329b5fda1b6ede61f310c5879dd1211619a89c55eda4b02320247f6bf4e1eaf10a1c3db2761ea1555c385bd897d15666b6a366f2a7aad7b1cb00f39dc2f812c1663e21dfb1f32e93caadfdc3cad0850c93ea",
+      "first_seen": "2026-04-23T14:28:26+09:00",
+      "last_seen": "2026-04-23T14:28:26+09:00",
+      "is_available": true,
+      "periods": [
+        {
+          "start": "2026-04-23T14:28:26+09:00",
+          "end": null
+        }
+      ]
+    },
+    "FTML3J/A": {
+      "name": "iPhone 15 128GB - ブルー（SIMフリー）",
+      "price": 82800,
+      "price_text": "82,800円",
+      "retail_price_text": "¥82,800",
+      "part_number": "FTML3J/A",
+      "url": "https://www.apple.com/jp/shop/product/ftml3j/a/iphone-15-128gb-%E3%83%96%E3%83%AB%E3%83%BC-SIM%E3%83%95%E3%83%AA%E3%83%BC-%E6%95%B4%E5%82%99%E6%B8%88%E8%A3%BD%E5%93%81?fnode=a6b94eaee6e5c61e7ba01f6977c5329b5fda1b6ede61f310c5879dd1211619a89c55eda4b02320247f6bf4e1eaf10a1c3db2761ea1555c385bd897d15666b6a366f2a7aad7b1cb00f39dc2f812c1663e21dfb1f32e93caadfdc3cad0850c93ea",
+      "first_seen": "2026-04-23T14:28:26+09:00",
+      "last_seen": "2026-04-23T14:28:26+09:00",
+      "is_available": true,
+      "periods": [
+        {
+          "start": "2026-04-23T14:28:26+09:00",
+          "end": null
+        }
+      ]
+    },
+    "FTMQ3J/A": {
+      "name": "iPhone 15 256GB - イエロー（SIMフリー）",
+      "price": 95800,
+      "price_text": "95,800円",
+      "retail_price_text": "¥95,800",
+      "part_number": "FTMQ3J/A",
+      "url": "https://www.apple.com/jp/shop/product/ftmq3j/a/iphone-15-256gb-%E3%82%A4%E3%82%A8%E3%83%AD%E3%83%BC-SIM%E3%83%95%E3%83%AA%E3%83%BC-%E6%95%B4%E5%82%99%E6%B8%88%E8%A3%BD%E5%93%81?fnode=a6b94eaee6e5c61e7ba01f6977c5329b5fda1b6ede61f310c5879dd1211619a89c55eda4b02320247f6bf4e1eaf10a1c3db2761ea1555c385bd897d15666b6a366f2a7aad7b1cb00f39dc2f812c1663e21dfb1f32e93caadfdc3cad0850c93ea",
+      "first_seen": "2026-04-23T14:28:26+09:00",
+      "last_seen": "2026-04-23T14:28:26+09:00",
+      "is_available": true,
+      "periods": [
+        {
+          "start": "2026-04-23T14:28:26+09:00",
+          "end": null
+        }
+      ]
+    },
+    "FTMU3J/A": {
+      "name": "iPhone 15 512GB - ブラック（SIMフリー）",
+      "price": 125800,
+      "price_text": "125,800円",
+      "retail_price_text": "¥125,800",
+      "part_number": "FTMU3J/A",
+      "url": "https://www.apple.com/jp/shop/product/ftmu3j/a/iphone-15-512gb-%E3%83%96%E3%83%A9%E3%83%83%E3%82%AF-SIM%E3%83%95%E3%83%AA%E3%83%BC-%E6%95%B4%E5%82%99%E6%B8%88%E8%A3%BD%E5%93%81?fnode=a6b94eaee6e5c61e7ba01f6977c5329b5fda1b6ede61f310c5879dd1211619a89c55eda4b02320247f6bf4e1eaf10a1c3db2761ea1555c385bd897d15666b6a366f2a7aad7b1cb00f39dc2f812c1663e21dfb1f32e93caadfdc3cad0850c93ea",
+      "first_seen": "2026-04-23T14:28:26+09:00",
+      "last_seen": "2026-04-23T14:28:26+09:00",
+      "is_available": true,
+      "periods": [
+        {
+          "start": "2026-04-23T14:28:26+09:00",
+          "end": null
+        }
+      ]
+    },
+    "FTMX3J/A": {
+      "name": "iPhone 15 512GB - ブルー（SIMフリー）",
+      "price": 125800,
+      "price_text": "125,800円",
+      "retail_price_text": "¥125,800",
+      "part_number": "FTMX3J/A",
+      "url": "https://www.apple.com/jp/shop/product/ftmx3j/a/iphone-15-512gb-%E3%83%96%E3%83%AB%E3%83%BC-SIM%E3%83%95%E3%83%AA%E3%83%BC-%E6%95%B4%E5%82%99%E6%B8%88%E8%A3%BD%E5%93%81?fnode=a6b94eaee6e5c61e7ba01f6977c5329b5fda1b6ede61f310c5879dd1211619a89c55eda4b02320247f6bf4e1eaf10a1c3db2761ea1555c385bd897d15666b6a366f2a7aad7b1cb00f39dc2f812c1663e21dfb1f32e93caadfdc3cad0850c93ea",
+      "first_seen": "2026-04-23T14:28:26+09:00",
+      "last_seen": "2026-04-23T14:28:26+09:00",
+      "is_available": true,
+      "periods": [
+        {
+          "start": "2026-04-23T14:28:26+09:00",
+          "end": null
+        }
+      ]
+    },
+    "FTUH3J/A": {
+      "name": "iPhone 15 Pro 512GB - ブラックチタニウム（SIMフリー）",
+      "price": 153800,
+      "price_text": "153,800円",
+      "retail_price_text": "¥153,800",
+      "part_number": "FTUH3J/A",
+      "url": "https://www.apple.com/jp/shop/product/ftuh3j/a/iphone-15-pro-512gb-%E3%83%96%E3%83%A9%E3%83%83%E3%82%AF%E3%83%81%E3%82%BF%E3%83%8B%E3%82%A6%E3%83%A0-SIM%E3%83%95%E3%83%AA%E3%83%BC-%E6%95%B4%E5%82%99%E6%B8%88%E8%A3%BD%E5%93%81?fnode=a6b94eaee6e5c61e7ba01f6977c5329b5fda1b6ede61f310c5879dd1211619a89c55eda4b02320247f6bf4e1eaf10a1c3db2761ea1555c385bd897d15666b6a366f2a7aad7b1cb00f39dc2f812c1663e21dfb1f32e93caadfdc3cad0850c93ea",
+      "first_seen": "2026-04-23T14:28:26+09:00",
+      "last_seen": "2026-04-23T14:28:26+09:00",
+      "is_available": true,
+      "periods": [
+        {
+          "start": "2026-04-23T14:28:26+09:00",
+          "end": null
+        }
+      ]
+    },
+    "FTUK3J/A": {
+      "name": "iPhone 15 Pro 512GB - ナチュラルチタニウム（SIMフリー）",
+      "price": 153800,
+      "price_text": "153,800円",
+      "retail_price_text": "¥153,800",
+      "part_number": "FTUK3J/A",
+      "url": "https://www.apple.com/jp/shop/product/ftuk3j/a/iphone-15-pro-512gb-%E3%83%8A%E3%83%81%E3%83%A5%E3%83%A9%E3%83%AB%E3%83%81%E3%82%BF%E3%83%8B%E3%82%A6%E3%83%A0-SIM%E3%83%95%E3%83%AA%E3%83%BC-%E6%95%B4%E5%82%99%E6%B8%88%E8%A3%BD%E5%93%81?fnode=a6b94eaee6e5c61e7ba01f6977c5329b5fda1b6ede61f310c5879dd1211619a89c55eda4b02320247f6bf4e1eaf10a1c3db2761ea1555c385bd897d15666b6a366f2a7aad7b1cb00f39dc2f812c1663e21dfb1f32e93caadfdc3cad0850c93ea",
+      "first_seen": "2026-04-23T14:28:26+09:00",
+      "last_seen": "2026-04-23T14:28:26+09:00",
+      "is_available": true,
+      "periods": [
+        {
+          "start": "2026-04-23T14:28:26+09:00",
+          "end": null
+        }
+      ]
+    },
+    "FU6U3J/A": {
+      "name": "iPhone 15 Pro Max 512GB - ブラックチタニウム（SIMフリー）",
+      "price": 166800,
+      "price_text": "166,800円",
+      "retail_price_text": "¥166,800",
+      "part_number": "FU6U3J/A",
+      "url": "https://www.apple.com/jp/shop/product/fu6u3j/a/iphone-15-pro-max-512gb-%E3%83%96%E3%83%A9%E3%83%83%E3%82%AF%E3%83%81%E3%82%BF%E3%83%8B%E3%82%A6%E3%83%A0-SIM%E3%83%95%E3%83%AA%E3%83%BC-%E6%95%B4%E5%82%99%E6%B8%88%E8%A3%BD%E5%93%81?fnode=a6b94eaee6e5c61e7ba01f6977c5329b5fda1b6ede61f310c5879dd1211619a89c55eda4b02320247f6bf4e1eaf10a1c3db2761ea1555c385bd897d15666b6a366f2a7aad7b1cb00f39dc2f812c1663e21dfb1f32e93caadfdc3cad0850c93ea",
+      "first_seen": "2026-04-23T14:28:26+09:00",
+      "last_seen": "2026-04-23T14:28:26+09:00",
+      "is_available": true,
+      "periods": [
+        {
+          "start": "2026-04-23T14:28:26+09:00",
+          "end": null
+        }
+      ]
+    },
+    "FYWL3J/A": {
+      "name": "iPhone 16 Pro Max 512GB - ブラックチタニウム（SIMフリー）",
+      "price": 181800,
+      "price_text": "181,800円",
+      "retail_price_text": "¥181,800",
+      "part_number": "FYWL3J/A",
+      "url": "https://www.apple.com/jp/shop/product/fywl3j/a/iphone-16-pro-max-512gb-%E3%83%96%E3%83%A9%E3%83%83%E3%82%AF%E3%83%81%E3%82%BF%E3%83%8B%E3%82%A6%E3%83%A0-sim%E3%83%95%E3%83%AA%E3%83%BC%E6%95%B4%E5%82%99%E6%B8%88%E8%A3%BD%E5%93%81?fnode=a6b94eaee6e5c61e7ba01f6977c5329b5fda1b6ede61f310c5879dd1211619a89c55eda4b02320247f6bf4e1eaf10a1c3db2761ea1555c385bd897d15666b6a366f2a7aad7b1cb00f39dc2f812c1663e21dfb1f32e93caadfdc3cad0850c93ea",
+      "first_seen": "2026-04-23T14:28:26+09:00",
+      "last_seen": "2026-04-23T14:28:26+09:00",
+      "is_available": true,
+      "periods": [
+        {
+          "start": "2026-04-23T14:28:26+09:00",
+          "end": null
+        }
+      ]
+    },
+    "FYWM3J/A": {
+      "name": "iPhone 16 Pro Max 512GB - ホワイトチタニウム（SIMフリー）",
+      "price": 181800,
+      "price_text": "181,800円",
+      "retail_price_text": "¥181,800",
+      "part_number": "FYWM3J/A",
+      "url": "https://www.apple.com/jp/shop/product/fywm3j/a/iphone-16-pro-max-512gb-%E3%83%9B%E3%83%AF%E3%82%A4%E3%83%88%E3%83%81%E3%82%BF%E3%83%8B%E3%82%A6%E3%83%A0-sim%E3%83%95%E3%83%AA%E3%83%BC%E6%95%B4%E5%82%99%E6%B8%88%E8%A3%BD%E5%93%81?fnode=a6b94eaee6e5c61e7ba01f6977c5329b5fda1b6ede61f310c5879dd1211619a89c55eda4b02320247f6bf4e1eaf10a1c3db2761ea1555c385bd897d15666b6a366f2a7aad7b1cb00f39dc2f812c1663e21dfb1f32e93caadfdc3cad0850c93ea",
+      "first_seen": "2026-04-23T14:28:26+09:00",
+      "last_seen": "2026-04-23T14:28:26+09:00",
+      "is_available": true,
+      "periods": [
+        {
+          "start": "2026-04-23T14:28:26+09:00",
+          "end": null
+        }
+      ]
+    },
+    "FYWN3J/A": {
+      "name": "iPhone 16 Pro Max 512GB - デザートチタニウム（SIMフリー）",
+      "price": 181800,
+      "price_text": "181,800円",
+      "retail_price_text": "¥181,800",
+      "part_number": "FYWN3J/A",
+      "url": "https://www.apple.com/jp/shop/product/fywn3j/a/iphone-16-pro-max-512gb-%E3%83%87%E3%82%B6%E3%83%BC%E3%83%88%E3%83%81%E3%82%BF%E3%83%8B%E3%82%A6%E3%83%A0-sim%E3%83%95%E3%83%AA%E3%83%BC%E6%95%B4%E5%82%99%E6%B8%88%E8%A3%BD%E5%93%81?fnode=a6b94eaee6e5c61e7ba01f6977c5329b5fda1b6ede61f310c5879dd1211619a89c55eda4b02320247f6bf4e1eaf10a1c3db2761ea1555c385bd897d15666b6a366f2a7aad7b1cb00f39dc2f812c1663e21dfb1f32e93caadfdc3cad0850c93ea",
+      "first_seen": "2026-04-23T14:28:26+09:00",
+      "last_seen": "2026-04-23T14:28:26+09:00",
+      "is_available": true,
+      "periods": [
+        {
+          "start": "2026-04-23T14:28:26+09:00",
+          "end": null
+        }
+      ]
+    },
+    "FYWP3J/A": {
+      "name": "iPhone 16 Pro Max 512GB - ナチュラルチタニウム（SIMフリー）",
+      "price": 181800,
+      "price_text": "181,800円",
+      "retail_price_text": "¥181,800",
+      "part_number": "FYWP3J/A",
+      "url": "https://www.apple.com/jp/shop/product/fywp3j/a/iphone-16-pro-max-512gb-%E3%83%8A%E3%83%81%E3%83%A5%E3%83%A9%E3%83%AB%E3%83%81%E3%82%BF%E3%83%8B%E3%82%A6%E3%83%A0-sim%E3%83%95%E3%83%AA%E3%83%BC%E6%95%B4%E5%82%99%E6%B8%88%E8%A3%BD%E5%93%81?fnode=a6b94eaee6e5c61e7ba01f6977c5329b5fda1b6ede61f310c5879dd1211619a89c55eda4b02320247f6bf4e1eaf10a1c3db2761ea1555c385bd897d15666b6a366f2a7aad7b1cb00f39dc2f812c1663e21dfb1f32e93caadfdc3cad0850c93ea",
+      "first_seen": "2026-04-23T14:28:26+09:00",
+      "last_seen": "2026-04-23T14:28:26+09:00",
+      "is_available": true,
+      "periods": [
+        {
+          "start": "2026-04-23T14:28:26+09:00",
+          "end": null
+        }
+      ]
+    },
+    "FTUT3J/A": {
+      "name": "iPhone 15 Pro 1TB - ナチュラルチタニウム（SIMフリー）",
+      "price": 182800,
+      "price_text": "182,800円",
+      "retail_price_text": "¥182,800",
+      "part_number": "FTUT3J/A",
+      "url": "https://www.apple.com/jp/shop/product/ftut3j/a/iphone-15-pro-1tb-%E3%83%8A%E3%83%81%E3%83%A5%E3%83%A9%E3%83%AB%E3%83%81%E3%82%BF%E3%83%8B%E3%82%A6%E3%83%A0-SIM%E3%83%95%E3%83%AA%E3%83%BC-%E6%95%B4%E5%82%99%E6%B8%88%E8%A3%BD%E5%93%81?fnode=a6b94eaee6e5c61e7ba01f6977c5329b5fda1b6ede61f310c5879dd1211619a89c55eda4b02320247f6bf4e1eaf10a1c3db2761ea1555c385bd897d15666b6a366f2a7aad7b1cb00f39dc2f812c1663e21dfb1f32e93caadfdc3cad0850c93ea",
+      "first_seen": "2026-04-23T14:28:26+09:00",
+      "last_seen": "2026-04-23T14:28:26+09:00",
+      "is_available": true,
+      "periods": [
+        {
+          "start": "2026-04-23T14:28:26+09:00",
+          "end": null
+        }
+      ]
+    },
+    "FYWQ3J/A": {
+      "name": "iPhone 16 Pro Max 1TB - ブラックチタニウム（SIMフリー）",
+      "price": 210800,
+      "price_text": "210,800円",
+      "retail_price_text": "¥210,800",
+      "part_number": "FYWQ3J/A",
+      "url": "https://www.apple.com/jp/shop/product/fywq3j/a/iphone-16-pro-max-1tb-%E3%83%96%E3%83%A9%E3%83%83%E3%82%AF%E3%83%81%E3%82%BF%E3%83%8B%E3%82%A6%E3%83%A0-sim%E3%83%95%E3%83%AA%E3%83%BC%E6%95%B4%E5%82%99%E6%B8%88%E8%A3%BD%E5%93%81?fnode=a6b94eaee6e5c61e7ba01f6977c5329b5fda1b6ede61f310c5879dd1211619a89c55eda4b02320247f6bf4e1eaf10a1c3db2761ea1555c385bd897d15666b6a366f2a7aad7b1cb00f39dc2f812c1663e21dfb1f32e93caadfdc3cad0850c93ea",
+      "first_seen": "2026-04-23T14:28:26+09:00",
+      "last_seen": "2026-04-23T14:28:26+09:00",
+      "is_available": true,
+      "periods": [
+        {
+          "start": "2026-04-23T14:28:26+09:00",
+          "end": null
+        }
+      ]
+    },
+    "FYWR3J/A": {
+      "name": "iPhone 16 Pro Max 1TB - ホワイトチタニウム（SIMフリー）",
+      "price": 210800,
+      "price_text": "210,800円",
+      "retail_price_text": "¥210,800",
+      "part_number": "FYWR3J/A",
+      "url": "https://www.apple.com/jp/shop/product/fywr3j/a/iphone-16-pro-max-1tb-%E3%83%9B%E3%83%AF%E3%82%A4%E3%83%88%E3%83%81%E3%82%BF%E3%83%8B%E3%82%A6%E3%83%A0-sim%E3%83%95%E3%83%AA%E3%83%BC%E6%95%B4%E5%82%99%E6%B8%88%E8%A3%BD%E5%93%81?fnode=a6b94eaee6e5c61e7ba01f6977c5329b5fda1b6ede61f310c5879dd1211619a89c55eda4b02320247f6bf4e1eaf10a1c3db2761ea1555c385bd897d15666b6a366f2a7aad7b1cb00f39dc2f812c1663e21dfb1f32e93caadfdc3cad0850c93ea",
+      "first_seen": "2026-04-23T14:28:26+09:00",
+      "last_seen": "2026-04-23T14:28:26+09:00",
+      "is_available": true,
+      "periods": [
+        {
+          "start": "2026-04-23T14:28:26+09:00",
+          "end": null
+        }
+      ]
+    },
+    "FYWT3J/A": {
+      "name": "iPhone 16 Pro Max 1TB - デザートチタニウム（SIMフリー）",
+      "price": 210800,
+      "price_text": "210,800円",
+      "retail_price_text": "¥210,800",
+      "part_number": "FYWT3J/A",
+      "url": "https://www.apple.com/jp/shop/product/fywt3j/a/iphone-16-pro-max-1tb-%E3%83%87%E3%82%B6%E3%83%BC%E3%83%88%E3%83%81%E3%82%BF%E3%83%8B%E3%82%A6%E3%83%A0-sim%E3%83%95%E3%83%AA%E3%83%BC%E6%95%B4%E5%82%99%E6%B8%88%E8%A3%BD%E5%93%81?fnode=a6b94eaee6e5c61e7ba01f6977c5329b5fda1b6ede61f310c5879dd1211619a89c55eda4b02320247f6bf4e1eaf10a1c3db2761ea1555c385bd897d15666b6a366f2a7aad7b1cb00f39dc2f812c1663e21dfb1f32e93caadfdc3cad0850c93ea",
+      "first_seen": "2026-04-23T14:28:26+09:00",
+      "last_seen": "2026-04-23T14:28:26+09:00",
+      "is_available": true,
+      "periods": [
+        {
+          "start": "2026-04-23T14:28:26+09:00",
+          "end": null
+        }
+      ]
+    },
+    "FYWU3J/A": {
+      "name": "iPhone 16 Pro Max 1TB - ナチュラルチタニウム（SIMフリー）",
+      "price": 210800,
+      "price_text": "210,800円",
+      "retail_price_text": "¥210,800",
+      "part_number": "FYWU3J/A",
+      "url": "https://www.apple.com/jp/shop/product/fywu3j/a/iphone-16-pro-max-1tb-%E3%83%8A%E3%83%81%E3%83%A5%E3%83%A9%E3%83%AB%E3%83%81%E3%82%BF%E3%83%8B%E3%82%A6%E3%83%A0-sim%E3%83%95%E3%83%AA%E3%83%BC%E6%95%B4%E5%82%99%E6%B8%88%E8%A3%BD%E5%93%81?fnode=a6b94eaee6e5c61e7ba01f6977c5329b5fda1b6ede61f310c5879dd1211619a89c55eda4b02320247f6bf4e1eaf10a1c3db2761ea1555c385bd897d15666b6a366f2a7aad7b1cb00f39dc2f812c1663e21dfb1f32e93caadfdc3cad0850c93ea",
+      "first_seen": "2026-04-23T14:28:26+09:00",
+      "last_seen": "2026-04-23T14:28:26+09:00",
+      "is_available": true,
+      "periods": [
+        {
+          "start": "2026-04-23T14:28:26+09:00",
+          "end": null
+        }
+      ]
     }
   },
   "scrape_history": [
@@ -178,6 +477,10 @@
     {
       "timestamp": "2026-04-23T06:49:09+09:00",
       "product_count": 5
+    },
+    {
+      "timestamp": "2026-04-23T14:28:26+09:00",
+      "product_count": 24
     }
   ]
 }
