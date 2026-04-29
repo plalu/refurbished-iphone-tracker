@@ -83,7 +83,7 @@
       "part_number": "FU6Y3J/A",
       "url": "https://www.apple.com/jp/shop/product/fu6y3j/a/iphone-15-pro-max-1tb-%E3%83%96%E3%83%A9%E3%83%83%E3%82%AF%E3%83%81%E3%82%BF%E3%83%8B%E3%82%A6%E3%83%A0-SIM%E3%83%95%E3%83%AA%E3%83%BC-%E6%95%B4%E5%82%99%E6%B8%88%E8%A3%BD%E5%93%81?fnode=d291c180856e4ed0d36f7d735c775e91cf55754e6a64357d4702120dd25643f683aada16f2917ff912432f099153e96cca3cf5564a3d7f3edf5a011bc560e7820841fcca154000c3acb803581910333ac3ac126dc8c86dff34081e864cae9f08",
       "first_seen": "2026-04-20T21:12:05+09:00",
-      "last_seen": "2026-04-30T01:26:54+09:00",
+      "last_seen": "2026-04-30T06:58:20+09:00",
       "is_available": true,
       "periods": [
         {
@@ -100,7 +100,7 @@
       "part_number": "FU703J/A",
       "url": "https://www.apple.com/jp/shop/product/fu703j/a/iphone-15-pro-max-1tb-%E3%83%9B%E3%83%AF%E3%82%A4%E3%83%88%E3%83%81%E3%82%BF%E3%83%8B%E3%82%A6%E3%83%A0-SIM%E3%83%95%E3%83%AA%E3%83%BC-%E6%95%B4%E5%82%99%E6%B8%88%E8%A3%BD%E5%93%81?fnode=d291c180856e4ed0d36f7d735c775e91cf55754e6a64357d4702120dd25643f683aada16f2917ff912432f099153e96cca3cf5564a3d7f3edf5a011bc560e7820841fcca154000c3acb803581910333ac3ac126dc8c86dff34081e864cae9f08",
       "first_seen": "2026-04-20T21:12:05+09:00",
-      "last_seen": "2026-04-30T01:26:54+09:00",
+      "last_seen": "2026-04-30T06:58:20+09:00",
       "is_available": true,
       "periods": [
         {
@@ -117,7 +117,7 @@
       "part_number": "FU713J/A",
       "url": "https://www.apple.com/jp/shop/product/fu713j/a/iphone-15-pro-max-1tb-%E3%83%8A%E3%83%81%E3%83%A5%E3%83%A9%E3%83%AB%E3%83%81%E3%82%BF%E3%83%8B%E3%82%A6%E3%83%A0-SIM%E3%83%95%E3%83%AA%E3%83%BC-%E6%95%B4%E5%82%99%E6%B8%88%E8%A3%BD%E5%93%81?fnode=d291c180856e4ed0d36f7d735c775e91cf55754e6a64357d4702120dd25643f683aada16f2917ff912432f099153e96cca3cf5564a3d7f3edf5a011bc560e7820841fcca154000c3acb803581910333ac3ac126dc8c86dff34081e864cae9f08",
       "first_seen": "2026-04-20T21:12:05+09:00",
-      "last_seen": "2026-04-30T01:26:54+09:00",
+      "last_seen": "2026-04-30T06:58:20+09:00",
       "is_available": true,
       "periods": [
         {
@@ -390,7 +390,7 @@
       "part_number": "FYWT3J/A",
       "url": "https://www.apple.com/jp/shop/product/fywt3j/a/iphone-16-pro-max-1tb-%E3%83%87%E3%82%B6%E3%83%BC%E3%83%88%E3%83%81%E3%82%BF%E3%83%8B%E3%82%A6%E3%83%A0-sim%E3%83%95%E3%83%AA%E3%83%BC%E6%95%B4%E5%82%99%E6%B8%88%E8%A3%BD%E5%93%81?fnode=a6b94eaee6e5c61e7ba01f6977c5329b5fda1b6ede61f310c5879dd1211619a89c55eda4b02320247f6bf4e1eaf10a1c3db2761ea1555c385bd897d15666b6a366f2a7aad7b1cb00f39dc2f812c1663e21dfb1f32e93caadfdc3cad0850c93ea",
       "first_seen": "2026-04-23T14:28:26+09:00",
-      "last_seen": "2026-04-30T01:26:54+09:00",
+      "last_seen": "2026-04-30T06:58:20+09:00",
       "is_available": true,
       "periods": [
         {
@@ -584,6 +584,10 @@
     },
     {
       "timestamp": "2026-04-30T01:26:54+09:00",
+      "product_count": 4
+    },
+    {
+      "timestamp": "2026-04-30T06:58:20+09:00",
       "product_count": 4
     }
   ]
