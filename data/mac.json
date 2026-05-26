@@ -149,11 +149,11 @@
       "url": "https://www.apple.com/jp/shop/product/fwv43j/a/24%E3%82%A4%E3%83%B3%E3%83%81imac-%E6%95%B4%E5%82%99%E6%B8%88%E8%A3%BD%E5%93%81-10%E3%82%B3%E3%82%A2cpu%E3%81%A810%E3%82%B3%E3%82%A2gpu%E3%82%92%E6%90%AD%E8%BC%89%E3%81%97%E3%81%9Fapple-m4%E3%83%81%E3%83%83%E3%83%97-%E3%82%AE%E3%82%AC%E3%83%93%E3%83%83%E3%83%88ethernet-%E3%83%94%E3%83%B3%E3%82%AF?fnode=4c714e8d249bc25c9a0503b744833a99c3dd52fd4d286859f20f023cd8c65cd78d79bbb1d3e185ac1b4e844665d48a434897462ad5af1a87eca16f4788ca214e9baf599ab158c04b50d58af09890a424",
       "first_seen": "2026-04-22T19:18:14+09:00",
       "last_seen": "2026-05-26T07:06:00+09:00",
-      "is_available": true,
+      "is_available": false,
       "periods": [
         {
           "start": "2026-04-22T19:18:14+09:00",
-          "end": null
+          "end": "2026-05-26T15:44:34+09:00"
         }
       ]
     },
@@ -200,7 +200,7 @@
       "url": "https://www.apple.com/jp/shop/product/fde04j/a/14%E3%82%A4%E3%83%B3%E3%83%81MacBook-Pro-%E6%95%B4%E5%82%99%E6%B8%88%E8%A3%BD%E5%93%81-10%E3%82%B3%E3%82%A2CPU%E3%81%A810%E3%82%B3%E3%82%A2GPU%E3%82%92%E6%90%AD%E8%BC%89%E3%81%97%E3%81%9FApple-M5%E3%83%81%E3%83%83%E3%83%97-%E3%82%B9%E3%83%9A%E3%83%BC%E3%82%B9%E3%83%96%E3%83%A9%E3%83%83%E3%82%AF?fnode=4c714e8d249bc25c9a0503b744833a99c3dd52fd4d286859f20f023cd8c65cd78d79bbb1d3e185ac1b4e844665d48a434897462ad5af1a87eca16f4788ca214e9baf599ab158c04b50d58af09890a424",
       "first_seen": "2026-04-22T19:18:14+09:00",
       "last_seen": "2026-05-26T07:06:00+09:00",
-      "is_available": true,
+      "is_available": false,
       "periods": [
         {
           "start": "2026-04-22T19:18:14+09:00",
@@ -208,7 +208,7 @@
         },
         {
           "start": "2026-04-28T20:03:36+09:00",
-          "end": null
+          "end": "2026-05-26T15:44:34+09:00"
         }
       ]
     },
@@ -221,7 +221,7 @@
       "url": "https://www.apple.com/jp/shop/product/fde44j/a/14%E3%82%A4%E3%83%B3%E3%83%81MacBook-Pro-%E6%95%B4%E5%82%99%E6%B8%88%E8%A3%BD%E5%93%81-10%E3%82%B3%E3%82%A2CPU%E3%81%A810%E3%82%B3%E3%82%A2GPU%E3%82%92%E6%90%AD%E8%BC%89%E3%81%97%E3%81%9FApple-M5%E3%83%81%E3%83%83%E3%83%97-%E3%82%B7%E3%83%AB%E3%83%90%E3%83%BC?fnode=4c714e8d249bc25c9a0503b744833a99c3dd52fd4d286859f20f023cd8c65cd78d79bbb1d3e185ac1b4e844665d48a434897462ad5af1a87eca16f4788ca214e9baf599ab158c04b50d58af09890a424",
       "first_seen": "2026-04-22T19:18:14+09:00",
       "last_seen": "2026-05-26T07:06:00+09:00",
-      "is_available": true,
+      "is_available": false,
       "periods": [
         {
           "start": "2026-04-22T19:18:14+09:00",
@@ -229,7 +229,7 @@
         },
         {
           "start": "2026-04-28T20:03:36+09:00",
-          "end": null
+          "end": "2026-05-26T15:44:34+09:00"
         }
       ]
     },
@@ -301,7 +301,7 @@
       "url": "https://www.apple.com/jp/shop/product/g1eh1j/a/24%E3%82%A4%E3%83%B3%E3%83%81imac-%E6%95%B4%E5%82%99%E6%B8%88%E8%A3%BD%E5%93%81-10%E3%82%B3%E3%82%A2cpu%E3%81%A810%E3%82%B3%E3%82%A2gpu%E3%82%92%E6%90%AD%E8%BC%89%E3%81%97%E3%81%9Fapple-m4%E3%83%81%E3%83%83%E3%83%97-%E3%82%AE%E3%82%AC%E3%83%93%E3%83%83%E3%83%88ethernet-nano-texture%E3%82%AC%E3%83%A9%E3%82%B9-%E3%82%B7%E3%83%AB%E3%83%90%E3%83%BC?fnode=4c714e8d249bc25c9a0503b744833a99c3dd52fd4d286859f20f023cd8c65cd78d79bbb1d3e185ac1b4e844665d48a434897462ad5af1a87eca16f4788ca214e9baf599ab158c04b50d58af09890a424",
       "first_seen": "2026-04-22T19:18:14+09:00",
       "last_seen": "2026-05-26T07:06:00+09:00",
-      "is_available": true,
+      "is_available": false,
       "periods": [
         {
           "start": "2026-04-22T19:18:14+09:00",
@@ -309,7 +309,7 @@
         },
         {
           "start": "2026-04-28T20:03:36+09:00",
-          "end": null
+          "end": "2026-05-26T15:44:34+09:00"
         }
       ]
     },
@@ -322,7 +322,7 @@
       "url": "https://www.apple.com/jp/shop/product/g1ep1j/a/24%E3%82%A4%E3%83%B3%E3%83%81imac-%E6%95%B4%E5%82%99%E6%B8%88%E8%A3%BD%E5%93%81-10%E3%82%B3%E3%82%A2cpu%E3%81%A810%E3%82%B3%E3%82%A2gpu%E3%82%92%E6%90%AD%E8%BC%89%E3%81%97%E3%81%9Fapple-m4%E3%83%81%E3%83%83%E3%83%97-%E3%82%AE%E3%82%AC%E3%83%93%E3%83%83%E3%83%88ethernet-nano-texture%E3%82%AC%E3%83%A9%E3%82%B9-%E3%83%96%E3%83%AB%E3%83%BC?fnode=4c714e8d249bc25c9a0503b744833a99c3dd52fd4d286859f20f023cd8c65cd78d79bbb1d3e185ac1b4e844665d48a434897462ad5af1a87eca16f4788ca214e9baf599ab158c04b50d58af09890a424",
       "first_seen": "2026-04-22T19:18:14+09:00",
       "last_seen": "2026-05-26T07:06:00+09:00",
-      "is_available": true,
+      "is_available": false,
       "periods": [
         {
           "start": "2026-04-22T19:18:14+09:00",
@@ -334,7 +334,7 @@
         },
         {
           "start": "2026-04-28T20:03:36+09:00",
-          "end": null
+          "end": "2026-05-26T15:44:34+09:00"
         }
       ]
     },
@@ -699,7 +699,7 @@
       "url": "https://www.apple.com/jp/shop/product/fx2t3j/a/16%E3%82%A4%E3%83%B3%E3%83%81MacBook-Pro-%E6%95%B4%E5%82%99%E6%B8%88%E8%A3%BD%E5%93%81-14%E3%82%B3%E3%82%A2CPU%E3%81%A820%E3%82%B3%E3%82%A2GPU%E3%82%92%E6%90%AD%E8%BC%89%E3%81%97%E3%81%9FApple-M4-Pro%E3%83%81%E3%83%83%E3%83%97-%E3%82%B7%E3%83%AB%E3%83%90%E3%83%BC?fnode=f353e7269c488f33c4c306273cdf28b096821d12861ecec92844b86583cd6c5f023e32f20f91026f9008d19723a13af689d6f706812c3628fbbdbd3a59711eb7b92ca3e7b63a31d5b6b1ef160d0ac588",
       "first_seen": "2026-04-24T01:27:54+09:00",
       "last_seen": "2026-05-26T07:06:00+09:00",
-      "is_available": true,
+      "is_available": false,
       "periods": [
         {
           "start": "2026-04-24T01:27:54+09:00",
@@ -719,7 +719,7 @@
         },
         {
           "start": "2026-05-19T21:08:22+09:00",
-          "end": null
+          "end": "2026-05-26T15:44:34+09:00"
         }
       ]
     },
@@ -732,7 +732,7 @@
       "url": "https://www.apple.com/jp/shop/product/fx2x3j/a/16%E3%82%A4%E3%83%B3%E3%83%81MacBook-Pro-%E6%95%B4%E5%82%99%E6%B8%88%E8%A3%BD%E5%93%81-14%E3%82%B3%E3%82%A2CPU%E3%81%A820%E3%82%B3%E3%82%A2GPU%E3%82%92%E6%90%AD%E8%BC%89%E3%81%97%E3%81%9FApple-M4-Pro%E3%83%81%E3%83%83%E3%83%97-%E3%82%B9%E3%83%9A%E3%83%BC%E3%82%B9%E3%83%96%E3%83%A9%E3%83%83%E3%82%AF?fnode=f353e7269c488f33c4c306273cdf28b096821d12861ecec92844b86583cd6c5f023e32f20f91026f9008d19723a13af689d6f706812c3628fbbdbd3a59711eb7b92ca3e7b63a31d5b6b1ef160d0ac588",
       "first_seen": "2026-04-24T01:27:54+09:00",
       "last_seen": "2026-05-26T07:06:00+09:00",
-      "is_available": true,
+      "is_available": false,
       "periods": [
         {
           "start": "2026-04-24T01:27:54+09:00",
@@ -752,7 +752,7 @@
         },
         {
           "start": "2026-05-19T21:08:22+09:00",
-          "end": null
+          "end": "2026-05-26T15:44:34+09:00"
         }
       ]
     },
@@ -844,7 +844,7 @@
       "url": "https://www.apple.com/jp/shop/product/fx303j/a/16%E3%82%A4%E3%83%B3%E3%83%81MacBook-Pro-%E6%95%B4%E5%82%99%E6%B8%88%E8%A3%BD%E5%93%81-14%E3%82%B3%E3%82%A2CPU%E3%81%A832%E3%82%B3%E3%82%A2GPU%E3%82%92%E6%90%AD%E8%BC%89%E3%81%97%E3%81%9FApple-M4-Max%E3%83%81%E3%83%83%E3%83%97-%E3%82%B9%E3%83%9A%E3%83%BC%E3%82%B9%E3%83%96%E3%83%A9%E3%83%83%E3%82%AF?fnode=bdc33f7faeae8dbd7bec477bffc4e87d626a75d8ff432bb118c67caf0e5e716d03300e394a67deff3ee921bf85c28d51464e4a2c8ae83c375e8ab8e5da67ebe648dc300affb670c581292be1954692db",
       "first_seen": "2026-04-24T19:19:56+09:00",
       "last_seen": "2026-05-26T07:06:00+09:00",
-      "is_available": true,
+      "is_available": false,
       "periods": [
         {
           "start": "2026-04-24T19:19:56+09:00",
@@ -860,7 +860,7 @@
         },
         {
           "start": "2026-05-19T21:08:22+09:00",
-          "end": null
+          "end": "2026-05-26T15:44:34+09:00"
         }
       ]
     },
@@ -872,8 +872,8 @@
       "part_number": "FC6T4J/A",
       "url": "https://www.apple.com/jp/shop/product/fc6t4j/a/13%E3%82%A4%E3%83%B3%E3%83%81MacBook-Air-%5B%E6%95%B4%E5%82%99%E6%B8%88%E8%A3%BD%E5%93%81%5D-10%E3%82%B3%E3%82%A2CPU%E3%81%A88%E3%82%B3%E3%82%A2GPU%E3%82%92%E6%90%AD%E8%BC%89%E3%81%97%E3%81%9FApple-M4%E3%83%81%E3%83%83%E3%83%97-%E3%82%B9%E3%82%AB%E3%82%A4%E3%83%96%E3%83%AB%E3%83%BC?fnode=545bedd3ed300cb4ed756a7704f5c0ee3150b373953bd9c7c81a41dcb11af3c9f239436f4a018e5667b31e62f99bb00f0dcb0347669155adb2596ebce9273e0daa2ed25f1e7b87cb651cf29944627349",
       "first_seen": "2026-04-25T14:10:10+09:00",
-      "last_seen": "2026-05-19T15:46:47+09:00",
-      "is_available": false,
+      "last_seen": "2026-05-26T15:44:34+09:00",
+      "is_available": true,
       "periods": [
         {
           "start": "2026-04-25T14:10:10+09:00",
@@ -890,6 +890,10 @@
         {
           "start": "2026-05-19T15:46:47+09:00",
           "end": "2026-05-19T21:08:22+09:00"
+        },
+        {
+          "start": "2026-05-26T15:44:34+09:00",
+          "end": null
         }
       ]
     },
@@ -901,8 +905,8 @@
       "part_number": "FW0W3J/A",
       "url": "https://www.apple.com/jp/shop/product/fw0w3j/a/13%E3%82%A4%E3%83%B3%E3%83%81MacBook-Air-%5B%E6%95%B4%E5%82%99%E6%B8%88%E8%A3%BD%E5%93%81%5D-10%E3%82%B3%E3%82%A2CPU%E3%81%A88%E3%82%B3%E3%82%A2GPU%E3%82%92%E6%90%AD%E8%BC%89%E3%81%97%E3%81%9FApple-M4%E3%83%81%E3%83%83%E3%83%97-%E3%82%B7%E3%83%AB%E3%83%90%E3%83%BC?fnode=545bedd3ed300cb4ed756a7704f5c0ee3150b373953bd9c7c81a41dcb11af3c9f239436f4a018e5667b31e62f99bb00f0dcb0347669155adb2596ebce9273e0daa2ed25f1e7b87cb651cf29944627349",
       "first_seen": "2026-04-25T14:10:10+09:00",
-      "last_seen": "2026-05-02T14:35:10+09:00",
-      "is_available": false,
+      "last_seen": "2026-05-26T15:44:34+09:00",
+      "is_available": true,
       "periods": [
         {
           "start": "2026-04-25T14:10:10+09:00",
@@ -915,6 +919,10 @@
         {
           "start": "2026-05-02T14:35:10+09:00",
           "end": "2026-05-02T18:57:33+09:00"
+        },
+        {
+          "start": "2026-05-26T15:44:34+09:00",
+          "end": null
         }
       ]
     },
@@ -926,8 +934,8 @@
       "part_number": "FW0Y3J/A",
       "url": "https://www.apple.com/jp/shop/product/fw0y3j/a/13%E3%82%A4%E3%83%B3%E3%83%81MacBook-Air-%5B%E6%95%B4%E5%82%99%E6%B8%88%E8%A3%BD%E5%93%81%5D-10%E3%82%B3%E3%82%A2CPU%E3%81%A88%E3%82%B3%E3%82%A2GPU%E3%82%92%E6%90%AD%E8%BC%89%E3%81%97%E3%81%9FApple-M4%E3%83%81%E3%83%83%E3%83%97-%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%A9%E3%82%A4%E3%83%88?fnode=545bedd3ed300cb4ed756a7704f5c0ee3150b373953bd9c7c81a41dcb11af3c9f239436f4a018e5667b31e62f99bb00f0dcb0347669155adb2596ebce9273e0daa2ed25f1e7b87cb651cf29944627349",
       "first_seen": "2026-04-25T14:10:10+09:00",
-      "last_seen": "2026-05-02T14:35:10+09:00",
-      "is_available": false,
+      "last_seen": "2026-05-26T15:44:34+09:00",
+      "is_available": true,
       "periods": [
         {
           "start": "2026-04-25T14:10:10+09:00",
@@ -940,6 +948,10 @@
         {
           "start": "2026-05-02T14:35:10+09:00",
           "end": "2026-05-02T18:57:33+09:00"
+        },
+        {
+          "start": "2026-05-26T15:44:34+09:00",
+          "end": null
         }
       ]
     },
@@ -951,8 +963,8 @@
       "part_number": "FW123J/A",
       "url": "https://www.apple.com/jp/shop/product/fw123j/a/13%E3%82%A4%E3%83%B3%E3%83%81MacBook-Air-%5B%E6%95%B4%E5%82%99%E6%B8%88%E8%A3%BD%E5%93%81%5D-10%E3%82%B3%E3%82%A2CPU%E3%81%A88%E3%82%B3%E3%82%A2GPU%E3%82%92%E6%90%AD%E8%BC%89%E3%81%97%E3%81%9FApple-M4%E3%83%81%E3%83%83%E3%83%97-%E3%83%9F%E3%83%83%E3%83%89%E3%83%8A%E3%82%A4%E3%83%88?fnode=545bedd3ed300cb4ed756a7704f5c0ee3150b373953bd9c7c81a41dcb11af3c9f239436f4a018e5667b31e62f99bb00f0dcb0347669155adb2596ebce9273e0daa2ed25f1e7b87cb651cf29944627349",
       "first_seen": "2026-04-25T14:10:10+09:00",
-      "last_seen": "2026-05-02T14:35:10+09:00",
-      "is_available": false,
+      "last_seen": "2026-05-26T15:44:34+09:00",
+      "is_available": true,
       "periods": [
         {
           "start": "2026-04-25T14:10:10+09:00",
@@ -965,6 +977,10 @@
         {
           "start": "2026-05-02T14:35:10+09:00",
           "end": "2026-05-02T18:57:33+09:00"
+        },
+        {
+          "start": "2026-05-26T15:44:34+09:00",
+          "end": null
         }
       ]
     },
@@ -976,8 +992,8 @@
       "part_number": "FC6U4J/A",
       "url": "https://www.apple.com/jp/shop/product/fc6u4j/a/13%E3%82%A4%E3%83%B3%E3%83%81MacBook-Air-%5B%E6%95%B4%E5%82%99%E6%B8%88%E8%A3%BD%E5%93%81%5D-10%E3%82%B3%E3%82%A2CPU%E3%81%A810%E3%82%B3%E3%82%A2GPU%E3%82%92%E6%90%AD%E8%BC%89%E3%81%97%E3%81%9FApple-M4%E3%83%81%E3%83%83%E3%83%97-%E3%82%B9%E3%82%AB%E3%82%A4%E3%83%96%E3%83%AB%E3%83%BC?fnode=545bedd3ed300cb4ed756a7704f5c0ee3150b373953bd9c7c81a41dcb11af3c9f239436f4a018e5667b31e62f99bb00f0dcb0347669155adb2596ebce9273e0daa2ed25f1e7b87cb651cf29944627349",
       "first_seen": "2026-04-25T14:10:10+09:00",
-      "last_seen": "2026-04-28T14:57:45+09:00",
-      "is_available": false,
+      "last_seen": "2026-05-26T15:44:34+09:00",
+      "is_available": true,
       "periods": [
         {
           "start": "2026-04-25T14:10:10+09:00",
@@ -986,6 +1002,10 @@
         {
           "start": "2026-04-28T14:57:45+09:00",
           "end": "2026-04-28T20:03:36+09:00"
+        },
+        {
+          "start": "2026-05-26T15:44:34+09:00",
+          "end": null
         }
       ]
     },
@@ -997,8 +1017,8 @@
       "part_number": "FW0X3J/A",
       "url": "https://www.apple.com/jp/shop/product/fw0x3j/a/13%E3%82%A4%E3%83%B3%E3%83%81MacBook-Air-%5B%E6%95%B4%E5%82%99%E6%B8%88%E8%A3%BD%E5%93%81%5D-10%E3%82%B3%E3%82%A2CPU%E3%81%A810%E3%82%B3%E3%82%A2GPU%E3%82%92%E6%90%AD%E8%BC%89%E3%81%97%E3%81%9FApple-M4%E3%83%81%E3%83%83%E3%83%97-%E3%82%B7%E3%83%AB%E3%83%90%E3%83%BC?fnode=545bedd3ed300cb4ed756a7704f5c0ee3150b373953bd9c7c81a41dcb11af3c9f239436f4a018e5667b31e62f99bb00f0dcb0347669155adb2596ebce9273e0daa2ed25f1e7b87cb651cf29944627349",
       "first_seen": "2026-04-25T14:10:10+09:00",
-      "last_seen": "2026-04-30T14:57:01+09:00",
-      "is_available": false,
+      "last_seen": "2026-05-26T15:44:34+09:00",
+      "is_available": true,
       "periods": [
         {
           "start": "2026-04-25T14:10:10+09:00",
@@ -1011,6 +1031,10 @@
         {
           "start": "2026-04-30T14:57:01+09:00",
           "end": "2026-04-30T19:53:33+09:00"
+        },
+        {
+          "start": "2026-05-26T15:44:34+09:00",
+          "end": null
         }
       ]
     },
@@ -1022,8 +1046,8 @@
       "part_number": "FC6A4J/A",
       "url": "https://www.apple.com/jp/shop/product/fc6a4j/a/13%E3%82%A4%E3%83%B3%E3%83%81MacBook-Air-%5B%E6%95%B4%E5%82%99%E6%B8%88%E8%A3%BD%E5%93%81%5D-10%E3%82%B3%E3%82%A2CPU%E3%81%A810%E3%82%B3%E3%82%A2GPU%E3%82%92%E6%90%AD%E8%BC%89%E3%81%97%E3%81%9FApple-M4%E3%83%81%E3%83%83%E3%83%97-%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%A9%E3%82%A4%E3%83%88?fnode=545bedd3ed300cb4ed756a7704f5c0ee3150b373953bd9c7c81a41dcb11af3c9f239436f4a018e5667b31e62f99bb00f0dcb0347669155adb2596ebce9273e0daa2ed25f1e7b87cb651cf29944627349",
       "first_seen": "2026-04-25T14:10:10+09:00",
-      "last_seen": "2026-04-28T14:57:45+09:00",
-      "is_available": false,
+      "last_seen": "2026-05-26T15:44:34+09:00",
+      "is_available": true,
       "periods": [
         {
           "start": "2026-04-25T14:10:10+09:00",
@@ -1032,6 +1056,10 @@
         {
           "start": "2026-04-28T14:57:45+09:00",
           "end": "2026-04-28T20:03:36+09:00"
+        },
+        {
+          "start": "2026-05-26T15:44:34+09:00",
+          "end": null
         }
       ]
     },
@@ -1043,8 +1071,8 @@
       "part_number": "FC6V4J/A",
       "url": "https://www.apple.com/jp/shop/product/fc6v4j/a/13%E3%82%A4%E3%83%B3%E3%83%81MacBook-Air-%5B%E6%95%B4%E5%82%99%E6%B8%88%E8%A3%BD%E5%93%81%5D-10%E3%82%B3%E3%82%A2CPU%E3%81%A810%E3%82%B3%E3%82%A2GPU%E3%82%92%E6%90%AD%E8%BC%89%E3%81%97%E3%81%9FApple-M4%E3%83%81%E3%83%83%E3%83%97-%E3%82%B9%E3%82%AB%E3%82%A4%E3%83%96%E3%83%AB%E3%83%BC?fnode=545bedd3ed300cb4ed756a7704f5c0ee3150b373953bd9c7c81a41dcb11af3c9f239436f4a018e5667b31e62f99bb00f0dcb0347669155adb2596ebce9273e0daa2ed25f1e7b87cb651cf29944627349",
       "first_seen": "2026-04-25T14:10:10+09:00",
-      "last_seen": "2026-05-19T15:46:47+09:00",
-      "is_available": false,
+      "last_seen": "2026-05-26T15:44:34+09:00",
+      "is_available": true,
       "periods": [
         {
           "start": "2026-04-25T14:10:10+09:00",
@@ -1057,6 +1085,10 @@
         {
           "start": "2026-05-19T15:46:47+09:00",
           "end": "2026-05-19T21:08:22+09:00"
+        },
+        {
+          "start": "2026-05-26T15:44:34+09:00",
+          "end": null
         }
       ]
     },
@@ -1323,7 +1355,7 @@
       "url": "https://www.apple.com/jp/shop/product/fx2v3j/a/16%E3%82%A4%E3%83%B3%E3%83%81MacBook-Pro-%E6%95%B4%E5%82%99%E6%B8%88%E8%A3%BD%E5%93%81-14%E3%82%B3%E3%82%A2CPU%E3%81%A832%E3%82%B3%E3%82%A2GPU%E3%82%92%E6%90%AD%E8%BC%89%E3%81%97%E3%81%9FApple-M4-Max%E3%83%81%E3%83%83%E3%83%97-%E3%82%B7%E3%83%AB%E3%83%90%E3%83%BC?fnode=823c230b784d5cc45f395d8a339d7d919be6cb4cd3ccc1ddb17c6b6d3a285d410de4441eb2f3417bc0feff74f2531c207cab26db880d0c3e5429463e24f122e03ca24f1a4aa394a1352b7f2a87ecdc11",
       "first_seen": "2026-04-27T06:35:49+09:00",
       "last_seen": "2026-05-26T07:06:00+09:00",
-      "is_available": true,
+      "is_available": false,
       "periods": [
         {
           "start": "2026-04-27T06:35:49+09:00",
@@ -1335,7 +1367,7 @@
         },
         {
           "start": "2026-05-19T21:08:22+09:00",
-          "end": null
+          "end": "2026-05-26T15:44:34+09:00"
         }
       ]
     },
@@ -1348,7 +1380,7 @@
       "url": "https://www.apple.com/jp/shop/product/fx2w3j/a/16%E3%82%A4%E3%83%B3%E3%83%81MacBook-Pro-%E6%95%B4%E5%82%99%E6%B8%88%E8%A3%BD%E5%93%81-16%E3%82%B3%E3%82%A2CPU%E3%81%A840%E3%82%B3%E3%82%A2GPU%E3%82%92%E6%90%AD%E8%BC%89%E3%81%97%E3%81%9FApple-M4-Max%E3%83%81%E3%83%83%E3%83%97-%E3%82%B7%E3%83%AB%E3%83%90%E3%83%BC?fnode=fa95540aba106967f0379e7f081775087fa7a436420819538039cd6d203b62b20e83c12e6e683063e45d0afa13238d51beaf695c634318e9881171359a1eedd812a452e0f3db47d8897609973cfbec86",
       "first_seen": "2026-04-27T14:52:27+09:00",
       "last_seen": "2026-05-26T07:06:00+09:00",
-      "is_available": true,
+      "is_available": false,
       "periods": [
         {
           "start": "2026-04-27T14:52:27+09:00",
@@ -1360,7 +1392,7 @@
         },
         {
           "start": "2026-05-19T21:08:22+09:00",
-          "end": null
+          "end": "2026-05-26T15:44:34+09:00"
         }
       ]
     },
@@ -1373,7 +1405,7 @@
       "url": "https://www.apple.com/jp/shop/product/fx313j/a/16%E3%82%A4%E3%83%B3%E3%83%81MacBook-Pro-%E6%95%B4%E5%82%99%E6%B8%88%E8%A3%BD%E5%93%81-16%E3%82%B3%E3%82%A2CPU%E3%81%A840%E3%82%B3%E3%82%A2GPU%E3%82%92%E6%90%AD%E8%BC%89%E3%81%97%E3%81%9FApple-M4-Max%E3%83%81%E3%83%83%E3%83%97-%E3%82%B9%E3%83%9A%E3%83%BC%E3%82%B9%E3%83%96%E3%83%A9%E3%83%83%E3%82%AF?fnode=42cd867dc0739b12d76b099d1fcd2ffe52392a309497964e8ec5d1962ebba649eda4dd2f1501c0d70b1dd9dcaedc2c4b22d5ad09b480c9d3c6fa6fd4454dcff14bff97734b99b286fe0f3c552289c458",
       "first_seen": "2026-04-28T01:24:59+09:00",
       "last_seen": "2026-05-26T07:06:00+09:00",
-      "is_available": true,
+      "is_available": false,
       "periods": [
         {
           "start": "2026-04-28T01:24:59+09:00",
@@ -1385,7 +1417,7 @@
         },
         {
           "start": "2026-05-19T21:08:22+09:00",
-          "end": null
+          "end": "2026-05-26T15:44:34+09:00"
         }
       ]
     },
@@ -1456,12 +1488,16 @@
       "part_number": "G1CW0J/A",
       "url": "https://www.apple.com/jp/shop/product/g1cw0j/a/13%E3%82%A4%E3%83%B3%E3%83%81MacBook-Air-%5B%E6%95%B4%E5%82%99%E6%B8%88%E8%A3%BD%E5%93%81%5D-10%E3%82%B3%E3%82%A2CPU%E3%81%A810%E3%82%B3%E3%82%A2GPU%E3%82%92%E6%90%AD%E8%BC%89%E3%81%97%E3%81%9FApple-M4%E3%83%81%E3%83%83%E3%83%97-%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%A9%E3%82%A4%E3%83%88?fnode=1b3d039f8f1f5717c2aa8cbfe50515e49791e1cbf026fdf91597f8468c7b112d6fdef12cf76e833cd324aa14b50410b47b21865f258088dd05d43e600e012537f3e628c2fc120db1cdc3aa64ece46013",
       "first_seen": "2026-04-28T14:57:45+09:00",
-      "last_seen": "2026-04-28T14:57:45+09:00",
-      "is_available": false,
+      "last_seen": "2026-05-26T15:44:34+09:00",
+      "is_available": true,
       "periods": [
         {
           "start": "2026-04-28T14:57:45+09:00",
           "end": "2026-04-28T20:03:36+09:00"
+        },
+        {
+          "start": "2026-05-26T15:44:34+09:00",
+          "end": null
         }
       ]
     },
@@ -1473,8 +1509,8 @@
       "part_number": "G1CY0J/A",
       "url": "https://www.apple.com/jp/shop/product/g1cy0j/a/13%E3%82%A4%E3%83%B3%E3%83%81MacBook-Air-%5B%E6%95%B4%E5%82%99%E6%B8%88%E8%A3%BD%E5%93%81%5D-10%E3%82%B3%E3%82%A2CPU%E3%81%A810%E3%82%B3%E3%82%A2GPU%E3%82%92%E6%90%AD%E8%BC%89%E3%81%97%E3%81%9FApple-M4%E3%83%81%E3%83%83%E3%83%97-%E3%83%9F%E3%83%83%E3%83%89%E3%83%8A%E3%82%A4%E3%83%88?fnode=1b3d039f8f1f5717c2aa8cbfe50515e49791e1cbf026fdf91597f8468c7b112d6fdef12cf76e833cd324aa14b50410b47b21865f258088dd05d43e600e012537f3e628c2fc120db1cdc3aa64ece46013",
       "first_seen": "2026-04-28T14:57:45+09:00",
-      "last_seen": "2026-05-19T15:46:47+09:00",
-      "is_available": false,
+      "last_seen": "2026-05-26T15:44:34+09:00",
+      "is_available": true,
       "periods": [
         {
           "start": "2026-04-28T14:57:45+09:00",
@@ -1483,6 +1519,10 @@
         {
           "start": "2026-05-19T15:46:47+09:00",
           "end": "2026-05-19T21:08:22+09:00"
+        },
+        {
+          "start": "2026-05-26T15:44:34+09:00",
+          "end": null
         }
       ]
     },
@@ -1494,12 +1534,16 @@
       "part_number": "FC654J/A",
       "url": "https://www.apple.com/jp/shop/product/fc654j/a/13%E3%82%A4%E3%83%B3%E3%83%81MacBook-Air-%5B%E6%95%B4%E5%82%99%E6%B8%88%E8%A3%BD%E5%93%81%5D-10%E3%82%B3%E3%82%A2CPU%E3%81%A810%E3%82%B3%E3%82%A2GPU%E3%82%92%E6%90%AD%E8%BC%89%E3%81%97%E3%81%9FApple-M4%E3%83%81%E3%83%83%E3%83%97-%E3%82%B7%E3%83%AB%E3%83%90%E3%83%BC?fnode=1b3d039f8f1f5717c2aa8cbfe50515e49791e1cbf026fdf91597f8468c7b112d6fdef12cf76e833cd324aa14b50410b47b21865f258088dd05d43e600e012537f3e628c2fc120db1cdc3aa64ece46013",
       "first_seen": "2026-04-28T14:57:45+09:00",
-      "last_seen": "2026-04-28T14:57:45+09:00",
-      "is_available": false,
+      "last_seen": "2026-05-26T15:44:34+09:00",
+      "is_available": true,
       "periods": [
         {
           "start": "2026-04-28T14:57:45+09:00",
           "end": "2026-04-28T20:03:36+09:00"
+        },
+        {
+          "start": "2026-05-26T15:44:34+09:00",
+          "end": null
         }
       ]
     },
@@ -2273,12 +2317,16 @@
       "part_number": "G1H80J/A",
       "url": "https://www.apple.com/jp/shop/product/g1h80j/a/13%E3%82%A4%E3%83%B3%E3%83%81MacBook-Air-%5B%E6%95%B4%E5%82%99%E6%B8%88%E8%A3%BD%E5%93%81%5D-10%E3%82%B3%E3%82%A2CPU%E3%81%A810%E3%82%B3%E3%82%A2GPU%E3%82%92%E6%90%AD%E8%BC%89%E3%81%97%E3%81%9FApple-M4%E3%83%81%E3%83%83%E3%83%97-%E3%82%B9%E3%82%AB%E3%82%A4%E3%83%96%E3%83%AB%E3%83%BC?fnode=9a5a277b6ec4713f7fed67ad4cd58267e1753dcada5682403c071893c8e7e216952dcc35826a5f12a748af16cdebf4482f575058346614fc2c497b03c8b4b98bc8a1c67e785b27353c0c0a473812e09e",
       "first_seen": "2026-05-19T15:46:47+09:00",
-      "last_seen": "2026-05-19T15:46:47+09:00",
-      "is_available": false,
+      "last_seen": "2026-05-26T15:44:34+09:00",
+      "is_available": true,
       "periods": [
         {
           "start": "2026-05-19T15:46:47+09:00",
           "end": "2026-05-19T21:08:22+09:00"
+        },
+        {
+          "start": "2026-05-26T15:44:34+09:00",
+          "end": null
         }
       ]
     },
@@ -2290,12 +2338,16 @@
       "part_number": "FC6C4J/A",
       "url": "https://www.apple.com/jp/shop/product/fc6c4j/a/13%E3%82%A4%E3%83%B3%E3%83%81MacBook-Air-%5B%E6%95%B4%E5%82%99%E6%B8%88%E8%A3%BD%E5%93%81%5D-10%E3%82%B3%E3%82%A2CPU%E3%81%A810%E3%82%B3%E3%82%A2GPU%E3%82%92%E6%90%AD%E8%BC%89%E3%81%97%E3%81%9FApple-M4%E3%83%81%E3%83%83%E3%83%97-%E3%83%9F%E3%83%83%E3%83%89%E3%83%8A%E3%82%A4%E3%83%88?fnode=9a5a277b6ec4713f7fed67ad4cd58267e1753dcada5682403c071893c8e7e216952dcc35826a5f12a748af16cdebf4482f575058346614fc2c497b03c8b4b98bc8a1c67e785b27353c0c0a473812e09e",
       "first_seen": "2026-05-19T15:46:47+09:00",
-      "last_seen": "2026-05-19T15:46:47+09:00",
-      "is_available": false,
+      "last_seen": "2026-05-26T15:44:34+09:00",
+      "is_available": true,
       "periods": [
         {
           "start": "2026-05-19T15:46:47+09:00",
           "end": "2026-05-19T21:08:22+09:00"
+        },
+        {
+          "start": "2026-05-26T15:44:34+09:00",
+          "end": null
         }
       ]
     },
@@ -2466,6 +2518,295 @@
         {
           "start": "2026-05-19T21:08:22+09:00",
           "end": "2026-05-20T15:46:56+09:00"
+        }
+      ]
+    },
+    "FGN63J/A": {
+      "name": "13.3インチMacBook Air [整備済製品] 8コアCPUと7コアGPUを搭載したApple M1チップ - スペースグレイ",
+      "price": 91800,
+      "price_text": "91,800円",
+      "retail_price_text": "¥91,800",
+      "part_number": "FGN63J/A",
+      "url": "https://www.apple.com/jp/shop/product/fgn63j/a/133%E3%82%A4%E3%83%B3%E3%83%81MacBook-Air-%E6%95%B4%E5%82%99%E6%B8%88%E8%A3%BD%E5%93%81-8%E3%82%B3%E3%82%A2CPU%E3%81%A87%E3%82%B3%E3%82%A2GPU%E3%82%92%E6%90%AD%E8%BC%89%E3%81%97%E3%81%9FApple-M1%E3%83%81%E3%83%83%E3%83%97-%E3%82%B9%E3%83%9A%E3%83%BC%E3%82%B9%E3%82%B0%E3%83%AC%E3%82%A4?fnode=8f2dba2aeea61c648e66e432fafab43c11fc28098b39710776c82ae70fa78b11e7b554a02ba019928ad09c9016e3a788c8773922a4f2c9641ea689e382a03e0ac6888eb6a4e7028d8ed1b1ac2b816b03",
+      "first_seen": "2026-05-26T15:44:34+09:00",
+      "last_seen": "2026-05-26T15:44:34+09:00",
+      "is_available": true,
+      "periods": [
+        {
+          "start": "2026-05-26T15:44:34+09:00",
+          "end": null
+        }
+      ]
+    },
+    "G1600J/A": {
+      "name": "13インチMacBook Air [整備済製品] 8コアCPUと8コアGPUを搭載したApple M2チップ -ミッドナイト",
+      "price": 110800,
+      "price_text": "110,800円",
+      "retail_price_text": "¥110,800",
+      "part_number": "G1600J/A",
+      "url": "https://www.apple.com/jp/shop/product/g1600j/a/refurbished-13-inch-macbook-air-apple-m2-chip-with-8%E2%80%91core-cpu-and-8%E2%80%91core-gpu-midnight?fnode=8f2dba2aeea61c648e66e432fafab43c11fc28098b39710776c82ae70fa78b11e7b554a02ba019928ad09c9016e3a788c8773922a4f2c9641ea689e382a03e0ac6888eb6a4e7028d8ed1b1ac2b816b03",
+      "first_seen": "2026-05-26T15:44:34+09:00",
+      "last_seen": "2026-05-26T15:44:34+09:00",
+      "is_available": true,
+      "periods": [
+        {
+          "start": "2026-05-26T15:44:34+09:00",
+          "end": null
+        }
+      ]
+    },
+    "G12B0J/A": {
+      "name": "13.3インチMacBook Air [整備済製品] 8コアCPUと8コアGPUを搭載したApple M1チップ - ゴールド",
+      "price": 130800,
+      "price_text": "130,800円",
+      "retail_price_text": "¥130,800",
+      "part_number": "G12B0J/A",
+      "url": "https://www.apple.com/jp/shop/product/g12b0j/a/133%E3%82%A4%E3%83%B3%E3%83%81macbook-air-%E6%95%B4%E5%82%99%E6%B8%88%E8%A3%BD%E5%93%81-8%E3%82%B3%E3%82%A2cpu%E3%81%A88%E3%82%B3%E3%82%A2gpu%E3%82%92%E6%90%AD%E8%BC%89%E3%81%97%E3%81%9Fapple-m1%E3%83%81%E3%83%83%E3%83%97-%E3%82%B4%E3%83%BC%E3%83%AB%E3%83%89?fnode=8f2dba2aeea61c648e66e432fafab43c11fc28098b39710776c82ae70fa78b11e7b554a02ba019928ad09c9016e3a788c8773922a4f2c9641ea689e382a03e0ac6888eb6a4e7028d8ed1b1ac2b816b03",
+      "first_seen": "2026-05-26T15:44:34+09:00",
+      "last_seen": "2026-05-26T15:44:34+09:00",
+      "is_available": true,
+      "periods": [
+        {
+          "start": "2026-05-26T15:44:34+09:00",
+          "end": null
+        }
+      ]
+    },
+    "FW103J/A": {
+      "name": "13インチMacBook Air [整備済製品] 10コアCPUと10コアGPUを搭載したApple M4チップ - スターライト",
+      "price": 139800,
+      "price_text": "139,800円",
+      "retail_price_text": "¥139,800",
+      "part_number": "FW103J/A",
+      "url": "https://www.apple.com/jp/shop/product/fw103j/a/13%E3%82%A4%E3%83%B3%E3%83%81MacBook-Air-%5B%E6%95%B4%E5%82%99%E6%B8%88%E8%A3%BD%E5%93%81%5D-10%E3%82%B3%E3%82%A2CPU%E3%81%A810%E3%82%B3%E3%82%A2GPU%E3%82%92%E6%90%AD%E8%BC%89%E3%81%97%E3%81%9FApple-M4%E3%83%81%E3%83%83%E3%83%97-%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%A9%E3%82%A4%E3%83%88?fnode=8f2dba2aeea61c648e66e432fafab43c11fc28098b39710776c82ae70fa78b11e7b554a02ba019928ad09c9016e3a788c8773922a4f2c9641ea689e382a03e0ac6888eb6a4e7028d8ed1b1ac2b816b03",
+      "first_seen": "2026-05-26T15:44:34+09:00",
+      "last_seen": "2026-05-26T15:44:34+09:00",
+      "is_available": true,
+      "periods": [
+        {
+          "start": "2026-05-26T15:44:34+09:00",
+          "end": null
+        }
+      ]
+    },
+    "FW133J/A": {
+      "name": "13インチMacBook Air [整備済製品] 10コアCPUと10コアGPUを搭載したApple M4チップ - ミッドナイト",
+      "price": 139800,
+      "price_text": "139,800円",
+      "retail_price_text": "¥139,800",
+      "part_number": "FW133J/A",
+      "url": "https://www.apple.com/jp/shop/product/fw133j/a/13%E3%82%A4%E3%83%B3%E3%83%81MacBook-Air-%5B%E6%95%B4%E5%82%99%E6%B8%88%E8%A3%BD%E5%93%81%5D-10%E3%82%B3%E3%82%A2CPU%E3%81%A810%E3%82%B3%E3%82%A2GPU%E3%82%92%E6%90%AD%E8%BC%89%E3%81%97%E3%81%9FApple-M4%E3%83%81%E3%83%83%E3%83%97-%E3%83%9F%E3%83%83%E3%83%89%E3%83%8A%E3%82%A4%E3%83%88?fnode=8f2dba2aeea61c648e66e432fafab43c11fc28098b39710776c82ae70fa78b11e7b554a02ba019928ad09c9016e3a788c8773922a4f2c9641ea689e382a03e0ac6888eb6a4e7028d8ed1b1ac2b816b03",
+      "first_seen": "2026-05-26T15:44:34+09:00",
+      "last_seen": "2026-05-26T15:44:34+09:00",
+      "is_available": true,
+      "periods": [
+        {
+          "start": "2026-05-26T15:44:34+09:00",
+          "end": null
+        }
+      ]
+    },
+    "FC7A4J/A": {
+      "name": "15インチMacBook Air [整備済製品] 10コアCPUと10コアGPUを搭載したApple M4チップ - スカイブルー",
+      "price": 155800,
+      "price_text": "155,800円",
+      "retail_price_text": "¥155,800",
+      "part_number": "FC7A4J/A",
+      "url": "https://www.apple.com/jp/shop/product/fc7a4j/a/15%E3%82%A4%E3%83%B3%E3%83%81MacBook-Air-%5B%E6%95%B4%E5%82%99%E6%B8%88%E8%A3%BD%E5%93%81%5D-10%E3%82%B3%E3%82%A2CPU%E3%81%A810%E3%82%B3%E3%82%A2GPU%E3%82%92%E6%90%AD%E8%BC%89%E3%81%97%E3%81%9FApple-M4-%E3%83%81%E3%83%83%E3%83%97-%E3%82%B9%E3%82%AB%E3%82%A4%E3%83%96%E3%83%AB%E3%83%BC?fnode=8f2dba2aeea61c648e66e432fafab43c11fc28098b39710776c82ae70fa78b11e7b554a02ba019928ad09c9016e3a788c8773922a4f2c9641ea689e382a03e0ac6888eb6a4e7028d8ed1b1ac2b816b03",
+      "first_seen": "2026-05-26T15:44:34+09:00",
+      "last_seen": "2026-05-26T15:44:34+09:00",
+      "is_available": true,
+      "periods": [
+        {
+          "start": "2026-05-26T15:44:34+09:00",
+          "end": null
+        }
+      ]
+    },
+    "FW1G3J/A": {
+      "name": "15インチMacBook Air [整備済製品] 10コアCPUと10コアGPUを搭載したApple M4チップ - シルバー",
+      "price": 155800,
+      "price_text": "155,800円",
+      "retail_price_text": "¥155,800",
+      "part_number": "FW1G3J/A",
+      "url": "https://www.apple.com/jp/shop/product/fw1g3j/a/15%E3%82%A4%E3%83%B3%E3%83%81MacBook-Air-%5B%E6%95%B4%E5%82%99%E6%B8%88%E8%A3%BD%E5%93%81%5D-10%E3%82%B3%E3%82%A2CPU%E3%81%A810%E3%82%B3%E3%82%A2GPU%E3%82%92%E6%90%AD%E8%BC%89%E3%81%97%E3%81%9FApple-M4-%E3%83%81%E3%83%83%E3%83%97-%E3%82%B7%E3%83%AB%E3%83%90%E3%83%BC?fnode=8f2dba2aeea61c648e66e432fafab43c11fc28098b39710776c82ae70fa78b11e7b554a02ba019928ad09c9016e3a788c8773922a4f2c9641ea689e382a03e0ac6888eb6a4e7028d8ed1b1ac2b816b03",
+      "first_seen": "2026-05-26T15:44:34+09:00",
+      "last_seen": "2026-05-26T15:44:34+09:00",
+      "is_available": true,
+      "periods": [
+        {
+          "start": "2026-05-26T15:44:34+09:00",
+          "end": null
+        }
+      ]
+    },
+    "FW1J3J/A": {
+      "name": "15インチMacBook Air [整備済製品] 10コアCPUと10コアGPUを搭載したApple M4チップ - スターライト",
+      "price": 155800,
+      "price_text": "155,800円",
+      "retail_price_text": "¥155,800",
+      "part_number": "FW1J3J/A",
+      "url": "https://www.apple.com/jp/shop/product/fw1j3j/a/15%E3%82%A4%E3%83%B3%E3%83%81MacBook-Air-%5B%E6%95%B4%E5%82%99%E6%B8%88%E8%A3%BD%E5%93%81%5D-10%E3%82%B3%E3%82%A2CPU%E3%81%A810%E3%82%B3%E3%82%A2GPU%E3%82%92%E6%90%AD%E8%BC%89%E3%81%97%E3%81%9FApple-M4-%E3%83%81%E3%83%83%E3%83%97-%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%A9%E3%82%A4%E3%83%88?fnode=8f2dba2aeea61c648e66e432fafab43c11fc28098b39710776c82ae70fa78b11e7b554a02ba019928ad09c9016e3a788c8773922a4f2c9641ea689e382a03e0ac6888eb6a4e7028d8ed1b1ac2b816b03",
+      "first_seen": "2026-05-26T15:44:34+09:00",
+      "last_seen": "2026-05-26T15:44:34+09:00",
+      "is_available": true,
+      "periods": [
+        {
+          "start": "2026-05-26T15:44:34+09:00",
+          "end": null
+        }
+      ]
+    },
+    "FW1L3J/A": {
+      "name": "15インチMacBook Air [整備済製品] 10コアCPUと10コアGPUを搭載したApple M4チップ - ミッドナイト",
+      "price": 155800,
+      "price_text": "155,800円",
+      "retail_price_text": "¥155,800",
+      "part_number": "FW1L3J/A",
+      "url": "https://www.apple.com/jp/shop/product/fw1l3j/a/15%E3%82%A4%E3%83%B3%E3%83%81MacBook-Air-%5B%E6%95%B4%E5%82%99%E6%B8%88%E8%A3%BD%E5%93%81%5D-10%E3%82%B3%E3%82%A2CPU%E3%81%A810%E3%82%B3%E3%82%A2GPU%E3%82%92%E6%90%AD%E8%BC%89%E3%81%97%E3%81%9FApple-M4-%E3%83%81%E3%83%83%E3%83%97-%E3%83%9F%E3%83%83%E3%83%89%E3%83%8A%E3%82%A4%E3%83%88?fnode=8f2dba2aeea61c648e66e432fafab43c11fc28098b39710776c82ae70fa78b11e7b554a02ba019928ad09c9016e3a788c8773922a4f2c9641ea689e382a03e0ac6888eb6a4e7028d8ed1b1ac2b816b03",
+      "first_seen": "2026-05-26T15:44:34+09:00",
+      "last_seen": "2026-05-26T15:44:34+09:00",
+      "is_available": true,
+      "periods": [
+        {
+          "start": "2026-05-26T15:44:34+09:00",
+          "end": null
+        }
+      ]
+    },
+    "FC7C4J/A": {
+      "name": "15インチMacBook Air [整備済製品] 10コアCPUと10コアGPUを搭載したApple M4チップ - スカイブルー",
+      "price": 167800,
+      "price_text": "167,800円",
+      "retail_price_text": "¥167,800",
+      "part_number": "FC7C4J/A",
+      "url": "https://www.apple.com/jp/shop/product/fc7c4j/a/15%E3%82%A4%E3%83%B3%E3%83%81MacBook-Air-%5B%E6%95%B4%E5%82%99%E6%B8%88%E8%A3%BD%E5%93%81%5D-10%E3%82%B3%E3%82%A2CPU%E3%81%A810%E3%82%B3%E3%82%A2GPU%E3%82%92%E6%90%AD%E8%BC%89%E3%81%97%E3%81%9FApple-M4-%E3%83%81%E3%83%83%E3%83%97-%E3%82%B9%E3%82%AB%E3%82%A4%E3%83%96%E3%83%AB%E3%83%BC?fnode=8f2dba2aeea61c648e66e432fafab43c11fc28098b39710776c82ae70fa78b11e7b554a02ba019928ad09c9016e3a788c8773922a4f2c9641ea689e382a03e0ac6888eb6a4e7028d8ed1b1ac2b816b03",
+      "first_seen": "2026-05-26T15:44:34+09:00",
+      "last_seen": "2026-05-26T15:44:34+09:00",
+      "is_available": true,
+      "periods": [
+        {
+          "start": "2026-05-26T15:44:34+09:00",
+          "end": null
+        }
+      ]
+    },
+    "FW1H3J/A": {
+      "name": "15インチMacBook Air [整備済製品] 10コアCPUと10コアGPUを搭載したApple M4チップ - シルバー",
+      "price": 167800,
+      "price_text": "167,800円",
+      "retail_price_text": "¥167,800",
+      "part_number": "FW1H3J/A",
+      "url": "https://www.apple.com/jp/shop/product/fw1h3j/a/15%E3%82%A4%E3%83%B3%E3%83%81MacBook-Air-%5B%E6%95%B4%E5%82%99%E6%B8%88%E8%A3%BD%E5%93%81%5D-10%E3%82%B3%E3%82%A2CPU%E3%81%A810%E3%82%B3%E3%82%A2GPU%E3%82%92%E6%90%AD%E8%BC%89%E3%81%97%E3%81%9FApple-M4-%E3%83%81%E3%83%83%E3%83%97-%E3%82%B7%E3%83%AB%E3%83%90%E3%83%BC?fnode=8f2dba2aeea61c648e66e432fafab43c11fc28098b39710776c82ae70fa78b11e7b554a02ba019928ad09c9016e3a788c8773922a4f2c9641ea689e382a03e0ac6888eb6a4e7028d8ed1b1ac2b816b03",
+      "first_seen": "2026-05-26T15:44:34+09:00",
+      "last_seen": "2026-05-26T15:44:34+09:00",
+      "is_available": true,
+      "periods": [
+        {
+          "start": "2026-05-26T15:44:34+09:00",
+          "end": null
+        }
+      ]
+    },
+    "FW1M3J/A": {
+      "name": "15インチMacBook Air [整備済製品] 10コアCPUと10コアGPUを搭載したApple M4チップ - ミッドナイト",
+      "price": 167800,
+      "price_text": "167,800円",
+      "retail_price_text": "¥167,800",
+      "part_number": "FW1M3J/A",
+      "url": "https://www.apple.com/jp/shop/product/fw1m3j/a/15%E3%82%A4%E3%83%B3%E3%83%81MacBook-Air-%5B%E6%95%B4%E5%82%99%E6%B8%88%E8%A3%BD%E5%93%81%5D-10%E3%82%B3%E3%82%A2CPU%E3%81%A810%E3%82%B3%E3%82%A2GPU%E3%82%92%E6%90%AD%E8%BC%89%E3%81%97%E3%81%9FApple-M4-%E3%83%81%E3%83%83%E3%83%97-%E3%83%9F%E3%83%83%E3%83%89%E3%83%8A%E3%82%A4%E3%83%88?fnode=8f2dba2aeea61c648e66e432fafab43c11fc28098b39710776c82ae70fa78b11e7b554a02ba019928ad09c9016e3a788c8773922a4f2c9641ea689e382a03e0ac6888eb6a4e7028d8ed1b1ac2b816b03",
+      "first_seen": "2026-05-26T15:44:34+09:00",
+      "last_seen": "2026-05-26T15:44:34+09:00",
+      "is_available": true,
+      "periods": [
+        {
+          "start": "2026-05-26T15:44:34+09:00",
+          "end": null
+        }
+      ]
+    },
+    "G1DC0J/A": {
+      "name": "15インチMacBook Air [整備済製品] 10コアCPUと10コアGPUを搭載したApple M4チップ - シルバー",
+      "price": 192800,
+      "price_text": "192,800円",
+      "retail_price_text": "¥192,800",
+      "part_number": "G1DC0J/A",
+      "url": "https://www.apple.com/jp/shop/product/g1dc0j/a/15%E3%82%A4%E3%83%B3%E3%83%81MacBook-Air-%5B%E6%95%B4%E5%82%99%E6%B8%88%E8%A3%BD%E5%93%81%5D-10%E3%82%B3%E3%82%A2CPU%E3%81%A810%E3%82%B3%E3%82%A2GPU%E3%82%92%E6%90%AD%E8%BC%89%E3%81%97%E3%81%9FApple-M4-%E3%83%81%E3%83%83%E3%83%97-%E3%82%B7%E3%83%AB%E3%83%90%E3%83%BC?fnode=8f2dba2aeea61c648e66e432fafab43c11fc28098b39710776c82ae70fa78b11e7b554a02ba019928ad09c9016e3a788c8773922a4f2c9641ea689e382a03e0ac6888eb6a4e7028d8ed1b1ac2b816b03",
+      "first_seen": "2026-05-26T15:44:34+09:00",
+      "last_seen": "2026-05-26T15:44:34+09:00",
+      "is_available": true,
+      "periods": [
+        {
+          "start": "2026-05-26T15:44:34+09:00",
+          "end": null
+        }
+      ]
+    },
+    "G1DF0J/A": {
+      "name": "15インチMacBook Air [整備済製品] 10コアCPUと10コアGPUを搭載したApple M4チップ - スターライト",
+      "price": 192800,
+      "price_text": "192,800円",
+      "retail_price_text": "¥192,800",
+      "part_number": "G1DF0J/A",
+      "url": "https://www.apple.com/jp/shop/product/g1df0j/a/15%E3%82%A4%E3%83%B3%E3%83%81MacBook-Air-%5B%E6%95%B4%E5%82%99%E6%B8%88%E8%A3%BD%E5%93%81%5D-10%E3%82%B3%E3%82%A2CPU%E3%81%A810%E3%82%B3%E3%82%A2GPU%E3%82%92%E6%90%AD%E8%BC%89%E3%81%97%E3%81%9FApple-M4-%E3%83%81%E3%83%83%E3%83%97-%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%A9%E3%82%A4%E3%83%88?fnode=8f2dba2aeea61c648e66e432fafab43c11fc28098b39710776c82ae70fa78b11e7b554a02ba019928ad09c9016e3a788c8773922a4f2c9641ea689e382a03e0ac6888eb6a4e7028d8ed1b1ac2b816b03",
+      "first_seen": "2026-05-26T15:44:34+09:00",
+      "last_seen": "2026-05-26T15:44:34+09:00",
+      "is_available": true,
+      "periods": [
+        {
+          "start": "2026-05-26T15:44:34+09:00",
+          "end": null
+        }
+      ]
+    },
+    "G1DH0J/A": {
+      "name": "15インチMacBook Air [整備済製品] 10コアCPUと10コアGPUを搭載したApple M4チップ - ミッドナイト",
+      "price": 192800,
+      "price_text": "192,800円",
+      "retail_price_text": "¥192,800",
+      "part_number": "G1DH0J/A",
+      "url": "https://www.apple.com/jp/shop/product/g1dh0j/a/15%E3%82%A4%E3%83%B3%E3%83%81MacBook-Air-%5B%E6%95%B4%E5%82%99%E6%B8%88%E8%A3%BD%E5%93%81%5D-10%E3%82%B3%E3%82%A2CPU%E3%81%A810%E3%82%B3%E3%82%A2GPU%E3%82%92%E6%90%AD%E8%BC%89%E3%81%97%E3%81%9FApple-M4-%E3%83%81%E3%83%83%E3%83%97-%E3%83%9F%E3%83%83%E3%83%89%E3%83%8A%E3%82%A4%E3%83%88?fnode=8f2dba2aeea61c648e66e432fafab43c11fc28098b39710776c82ae70fa78b11e7b554a02ba019928ad09c9016e3a788c8773922a4f2c9641ea689e382a03e0ac6888eb6a4e7028d8ed1b1ac2b816b03",
+      "first_seen": "2026-05-26T15:44:34+09:00",
+      "last_seen": "2026-05-26T15:44:34+09:00",
+      "is_available": true,
+      "periods": [
+        {
+          "start": "2026-05-26T15:44:34+09:00",
+          "end": null
+        }
+      ]
+    },
+    "FC6J4J/A": {
+      "name": "15インチMacBook Air [整備済製品] 10コアCPUと10コアGPUを搭載したApple M4チップ - シルバー",
+      "price": 193800,
+      "price_text": "193,800円",
+      "retail_price_text": "¥193,800",
+      "part_number": "FC6J4J/A",
+      "url": "https://www.apple.com/jp/shop/product/fc6j4j/a/15%E3%82%A4%E3%83%B3%E3%83%81MacBook-Air-%5B%E6%95%B4%E5%82%99%E6%B8%88%E8%A3%BD%E5%93%81%5D-10%E3%82%B3%E3%82%A2CPU%E3%81%A810%E3%82%B3%E3%82%A2GPU%E3%82%92%E6%90%AD%E8%BC%89%E3%81%97%E3%81%9FApple-M4-%E3%83%81%E3%83%83%E3%83%97-%E3%82%B7%E3%83%AB%E3%83%90%E3%83%BC?fnode=8f2dba2aeea61c648e66e432fafab43c11fc28098b39710776c82ae70fa78b11e7b554a02ba019928ad09c9016e3a788c8773922a4f2c9641ea689e382a03e0ac6888eb6a4e7028d8ed1b1ac2b816b03",
+      "first_seen": "2026-05-26T15:44:34+09:00",
+      "last_seen": "2026-05-26T15:44:34+09:00",
+      "is_available": true,
+      "periods": [
+        {
+          "start": "2026-05-26T15:44:34+09:00",
+          "end": null
+        }
+      ]
+    },
+    "FC7D4J/A": {
+      "name": "15インチMacBook Air [整備済製品] 10コアCPUと10コアGPUを搭載したApple M4チップ - スカイブルー",
+      "price": 193800,
+      "price_text": "193,800円",
+      "retail_price_text": "¥193,800",
+      "part_number": "FC7D4J/A",
+      "url": "https://www.apple.com/jp/shop/product/fc7d4j/a/15%E3%82%A4%E3%83%B3%E3%83%81MacBook-Air-%5B%E6%95%B4%E5%82%99%E6%B8%88%E8%A3%BD%E5%93%81%5D-10%E3%82%B3%E3%82%A2CPU%E3%81%A810%E3%82%B3%E3%82%A2GPU%E3%82%92%E6%90%AD%E8%BC%89%E3%81%97%E3%81%9FApple-M4-%E3%83%81%E3%83%83%E3%83%97-%E3%82%B9%E3%82%AB%E3%82%A4%E3%83%96%E3%83%AB%E3%83%BC?fnode=8f2dba2aeea61c648e66e432fafab43c11fc28098b39710776c82ae70fa78b11e7b554a02ba019928ad09c9016e3a788c8773922a4f2c9641ea689e382a03e0ac6888eb6a4e7028d8ed1b1ac2b816b03",
+      "first_seen": "2026-05-26T15:44:34+09:00",
+      "last_seen": "2026-05-26T15:44:34+09:00",
+      "is_available": true,
+      "periods": [
+        {
+          "start": "2026-05-26T15:44:34+09:00",
+          "end": null
         }
       ]
     }
@@ -3002,6 +3343,10 @@
     {
       "timestamp": "2026-05-26T07:06:00+09:00",
       "product_count": 11
+    },
+    {
+      "timestamp": "2026-05-26T15:44:34+09:00",
+      "product_count": 30
     }
   ]
 }
