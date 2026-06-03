@@ -117,7 +117,7 @@
       "part_number": "FNYC3J/A",
       "url": "https://www.apple.com/jp/shop/product/fnyc3j/a/11%E3%82%A4%E3%83%B3%E3%83%81iPad-Pro-Wi-Fi-Cellular-128GB-%E3%82%B9%E3%83%9A%E3%83%BC%E3%82%B9%E3%82%B0%E3%83%AC%E3%82%A4%E7%AC%AC4%E4%B8%96%E4%BB%A3%E6%95%B4%E5%82%99%E6%B8%88%E8%A3%BD%E5%93%81?fnode=2bbe2a9cbed52839239ae1f5dca724d0a7aad03104b36356c6b730d63dda975dbf9458cfe5b0974b998aa8ff119d8d3e4b5d2552b43684702e2615d946026fed9b4fc7d0a98d40df9b1e929b03c79662",
       "first_seen": "2026-04-22T19:19:08+09:00",
-      "last_seen": "2026-06-03T08:00:41+09:00",
+      "last_seen": "2026-06-03T17:14:28+09:00",
       "is_available": true,
       "periods": [
         {
@@ -134,7 +134,7 @@
       "part_number": "FNYD3J/A",
       "url": "https://www.apple.com/jp/shop/product/fnyd3j/a/11%E3%82%A4%E3%83%B3%E3%83%81iPad-Pro-Wi-Fi-Cellular-128GB-%E3%82%B7%E3%83%AB%E3%83%90%E3%83%BC%E7%AC%AC4%E4%B8%96%E4%BB%A3%E6%95%B4%E5%82%99%E6%B8%88%E8%A3%BD%E5%93%81?fnode=2bbe2a9cbed52839239ae1f5dca724d0a7aad03104b36356c6b730d63dda975dbf9458cfe5b0974b998aa8ff119d8d3e4b5d2552b43684702e2615d946026fed9b4fc7d0a98d40df9b1e929b03c79662",
       "first_seen": "2026-04-22T19:19:08+09:00",
-      "last_seen": "2026-06-03T08:00:41+09:00",
+      "last_seen": "2026-06-03T17:14:28+09:00",
       "is_available": true,
       "periods": [
         {
@@ -151,7 +151,7 @@
       "part_number": "FVV83J/A",
       "url": "https://www.apple.com/jp/shop/product/fvv83j/a/11%E3%82%A4%E3%83%B3%E3%83%81iPad-ProM4Wi-Fi-256GB%E6%A8%99%E6%BA%96%E3%82%AC%E3%83%A9%E3%82%B9%E6%90%AD%E8%BC%89-%E3%82%B9%E3%83%9A%E3%83%BC%E3%82%B9%E3%83%96%E3%83%A9%E3%83%83%E3%82%AF-%E6%95%B4%E5%82%99%E6%B8%88%E8%A3%BD%E5%93%81?fnode=2bbe2a9cbed52839239ae1f5dca724d0a7aad03104b36356c6b730d63dda975dbf9458cfe5b0974b998aa8ff119d8d3e4b5d2552b43684702e2615d946026fed9b4fc7d0a98d40df9b1e929b03c79662",
       "first_seen": "2026-04-22T19:19:08+09:00",
-      "last_seen": "2026-06-03T08:00:41+09:00",
+      "last_seen": "2026-06-03T17:14:28+09:00",
       "is_available": true,
       "periods": [
         {
@@ -168,7 +168,7 @@
       "part_number": "FVV93J/A",
       "url": "https://www.apple.com/jp/shop/product/fvv93j/a/11%E3%82%A4%E3%83%B3%E3%83%81iPad-ProM4Wi-Fi-256GB%E6%A8%99%E6%BA%96%E3%82%AC%E3%83%A9%E3%82%B9%E6%90%AD%E8%BC%89-%E3%82%B7%E3%83%AB%E3%83%90%E3%83%BC-%E6%95%B4%E5%82%99%E6%B8%88%E8%A3%BD%E5%93%81?fnode=2bbe2a9cbed52839239ae1f5dca724d0a7aad03104b36356c6b730d63dda975dbf9458cfe5b0974b998aa8ff119d8d3e4b5d2552b43684702e2615d946026fed9b4fc7d0a98d40df9b1e929b03c79662",
       "first_seen": "2026-04-22T19:19:08+09:00",
-      "last_seen": "2026-06-03T08:00:41+09:00",
+      "last_seen": "2026-06-03T17:14:28+09:00",
       "is_available": true,
       "periods": [
         {
@@ -220,11 +220,11 @@
       "url": "https://www.apple.com/jp/shop/product/fnxj3j/a/11%E3%82%A4%E3%83%B3%E3%83%81iPad-Pro-Wi-Fi-512GB-%E3%82%B7%E3%83%AB%E3%83%90%E3%83%BC%E7%AC%AC4%E4%B8%96%E4%BB%A3%E6%95%B4%E5%82%99%E6%B8%88%E8%A3%BD%E5%93%81?fnode=2bbe2a9cbed52839239ae1f5dca724d0a7aad03104b36356c6b730d63dda975dbf9458cfe5b0974b998aa8ff119d8d3e4b5d2552b43684702e2615d946026fed9b4fc7d0a98d40df9b1e929b03c79662",
       "first_seen": "2026-04-22T19:19:08+09:00",
       "last_seen": "2026-06-03T08:00:41+09:00",
-      "is_available": true,
+      "is_available": false,
       "periods": [
         {
           "start": "2026-04-22T19:19:08+09:00",
-          "end": null
+          "end": "2026-06-03T17:14:28+09:00"
         }
       ]
     },
@@ -236,7 +236,7 @@
       "part_number": "FVVC3J/A",
       "url": "https://www.apple.com/jp/shop/product/fvvc3j/a/11%E3%82%A4%E3%83%B3%E3%83%81iPad-ProM4Wi-Fi-512GB%E6%A8%99%E6%BA%96%E3%82%AC%E3%83%A9%E3%82%B9%E6%90%AD%E8%BC%89-%E3%82%B9%E3%83%9A%E3%83%BC%E3%82%B9%E3%83%96%E3%83%A9%E3%83%83%E3%82%AF-%E6%95%B4%E5%82%99%E6%B8%88%E8%A3%BD%E5%93%81?fnode=2bbe2a9cbed52839239ae1f5dca724d0a7aad03104b36356c6b730d63dda975dbf9458cfe5b0974b998aa8ff119d8d3e4b5d2552b43684702e2615d946026fed9b4fc7d0a98d40df9b1e929b03c79662",
       "first_seen": "2026-04-22T19:19:08+09:00",
-      "last_seen": "2026-06-03T08:00:41+09:00",
+      "last_seen": "2026-06-03T17:14:28+09:00",
       "is_available": true,
       "periods": [
         {
@@ -253,7 +253,7 @@
       "part_number": "FVW13J/A",
       "url": "https://www.apple.com/jp/shop/product/fvw13j/a/11%E3%82%A4%E3%83%B3%E3%83%81iPad-ProM4Wi-Fi-Cellular-256GB%E6%A8%99%E6%BA%96%E3%82%AC%E3%83%A9%E3%82%B9%E6%90%AD%E8%BC%89-%E3%82%B9%E3%83%9A%E3%83%BC%E3%82%B9%E3%83%96%E3%83%A9%E3%83%83%E3%82%AF-%E6%95%B4%E5%82%99%E6%B8%88%E8%A3%BD%E5%93%81?fnode=2bbe2a9cbed52839239ae1f5dca724d0a7aad03104b36356c6b730d63dda975dbf9458cfe5b0974b998aa8ff119d8d3e4b5d2552b43684702e2615d946026fed9b4fc7d0a98d40df9b1e929b03c79662",
       "first_seen": "2026-04-22T19:19:08+09:00",
-      "last_seen": "2026-06-03T08:00:41+09:00",
+      "last_seen": "2026-06-03T17:14:28+09:00",
       "is_available": true,
       "periods": [
         {
@@ -270,7 +270,7 @@
       "part_number": "FVW23J/A",
       "url": "https://www.apple.com/jp/shop/product/fvw23j/a/11%E3%82%A4%E3%83%B3%E3%83%81iPad-ProM4Wi-Fi-Cellular-256GB%E6%A8%99%E6%BA%96%E3%82%AC%E3%83%A9%E3%82%B9%E6%90%AD%E8%BC%89-%E3%82%B7%E3%83%AB%E3%83%90%E3%83%BC-%E6%95%B4%E5%82%99%E6%B8%88%E8%A3%BD%E5%93%81?fnode=2bbe2a9cbed52839239ae1f5dca724d0a7aad03104b36356c6b730d63dda975dbf9458cfe5b0974b998aa8ff119d8d3e4b5d2552b43684702e2615d946026fed9b4fc7d0a98d40df9b1e929b03c79662",
       "first_seen": "2026-04-22T19:19:08+09:00",
-      "last_seen": "2026-06-03T08:00:41+09:00",
+      "last_seen": "2026-06-03T17:14:28+09:00",
       "is_available": true,
       "periods": [
         {
@@ -291,7 +291,7 @@
       "part_number": "FP1X3J/A",
       "url": "https://www.apple.com/jp/shop/product/fp1x3j/a/129%E3%82%A4%E3%83%B3%E3%83%81iPad-Pro-Wi-Fi-Cellular-128GB-%E3%82%B9%E3%83%9A%E3%83%BC%E3%82%B9%E3%82%B0%E3%83%AC%E3%82%A4%E7%AC%AC6%E4%B8%96%E4%BB%A3%E6%95%B4%E5%82%99%E6%B8%88%E8%A3%BD%E5%93%81?fnode=2bbe2a9cbed52839239ae1f5dca724d0a7aad03104b36356c6b730d63dda975dbf9458cfe5b0974b998aa8ff119d8d3e4b5d2552b43684702e2615d946026fed9b4fc7d0a98d40df9b1e929b03c79662",
       "first_seen": "2026-04-22T19:19:08+09:00",
-      "last_seen": "2026-06-03T08:00:41+09:00",
+      "last_seen": "2026-06-03T17:14:28+09:00",
       "is_available": true,
       "periods": [
         {
@@ -312,7 +312,7 @@
       "part_number": "FP1Y3J/A",
       "url": "https://www.apple.com/jp/shop/product/fp1y3j/a/129%E3%82%A4%E3%83%B3%E3%83%81ipad-pro-wi-fi-cellular-128gb-%E3%82%B7%E3%83%AB%E3%83%90%E3%83%BC-%E7%AC%AC6%E4%B8%96%E4%BB%A3-%E6%95%B4%E5%82%99%E6%B8%88%E8%A3%BD%E5%93%81?fnode=2bbe2a9cbed52839239ae1f5dca724d0a7aad03104b36356c6b730d63dda975dbf9458cfe5b0974b998aa8ff119d8d3e4b5d2552b43684702e2615d946026fed9b4fc7d0a98d40df9b1e929b03c79662",
       "first_seen": "2026-04-22T19:19:08+09:00",
-      "last_seen": "2026-06-03T08:00:41+09:00",
+      "last_seen": "2026-06-03T17:14:28+09:00",
       "is_available": true,
       "periods": [
         {
@@ -333,7 +333,7 @@
       "part_number": "FNYG3J/A",
       "url": "https://www.apple.com/jp/shop/product/fnyg3j/a/11%E3%82%A4%E3%83%B3%E3%83%81iPad-Pro-Wi-Fi-Cellular-512GB-%E3%82%B9%E3%83%9A%E3%83%BC%E3%82%B9%E3%82%B0%E3%83%AC%E3%82%A4%E7%AC%AC4%E4%B8%96%E4%BB%A3%E6%95%B4%E5%82%99%E6%B8%88%E8%A3%BD%E5%93%81?fnode=2bbe2a9cbed52839239ae1f5dca724d0a7aad03104b36356c6b730d63dda975dbf9458cfe5b0974b998aa8ff119d8d3e4b5d2552b43684702e2615d946026fed9b4fc7d0a98d40df9b1e929b03c79662",
       "first_seen": "2026-04-22T19:19:08+09:00",
-      "last_seen": "2026-06-03T08:00:41+09:00",
+      "last_seen": "2026-06-03T17:14:28+09:00",
       "is_available": true,
       "periods": [
         {
@@ -354,7 +354,7 @@
       "part_number": "FNYH3J/A",
       "url": "https://www.apple.com/jp/shop/product/fnyh3j/a/11%E3%82%A4%E3%83%B3%E3%83%81iPad-Pro-Wi-Fi-Cellular-512GB-%E3%82%B7%E3%83%AB%E3%83%90%E3%83%BC%E7%AC%AC4%E4%B8%96%E4%BB%A3%E6%95%B4%E5%82%99%E6%B8%88%E8%A3%BD%E5%93%81?fnode=2bbe2a9cbed52839239ae1f5dca724d0a7aad03104b36356c6b730d63dda975dbf9458cfe5b0974b998aa8ff119d8d3e4b5d2552b43684702e2615d946026fed9b4fc7d0a98d40df9b1e929b03c79662",
       "first_seen": "2026-04-22T19:19:08+09:00",
-      "last_seen": "2026-06-03T08:00:41+09:00",
+      "last_seen": "2026-06-03T17:14:28+09:00",
       "is_available": true,
       "periods": [
         {
@@ -450,7 +450,7 @@
       "part_number": "FP203J/A",
       "url": "https://www.apple.com/jp/shop/product/fp203j/a/129%E3%82%A4%E3%83%B3%E3%83%81ipad-pro-wi-fi-cellular-256gb-%E3%82%B9%E3%83%9A%E3%83%BC%E3%82%B9%E3%82%B0%E3%83%AC%E3%82%A4-%E7%AC%AC6%E4%B8%96%E4%BB%A3-%E6%95%B4%E5%82%99%E6%B8%88%E8%A3%BD%E5%93%81?fnode=2bbe2a9cbed52839239ae1f5dca724d0a7aad03104b36356c6b730d63dda975dbf9458cfe5b0974b998aa8ff119d8d3e4b5d2552b43684702e2615d946026fed9b4fc7d0a98d40df9b1e929b03c79662",
       "first_seen": "2026-04-22T19:19:08+09:00",
-      "last_seen": "2026-06-03T08:00:41+09:00",
+      "last_seen": "2026-06-03T17:14:28+09:00",
       "is_available": true,
       "periods": [
         {
@@ -475,7 +475,7 @@
       "part_number": "FVW33J/A",
       "url": "https://www.apple.com/jp/shop/product/fvw33j/a/11%E3%82%A4%E3%83%B3%E3%83%81iPad-ProM4Wi-Fi-Cellular-512GB%E6%A8%99%E6%BA%96%E3%82%AC%E3%83%A9%E3%82%B9%E6%90%AD%E8%BC%89-%E3%82%B9%E3%83%9A%E3%83%BC%E3%82%B9%E3%83%96%E3%83%A9%E3%83%83%E3%82%AF-%E6%95%B4%E5%82%99%E6%B8%88%E8%A3%BD%E5%93%81?fnode=2bbe2a9cbed52839239ae1f5dca724d0a7aad03104b36356c6b730d63dda975dbf9458cfe5b0974b998aa8ff119d8d3e4b5d2552b43684702e2615d946026fed9b4fc7d0a98d40df9b1e929b03c79662",
       "first_seen": "2026-04-22T19:19:08+09:00",
-      "last_seen": "2026-06-03T08:00:41+09:00",
+      "last_seen": "2026-06-03T17:14:28+09:00",
       "is_available": true,
       "periods": [
         {
@@ -508,7 +508,7 @@
       "part_number": "FVW43J/A",
       "url": "https://www.apple.com/jp/shop/product/fvw43j/a/11%E3%82%A4%E3%83%B3%E3%83%81iPad-ProM4Wi-Fi-Cellular-512GB%E6%A8%99%E6%BA%96%E3%82%AC%E3%83%A9%E3%82%B9%E6%90%AD%E8%BC%89-%E3%82%B7%E3%83%AB%E3%83%90%E3%83%BC-%E6%95%B4%E5%82%99%E6%B8%88%E8%A3%BD%E5%93%81?fnode=2bbe2a9cbed52839239ae1f5dca724d0a7aad03104b36356c6b730d63dda975dbf9458cfe5b0974b998aa8ff119d8d3e4b5d2552b43684702e2615d946026fed9b4fc7d0a98d40df9b1e929b03c79662",
       "first_seen": "2026-04-22T19:19:08+09:00",
-      "last_seen": "2026-06-03T08:00:41+09:00",
+      "last_seen": "2026-06-03T17:14:28+09:00",
       "is_available": true,
       "periods": [
         {
@@ -537,7 +537,7 @@
       "part_number": "FNXK3J/A",
       "url": "https://www.apple.com/jp/shop/product/fnxk3j/a/11%E3%82%A4%E3%83%B3%E3%83%81iPad-Pro-Wi-Fi-1TB-%E3%82%B9%E3%83%9A%E3%83%BC%E3%82%B9%E3%82%B0%E3%83%AC%E3%82%A4%E7%AC%AC4%E4%B8%96%E4%BB%A3%E6%95%B4%E5%82%99%E6%B8%88%E8%A3%BD%E5%93%81?fnode=2bbe2a9cbed52839239ae1f5dca724d0a7aad03104b36356c6b730d63dda975dbf9458cfe5b0974b998aa8ff119d8d3e4b5d2552b43684702e2615d946026fed9b4fc7d0a98d40df9b1e929b03c79662",
       "first_seen": "2026-04-22T19:19:08+09:00",
-      "last_seen": "2026-06-03T08:00:41+09:00",
+      "last_seen": "2026-06-03T17:14:28+09:00",
       "is_available": true,
       "periods": [
         {
@@ -566,7 +566,7 @@
       "part_number": "FNXL3J/A",
       "url": "https://www.apple.com/jp/shop/product/fnxl3j/a/11%E3%82%A4%E3%83%B3%E3%83%81iPad-Pro-Wi-Fi-1TB-%E3%82%B7%E3%83%AB%E3%83%90%E3%83%BC%E7%AC%AC4%E4%B8%96%E4%BB%A3%E6%95%B4%E5%82%99%E6%B8%88%E8%A3%BD%E5%93%81?fnode=2bbe2a9cbed52839239ae1f5dca724d0a7aad03104b36356c6b730d63dda975dbf9458cfe5b0974b998aa8ff119d8d3e4b5d2552b43684702e2615d946026fed9b4fc7d0a98d40df9b1e929b03c79662",
       "first_seen": "2026-04-22T19:19:08+09:00",
-      "last_seen": "2026-06-03T08:00:41+09:00",
+      "last_seen": "2026-06-03T17:14:28+09:00",
       "is_available": true,
       "periods": [
         {
@@ -595,7 +595,7 @@
       "part_number": "FVX43J/A",
       "url": "https://www.apple.com/jp/shop/product/fvx43j/a/13%E3%82%A4%E3%83%B3%E3%83%81iPad-ProM4Wi-Fi-512GB%E6%A8%99%E6%BA%96%E3%82%AC%E3%83%A9%E3%82%B9%E6%90%AD%E8%BC%89-%E3%82%B9%E3%83%9A%E3%83%BC%E3%82%B9%E3%83%96%E3%83%A9%E3%83%83%E3%82%AF-%E6%95%B4%E5%82%99%E6%B8%88%E8%A3%BD%E5%93%81?fnode=2bbe2a9cbed52839239ae1f5dca724d0a7aad03104b36356c6b730d63dda975dbf9458cfe5b0974b998aa8ff119d8d3e4b5d2552b43684702e2615d946026fed9b4fc7d0a98d40df9b1e929b03c79662",
       "first_seen": "2026-04-22T19:19:08+09:00",
-      "last_seen": "2026-06-03T08:00:41+09:00",
+      "last_seen": "2026-06-03T17:14:28+09:00",
       "is_available": true,
       "periods": [
         {
@@ -653,7 +653,7 @@
       "part_number": "FVXR3J/A",
       "url": "https://www.apple.com/jp/shop/product/fvxr3j/a/13%E3%82%A4%E3%83%B3%E3%83%81iPad-ProM4Wi-Fi-Cellular-256GB%E6%A8%99%E6%BA%96%E3%82%AC%E3%83%A9%E3%82%B9%E6%90%AD%E8%BC%89-%E3%82%B9%E3%83%9A%E3%83%BC%E3%82%B9%E3%83%96%E3%83%A9%E3%83%83%E3%82%AF-%E6%95%B4%E5%82%99%E6%B8%88%E8%A3%BD%E5%93%81?fnode=2bbe2a9cbed52839239ae1f5dca724d0a7aad03104b36356c6b730d63dda975dbf9458cfe5b0974b998aa8ff119d8d3e4b5d2552b43684702e2615d946026fed9b4fc7d0a98d40df9b1e929b03c79662",
       "first_seen": "2026-04-22T19:19:08+09:00",
-      "last_seen": "2026-06-03T08:00:41+09:00",
+      "last_seen": "2026-06-03T17:14:28+09:00",
       "is_available": true,
       "periods": [
         {
@@ -686,7 +686,7 @@
       "part_number": "FVXT3J/A",
       "url": "https://www.apple.com/jp/shop/product/fvxt3j/a/13%E3%82%A4%E3%83%B3%E3%83%81iPad-ProM4Wi-Fi-Cellular-256GB%E6%A8%99%E6%BA%96%E3%82%AC%E3%83%A9%E3%82%B9%E6%90%AD%E8%BC%89-%E3%82%B7%E3%83%AB%E3%83%90%E3%83%BC-%E6%95%B4%E5%82%99%E6%B8%88%E8%A3%BD%E5%93%81?fnode=2bbe2a9cbed52839239ae1f5dca724d0a7aad03104b36356c6b730d63dda975dbf9458cfe5b0974b998aa8ff119d8d3e4b5d2552b43684702e2615d946026fed9b4fc7d0a98d40df9b1e929b03c79662",
       "first_seen": "2026-04-23T06:49:16+09:00",
-      "last_seen": "2026-06-03T08:00:41+09:00",
+      "last_seen": "2026-06-03T17:14:28+09:00",
       "is_available": true,
       "periods": [
         {
@@ -715,7 +715,7 @@
       "part_number": "FP233J/A",
       "url": "https://www.apple.com/jp/shop/product/fp233j/a/129%E3%82%A4%E3%83%B3%E3%83%81ipad-pro-wi-fi-cellular-512gb-%E3%82%B7%E3%83%AB%E3%83%90%E3%83%BC-%E7%AC%AC6%E4%B8%96%E4%BB%A3-%E6%95%B4%E5%82%99%E6%B8%88%E8%A3%BD%E5%93%81?fnode=8ec33c113e6aa88a2df7731ccc5434b9e10894d2d04b243b8c148a2ee2d69b8dfbf7ea682bc347185912d0cbdff6d21df420eb07a7051f922d426d52c0ca49099f225a73464a0dc12e2966bcc527f212",
       "first_seen": "2026-04-24T06:43:35+09:00",
-      "last_seen": "2026-06-03T08:00:41+09:00",
+      "last_seen": "2026-06-03T17:14:28+09:00",
       "is_available": true,
       "periods": [
         {
@@ -736,7 +736,7 @@
       "part_number": "FNYJ3J/A",
       "url": "https://www.apple.com/jp/shop/product/fnyj3j/a/11%E3%82%A4%E3%83%B3%E3%83%81iPad-Pro-Wi-Fi-Cellular-1TB-%E3%82%B9%E3%83%9A%E3%83%BC%E3%82%B9%E3%82%B0%E3%83%AC%E3%82%A4%E7%AC%AC4%E4%B8%96%E4%BB%A3%E6%95%B4%E5%82%99%E6%B8%88%E8%A3%BD%E5%93%81?fnode=4e540751aa9d62c22561a26d8dc46ecc17b46ea372038b7ea6384b235d55ff57c6b0012915371478900fc1619190796fab340db6086f4bacd88206279fe13d6613c50b9d2d27fe65142665112019ad99",
       "first_seen": "2026-04-24T19:19:59+09:00",
-      "last_seen": "2026-06-03T08:00:41+09:00",
+      "last_seen": "2026-06-03T17:14:28+09:00",
       "is_available": true,
       "periods": [
         {
@@ -765,7 +765,7 @@
       "part_number": "FNYK3J/A",
       "url": "https://www.apple.com/jp/shop/product/fnyk3j/a/11%E3%82%A4%E3%83%B3%E3%83%81iPad-Pro-Wi-Fi-Cellular-1TB-%E3%82%B7%E3%83%AB%E3%83%90%E3%83%BC%E7%AC%AC4%E4%B8%96%E4%BB%A3%E6%95%B4%E5%82%99%E6%B8%88%E8%A3%BD%E5%93%81?fnode=b50b0baaf06cd1a8f3f0105c9efcfea26ff08adb64b252ea4ff6cbba9afd8668baa6f130bbf8fb4e145ea2293034b4615c1de384c1ec3c79f1d89a9e258467372cd7dd6ac005b36ffc5a359e34881037",
       "first_seen": "2026-04-28T01:25:04+09:00",
-      "last_seen": "2026-06-03T08:00:41+09:00",
+      "last_seen": "2026-06-03T17:14:28+09:00",
       "is_available": true,
       "periods": [
         {
@@ -1151,7 +1151,7 @@
       "part_number": "FP213J/A",
       "url": "https://www.apple.com/jp/shop/product/fp213j/a/129%E3%82%A4%E3%83%B3%E3%83%81ipad-pro-wi-fi-cellular-256gb-%E3%82%B7%E3%83%AB%E3%83%90%E3%83%BC-%E7%AC%AC6%E4%B8%96%E4%BB%A3-%E6%95%B4%E5%82%99%E6%B8%88%E8%A3%BD%E5%93%81?fnode=0f37ab5c85036894ccd8cecbefe35ceca16876eba7aec9352c889ce81d55d0802d60ae3682186da4fd4b7f8a9f7caf8eeaf7f7ec15d13b8bcab0bf9c37c3885e2cb7541d2bc0f62be5e9999e358aab92",
       "first_seen": "2026-05-01T01:26:49+09:00",
-      "last_seen": "2026-06-03T08:00:41+09:00",
+      "last_seen": "2026-06-03T17:14:28+09:00",
       "is_available": true,
       "periods": [
         {
@@ -1172,7 +1172,7 @@
       "part_number": "FNXU3J/A",
       "url": "https://www.apple.com/jp/shop/product/fnxu3j/a/129%E3%82%A4%E3%83%B3%E3%83%81ipad-pro-wi-fi-512gb-%E3%82%B9%E3%83%9A%E3%83%BC%E3%82%B9%E3%82%B0%E3%83%AC%E3%82%A4-%E7%AC%AC6%E4%B8%96%E4%BB%A3-%E6%95%B4%E5%82%99%E6%B8%88%E8%A3%BD%E5%93%81?fnode=0f37ab5c85036894ccd8cecbefe35ceca16876eba7aec9352c889ce81d55d0802d60ae3682186da4fd4b7f8a9f7caf8eeaf7f7ec15d13b8bcab0bf9c37c3885e2cb7541d2bc0f62be5e9999e358aab92",
       "first_seen": "2026-05-01T01:26:49+09:00",
-      "last_seen": "2026-06-03T08:00:41+09:00",
+      "last_seen": "2026-06-03T17:14:28+09:00",
       "is_available": true,
       "periods": [
         {
@@ -1243,7 +1243,7 @@
       "part_number": "FP223J/A",
       "url": "https://www.apple.com/jp/shop/product/fp223j/a/129%E3%82%A4%E3%83%B3%E3%83%81ipad-pro-wi-fi-cellular-512gb-%E3%82%B9%E3%83%9A%E3%83%BC%E3%82%B9%E3%82%B0%E3%83%AC%E3%82%A4%E3%83%BC-%E7%AC%AC6%E4%B8%96%E4%BB%A3-%E6%95%B4%E5%82%99%E6%B8%88%E8%A3%BD%E5%93%81?fnode=a45af2c4f066edec57c3d5cfe35434248838a94161ffa9be5c2d312c0ecd25ef728d887ed903b212b70c823344199c83981dbd0004ca8ee951fed751de3cdc7353c1b6c5480f3e264237dd2ee6a03443",
       "first_seen": "2026-05-11T00:51:47+09:00",
-      "last_seen": "2026-06-03T08:00:41+09:00",
+      "last_seen": "2026-06-03T17:14:28+09:00",
       "is_available": true,
       "periods": [
         {
@@ -1382,7 +1382,7 @@
       "part_number": "FNXP3J/A",
       "url": "https://www.apple.com/jp/shop/product/fnxp3j/a/129%E3%82%A4%E3%83%B3%E3%83%81ipad-pro-wi-fi-128gb-%E3%82%B9%E3%83%9A%E3%83%BC%E3%82%B9%E3%82%B0%E3%83%AC%E3%82%A4-%E7%AC%AC6%E4%B8%96%E4%BB%A3-%E6%95%B4%E5%82%99%E6%B8%88%E8%A3%BD%E5%93%81?fnode=9bcc15d181215daf156b0dade6093b0813ae4a5545b73f4f514bc5706c181f81cc196664c447aaa8b8a24b6fd8ee2a5ab493d9c38629b1fb6522abdc4d5544c0506c13f25098239fb893ac8287e9ccf7",
       "first_seen": "2026-05-19T15:46:57+09:00",
-      "last_seen": "2026-06-03T08:00:41+09:00",
+      "last_seen": "2026-06-03T17:14:28+09:00",
       "is_available": true,
       "periods": [
         {
@@ -1399,7 +1399,7 @@
       "part_number": "FUWA3ZA/A",
       "url": "https://www.apple.com/jp/shop/product/fuwa3za/a/apple-pencil-usb-c-%E6%95%B4%E5%82%99%E6%B8%88%E8%A3%BD%E5%93%81?fnode=27c5c88e01e4ea0b8d098ac8b8ec748f84a768600ec06a056e5a47ba3385319230f9cac96b503922be5b4f517b5a00e04fc3b2619f362c940f0231fd19c2d0fdb8cba7eff2c14fb11d9b4b3d2e6053e9",
       "first_seen": "2026-05-29T15:54:17+09:00",
-      "last_seen": "2026-06-03T08:00:41+09:00",
+      "last_seen": "2026-06-03T17:14:28+09:00",
       "is_available": true,
       "periods": [
         {
@@ -1416,7 +1416,7 @@
       "part_number": "FVXU3J/A",
       "url": "https://www.apple.com/jp/shop/product/fvxu3j/a/13%E3%82%A4%E3%83%B3%E3%83%81iPad-ProM4Wi-Fi-Cellular-512GB%E6%A8%99%E6%BA%96%E3%82%AC%E3%83%A9%E3%82%B9%E6%90%AD%E8%BC%89-%E3%82%B9%E3%83%9A%E3%83%BC%E3%82%B9%E3%83%96%E3%83%A9%E3%83%83%E3%82%AF-%E6%95%B4%E5%82%99%E6%B8%88%E8%A3%BD%E5%93%81?fnode=3ebe6be569e1fc078ca4ad4351b9f847336ee11bc464b632b2f76965841b36863a16b416af1ab09674cd05a96df0cface47cc6fc9d1992853280fd30cee258bda0916909c0c62875cfa17baafc4e01a0",
       "first_seen": "2026-05-30T19:46:32+09:00",
-      "last_seen": "2026-06-03T08:00:41+09:00",
+      "last_seen": "2026-06-03T17:14:28+09:00",
       "is_available": true,
       "periods": [
         {
@@ -1433,11 +1433,28 @@
       "part_number": "FVXV3J/A",
       "url": "https://www.apple.com/jp/shop/product/fvxv3j/a/13%E3%82%A4%E3%83%B3%E3%83%81iPad-ProM4Wi-Fi-Cellular-512GB%E6%A8%99%E6%BA%96%E3%82%AC%E3%83%A9%E3%82%B9%E6%90%AD%E8%BC%89-%E3%82%B7%E3%83%AB%E3%83%90%E3%83%BC-%E6%95%B4%E5%82%99%E6%B8%88%E8%A3%BD%E5%93%81?fnode=e8953b2473af74c22805bd2359e4899108ceadfbc3b351ac49d7b68b3042bfac876426fcba5bfe3fde135139f1dd7f1847c9db6dced53c312557aa3e3545b183367a5aab69fa893308dfedfbdb96e4c8",
       "first_seen": "2026-06-01T17:33:11+09:00",
-      "last_seen": "2026-06-03T08:00:41+09:00",
+      "last_seen": "2026-06-03T17:14:28+09:00",
       "is_available": true,
       "periods": [
         {
           "start": "2026-06-01T17:33:11+09:00",
+          "end": null
+        }
+      ]
+    },
+    "FNXW3J/A": {
+      "name": "12.9インチiPad Pro Wi-Fi 1TB - スペースグレイ（第6世代）",
+      "price": 241800,
+      "price_text": "241,800円",
+      "retail_price_text": "¥241,800",
+      "part_number": "FNXW3J/A",
+      "url": "https://www.apple.com/jp/shop/product/fnxw3j/a/129%E3%82%A4%E3%83%B3%E3%83%81ipad-pro-wi-fi-1tb-%E3%82%B9%E3%83%9A%E3%83%BC%E3%82%B9%E3%82%B0%E3%83%AC%E3%82%A4-%E7%AC%AC6%E4%B8%96%E4%BB%A3-%E6%95%B4%E5%82%99%E6%B8%88%E8%A3%BD%E5%93%81?fnode=9b4cf3dd47732a71970a462e7229b5890be83318cede0ab54ce490f6e81701ede1e8ab5fc3f5830e99bb9b1e2826b475d9d1bb5c79c754114f1ac47c6c8ac15ec11d83229f2be128cffbd4d24ed1ab46",
+      "first_seen": "2026-06-03T17:14:28+09:00",
+      "last_seen": "2026-06-03T17:14:28+09:00",
+      "is_available": true,
+      "periods": [
+        {
+          "start": "2026-06-03T17:14:28+09:00",
           "end": null
         }
       ]
@@ -2098,6 +2115,10 @@
     },
     {
       "timestamp": "2026-06-03T08:00:41+09:00",
+      "product_count": 30
+    },
+    {
+      "timestamp": "2026-06-03T17:14:28+09:00",
       "product_count": 30
     }
   ]
