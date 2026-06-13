@@ -224,8 +224,8 @@
       "part_number": "FTML3J/A",
       "url": "https://www.apple.com/jp/shop/product/ftml3j/a/iphone-15-128gb-%E3%83%96%E3%83%AB%E3%83%BC-SIM%E3%83%95%E3%83%AA%E3%83%BC-%E6%95%B4%E5%82%99%E6%B8%88%E8%A3%BD%E5%93%81?fnode=a6b94eaee6e5c61e7ba01f6977c5329b5fda1b6ede61f310c5879dd1211619a89c55eda4b02320247f6bf4e1eaf10a1c3db2761ea1555c385bd897d15666b6a366f2a7aad7b1cb00f39dc2f812c1663e21dfb1f32e93caadfdc3cad0850c93ea",
       "first_seen": "2026-04-23T14:28:26+09:00",
-      "last_seen": "2026-05-15T20:20:22+09:00",
-      "is_available": false,
+      "last_seen": "2026-06-13T15:57:28+09:00",
+      "is_available": true,
       "periods": [
         {
           "start": "2026-04-23T14:28:26+09:00",
@@ -238,6 +238,10 @@
         {
           "start": "2026-05-15T15:33:19+09:00",
           "end": "2026-05-16T01:49:31+09:00"
+        },
+        {
+          "start": "2026-06-13T15:57:28+09:00",
+          "end": null
         }
       ]
     },
@@ -1210,7 +1214,7 @@
       "url": "https://www.apple.com/jp/shop/product/fu0a3j/a/iphone-15-plus-128gb-%E3%82%A4%E3%82%A8%E3%83%AD%E3%83%BC-SIM%E3%83%95%E3%83%AA%E3%83%BC-%E6%95%B4%E5%82%99%E6%B8%88%E8%A3%BD%E5%93%81?fnode=c595c5522886d8c47224c79ec8f4885e522ae894ee4b1ab9c8e787cb6d2b273921035b100a296a6f69ac270da508de96ace053fc7ea994ae1dc69a6f8d891ea2f569988283d6fd6ad9c4767fd087ec99626d396d5c5892eea0922d0d74fb8892",
       "first_seen": "2026-05-08T14:29:02+09:00",
       "last_seen": "2026-06-12T16:21:19+09:00",
-      "is_available": true,
+      "is_available": false,
       "periods": [
         {
           "start": "2026-05-08T14:29:02+09:00",
@@ -1218,7 +1222,7 @@
         },
         {
           "start": "2026-06-06T15:28:54+09:00",
-          "end": null
+          "end": "2026-06-13T15:57:28+09:00"
         }
       ]
     },
@@ -2652,6 +2656,10 @@
     },
     {
       "timestamp": "2026-06-12T16:21:19+09:00",
+      "product_count": 1
+    },
+    {
+      "timestamp": "2026-06-13T15:57:28+09:00",
       "product_count": 1
     }
   ]
