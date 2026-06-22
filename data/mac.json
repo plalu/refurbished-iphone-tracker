@@ -8,7 +8,7 @@
       "part_number": "FWUC3J/A",
       "url": "https://www.apple.com/jp/shop/product/fwuc3j/a/24%E3%82%A4%E3%83%B3%E3%83%81iMac-%E6%95%B4%E5%82%99%E6%B8%88%E8%A3%BD%E5%93%81-8%E3%82%B3%E3%82%A2CPU%E3%81%A88%E3%82%B3%E3%82%A2GPU%E3%82%92%E6%90%AD%E8%BC%89%E3%81%97%E3%81%9FApple-M4%E3%83%81%E3%83%83%E3%83%97-%E3%82%B7%E3%83%AB%E3%83%90%E3%83%BC?fnode=4c714e8d249bc25c9a0503b744833a99c3dd52fd4d286859f20f023cd8c65cd78d79bbb1d3e185ac1b4e844665d48a434897462ad5af1a87eca16f4788ca214e9baf599ab158c04b50d58af09890a424",
       "first_seen": "2026-04-22T19:18:14+09:00",
-      "last_seen": "2026-06-22T17:56:00+09:00",
+      "last_seen": "2026-06-22T23:37:10+09:00",
       "is_available": true,
       "periods": [
         {
@@ -33,7 +33,7 @@
       "part_number": "FWUF3J/A",
       "url": "https://www.apple.com/jp/shop/product/fwuf3j/a/24%E3%82%A4%E3%83%B3%E3%83%81iMac-%E6%95%B4%E5%82%99%E6%B8%88%E8%A3%BD%E5%93%81-8%E3%82%B3%E3%82%A2CPU%E3%81%A88%E3%82%B3%E3%82%A2GPU%E3%82%92%E6%90%AD%E8%BC%89%E3%81%97%E3%81%9FApple-M4%E3%83%81%E3%83%83%E3%83%97-%E3%83%96%E3%83%AB%E3%83%BC?fnode=4c714e8d249bc25c9a0503b744833a99c3dd52fd4d286859f20f023cd8c65cd78d79bbb1d3e185ac1b4e844665d48a434897462ad5af1a87eca16f4788ca214e9baf599ab158c04b50d58af09890a424",
       "first_seen": "2026-04-22T19:18:14+09:00",
-      "last_seen": "2026-06-22T17:56:00+09:00",
+      "last_seen": "2026-06-22T23:37:10+09:00",
       "is_available": true,
       "periods": [
         {
@@ -58,7 +58,7 @@
       "part_number": "FWUG3J/A",
       "url": "https://www.apple.com/jp/shop/product/fwug3j/a/24%E3%82%A4%E3%83%B3%E3%83%81iMac-%E6%95%B4%E5%82%99%E6%B8%88%E8%A3%BD%E5%93%81-8%E3%82%B3%E3%82%A2CPU%E3%81%A88%E3%82%B3%E3%82%A2GPU%E3%82%92%E6%90%AD%E8%BC%89%E3%81%97%E3%81%9FApple-M4%E3%83%81%E3%83%83%E3%83%97-%E3%83%94%E3%83%B3%E3%82%AF?fnode=4c714e8d249bc25c9a0503b744833a99c3dd52fd4d286859f20f023cd8c65cd78d79bbb1d3e185ac1b4e844665d48a434897462ad5af1a87eca16f4788ca214e9baf599ab158c04b50d58af09890a424",
       "first_seen": "2026-04-22T19:18:14+09:00",
-      "last_seen": "2026-06-22T17:56:00+09:00",
+      "last_seen": "2026-06-22T23:37:10+09:00",
       "is_available": true,
       "periods": [
         {
@@ -146,8 +146,8 @@
       "part_number": "FWUY3J/A",
       "url": "https://www.apple.com/jp/shop/product/fwuy3j/a/24%E3%82%A4%E3%83%B3%E3%83%81imac-%E6%95%B4%E5%82%99%E6%B8%88%E8%A3%BD%E5%93%81-10%E3%82%B3%E3%82%A2cpu%E3%81%A810%E3%82%B3%E3%82%A2gpu%E3%82%92%E6%90%AD%E8%BC%89%E3%81%97%E3%81%9Fapple-m4%E3%83%81%E3%83%83%E3%83%97-%E3%82%AE%E3%82%AC%E3%83%93%E3%83%83%E3%83%88ethernet-%E3%82%B0%E3%83%AA%E3%83%BC%E3%83%B3?fnode=4c714e8d249bc25c9a0503b744833a99c3dd52fd4d286859f20f023cd8c65cd78d79bbb1d3e185ac1b4e844665d48a434897462ad5af1a87eca16f4788ca214e9baf599ab158c04b50d58af09890a424",
       "first_seen": "2026-04-22T19:18:14+09:00",
-      "last_seen": "2026-06-22T07:12:19+09:00",
-      "is_available": false,
+      "last_seen": "2026-06-22T23:37:10+09:00",
+      "is_available": true,
       "periods": [
         {
           "start": "2026-04-22T19:18:14+09:00",
@@ -160,6 +160,10 @@
         {
           "start": "2026-06-20T20:15:42+09:00",
           "end": "2026-06-22T17:56:00+09:00"
+        },
+        {
+          "start": "2026-06-22T23:37:10+09:00",
+          "end": null
         }
       ]
     },
@@ -196,8 +200,8 @@
       "part_number": "FWV43J/A",
       "url": "https://www.apple.com/jp/shop/product/fwv43j/a/24%E3%82%A4%E3%83%B3%E3%83%81imac-%E6%95%B4%E5%82%99%E6%B8%88%E8%A3%BD%E5%93%81-10%E3%82%B3%E3%82%A2cpu%E3%81%A810%E3%82%B3%E3%82%A2gpu%E3%82%92%E6%90%AD%E8%BC%89%E3%81%97%E3%81%9Fapple-m4%E3%83%81%E3%83%83%E3%83%97-%E3%82%AE%E3%82%AC%E3%83%93%E3%83%83%E3%83%88ethernet-%E3%83%94%E3%83%B3%E3%82%AF?fnode=4c714e8d249bc25c9a0503b744833a99c3dd52fd4d286859f20f023cd8c65cd78d79bbb1d3e185ac1b4e844665d48a434897462ad5af1a87eca16f4788ca214e9baf599ab158c04b50d58af09890a424",
       "first_seen": "2026-04-22T19:18:14+09:00",
-      "last_seen": "2026-06-22T07:12:19+09:00",
-      "is_available": false,
+      "last_seen": "2026-06-22T23:37:10+09:00",
+      "is_available": true,
       "periods": [
         {
           "start": "2026-04-22T19:18:14+09:00",
@@ -210,6 +214,10 @@
         {
           "start": "2026-06-20T20:15:42+09:00",
           "end": "2026-06-22T17:56:00+09:00"
+        },
+        {
+          "start": "2026-06-22T23:37:10+09:00",
+          "end": null
         }
       ]
     },
@@ -1128,7 +1136,7 @@
       "part_number": "FC6T4J/A",
       "url": "https://www.apple.com/jp/shop/product/fc6t4j/a/13%E3%82%A4%E3%83%B3%E3%83%81MacBook-Air-%5B%E6%95%B4%E5%82%99%E6%B8%88%E8%A3%BD%E5%93%81%5D-10%E3%82%B3%E3%82%A2CPU%E3%81%A88%E3%82%B3%E3%82%A2GPU%E3%82%92%E6%90%AD%E8%BC%89%E3%81%97%E3%81%9FApple-M4%E3%83%81%E3%83%83%E3%83%97-%E3%82%B9%E3%82%AB%E3%82%A4%E3%83%96%E3%83%AB%E3%83%BC?fnode=545bedd3ed300cb4ed756a7704f5c0ee3150b373953bd9c7c81a41dcb11af3c9f239436f4a018e5667b31e62f99bb00f0dcb0347669155adb2596ebce9273e0daa2ed25f1e7b87cb651cf29944627349",
       "first_seen": "2026-04-25T14:10:10+09:00",
-      "last_seen": "2026-06-22T17:56:00+09:00",
+      "last_seen": "2026-06-22T23:37:10+09:00",
       "is_available": true,
       "periods": [
         {
@@ -1169,7 +1177,7 @@
       "part_number": "FW0W3J/A",
       "url": "https://www.apple.com/jp/shop/product/fw0w3j/a/13%E3%82%A4%E3%83%B3%E3%83%81MacBook-Air-%5B%E6%95%B4%E5%82%99%E6%B8%88%E8%A3%BD%E5%93%81%5D-10%E3%82%B3%E3%82%A2CPU%E3%81%A88%E3%82%B3%E3%82%A2GPU%E3%82%92%E6%90%AD%E8%BC%89%E3%81%97%E3%81%9FApple-M4%E3%83%81%E3%83%83%E3%83%97-%E3%82%B7%E3%83%AB%E3%83%90%E3%83%BC?fnode=545bedd3ed300cb4ed756a7704f5c0ee3150b373953bd9c7c81a41dcb11af3c9f239436f4a018e5667b31e62f99bb00f0dcb0347669155adb2596ebce9273e0daa2ed25f1e7b87cb651cf29944627349",
       "first_seen": "2026-04-25T14:10:10+09:00",
-      "last_seen": "2026-06-22T17:56:00+09:00",
+      "last_seen": "2026-06-22T23:37:10+09:00",
       "is_available": true,
       "periods": [
         {
@@ -1206,7 +1214,7 @@
       "part_number": "FW0Y3J/A",
       "url": "https://www.apple.com/jp/shop/product/fw0y3j/a/13%E3%82%A4%E3%83%B3%E3%83%81MacBook-Air-%5B%E6%95%B4%E5%82%99%E6%B8%88%E8%A3%BD%E5%93%81%5D-10%E3%82%B3%E3%82%A2CPU%E3%81%A88%E3%82%B3%E3%82%A2GPU%E3%82%92%E6%90%AD%E8%BC%89%E3%81%97%E3%81%9FApple-M4%E3%83%81%E3%83%83%E3%83%97-%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%A9%E3%82%A4%E3%83%88?fnode=545bedd3ed300cb4ed756a7704f5c0ee3150b373953bd9c7c81a41dcb11af3c9f239436f4a018e5667b31e62f99bb00f0dcb0347669155adb2596ebce9273e0daa2ed25f1e7b87cb651cf29944627349",
       "first_seen": "2026-04-25T14:10:10+09:00",
-      "last_seen": "2026-06-22T17:56:00+09:00",
+      "last_seen": "2026-06-22T23:37:10+09:00",
       "is_available": true,
       "periods": [
         {
@@ -1243,7 +1251,7 @@
       "part_number": "FW123J/A",
       "url": "https://www.apple.com/jp/shop/product/fw123j/a/13%E3%82%A4%E3%83%B3%E3%83%81MacBook-Air-%5B%E6%95%B4%E5%82%99%E6%B8%88%E8%A3%BD%E5%93%81%5D-10%E3%82%B3%E3%82%A2CPU%E3%81%A88%E3%82%B3%E3%82%A2GPU%E3%82%92%E6%90%AD%E8%BC%89%E3%81%97%E3%81%9FApple-M4%E3%83%81%E3%83%83%E3%83%97-%E3%83%9F%E3%83%83%E3%83%89%E3%83%8A%E3%82%A4%E3%83%88?fnode=545bedd3ed300cb4ed756a7704f5c0ee3150b373953bd9c7c81a41dcb11af3c9f239436f4a018e5667b31e62f99bb00f0dcb0347669155adb2596ebce9273e0daa2ed25f1e7b87cb651cf29944627349",
       "first_seen": "2026-04-25T14:10:10+09:00",
-      "last_seen": "2026-06-22T17:56:00+09:00",
+      "last_seen": "2026-06-22T23:37:10+09:00",
       "is_available": true,
       "periods": [
         {
@@ -1280,7 +1288,7 @@
       "part_number": "FC6U4J/A",
       "url": "https://www.apple.com/jp/shop/product/fc6u4j/a/13%E3%82%A4%E3%83%B3%E3%83%81MacBook-Air-%5B%E6%95%B4%E5%82%99%E6%B8%88%E8%A3%BD%E5%93%81%5D-10%E3%82%B3%E3%82%A2CPU%E3%81%A810%E3%82%B3%E3%82%A2GPU%E3%82%92%E6%90%AD%E8%BC%89%E3%81%97%E3%81%9FApple-M4%E3%83%81%E3%83%83%E3%83%97-%E3%82%B9%E3%82%AB%E3%82%A4%E3%83%96%E3%83%AB%E3%83%BC?fnode=545bedd3ed300cb4ed756a7704f5c0ee3150b373953bd9c7c81a41dcb11af3c9f239436f4a018e5667b31e62f99bb00f0dcb0347669155adb2596ebce9273e0daa2ed25f1e7b87cb651cf29944627349",
       "first_seen": "2026-04-25T14:10:10+09:00",
-      "last_seen": "2026-06-22T17:56:00+09:00",
+      "last_seen": "2026-06-22T23:37:10+09:00",
       "is_available": true,
       "periods": [
         {
@@ -1313,7 +1321,7 @@
       "part_number": "FW0X3J/A",
       "url": "https://www.apple.com/jp/shop/product/fw0x3j/a/13%E3%82%A4%E3%83%B3%E3%83%81MacBook-Air-%5B%E6%95%B4%E5%82%99%E6%B8%88%E8%A3%BD%E5%93%81%5D-10%E3%82%B3%E3%82%A2CPU%E3%81%A810%E3%82%B3%E3%82%A2GPU%E3%82%92%E6%90%AD%E8%BC%89%E3%81%97%E3%81%9FApple-M4%E3%83%81%E3%83%83%E3%83%97-%E3%82%B7%E3%83%AB%E3%83%90%E3%83%BC?fnode=545bedd3ed300cb4ed756a7704f5c0ee3150b373953bd9c7c81a41dcb11af3c9f239436f4a018e5667b31e62f99bb00f0dcb0347669155adb2596ebce9273e0daa2ed25f1e7b87cb651cf29944627349",
       "first_seen": "2026-04-25T14:10:10+09:00",
-      "last_seen": "2026-06-22T17:56:00+09:00",
+      "last_seen": "2026-06-22T23:37:10+09:00",
       "is_available": true,
       "periods": [
         {
@@ -1350,7 +1358,7 @@
       "part_number": "FC6A4J/A",
       "url": "https://www.apple.com/jp/shop/product/fc6a4j/a/13%E3%82%A4%E3%83%B3%E3%83%81MacBook-Air-%5B%E6%95%B4%E5%82%99%E6%B8%88%E8%A3%BD%E5%93%81%5D-10%E3%82%B3%E3%82%A2CPU%E3%81%A810%E3%82%B3%E3%82%A2GPU%E3%82%92%E6%90%AD%E8%BC%89%E3%81%97%E3%81%9FApple-M4%E3%83%81%E3%83%83%E3%83%97-%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%A9%E3%82%A4%E3%83%88?fnode=545bedd3ed300cb4ed756a7704f5c0ee3150b373953bd9c7c81a41dcb11af3c9f239436f4a018e5667b31e62f99bb00f0dcb0347669155adb2596ebce9273e0daa2ed25f1e7b87cb651cf29944627349",
       "first_seen": "2026-04-25T14:10:10+09:00",
-      "last_seen": "2026-06-22T17:56:00+09:00",
+      "last_seen": "2026-06-22T23:37:10+09:00",
       "is_available": true,
       "periods": [
         {
@@ -1383,7 +1391,7 @@
       "part_number": "FC6V4J/A",
       "url": "https://www.apple.com/jp/shop/product/fc6v4j/a/13%E3%82%A4%E3%83%B3%E3%83%81MacBook-Air-%5B%E6%95%B4%E5%82%99%E6%B8%88%E8%A3%BD%E5%93%81%5D-10%E3%82%B3%E3%82%A2CPU%E3%81%A810%E3%82%B3%E3%82%A2GPU%E3%82%92%E6%90%AD%E8%BC%89%E3%81%97%E3%81%9FApple-M4%E3%83%81%E3%83%83%E3%83%97-%E3%82%B9%E3%82%AB%E3%82%A4%E3%83%96%E3%83%AB%E3%83%BC?fnode=545bedd3ed300cb4ed756a7704f5c0ee3150b373953bd9c7c81a41dcb11af3c9f239436f4a018e5667b31e62f99bb00f0dcb0347669155adb2596ebce9273e0daa2ed25f1e7b87cb651cf29944627349",
       "first_seen": "2026-04-25T14:10:10+09:00",
-      "last_seen": "2026-06-22T17:56:00+09:00",
+      "last_seen": "2026-06-22T23:37:10+09:00",
       "is_available": true,
       "periods": [
         {
@@ -1840,7 +1848,7 @@
       "part_number": "G1CW0J/A",
       "url": "https://www.apple.com/jp/shop/product/g1cw0j/a/13%E3%82%A4%E3%83%B3%E3%83%81MacBook-Air-%5B%E6%95%B4%E5%82%99%E6%B8%88%E8%A3%BD%E5%93%81%5D-10%E3%82%B3%E3%82%A2CPU%E3%81%A810%E3%82%B3%E3%82%A2GPU%E3%82%92%E6%90%AD%E8%BC%89%E3%81%97%E3%81%9FApple-M4%E3%83%81%E3%83%83%E3%83%97-%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%A9%E3%82%A4%E3%83%88?fnode=1b3d039f8f1f5717c2aa8cbfe50515e49791e1cbf026fdf91597f8468c7b112d6fdef12cf76e833cd324aa14b50410b47b21865f258088dd05d43e600e012537f3e628c2fc120db1cdc3aa64ece46013",
       "first_seen": "2026-04-28T14:57:45+09:00",
-      "last_seen": "2026-06-22T17:56:00+09:00",
+      "last_seen": "2026-06-22T23:37:10+09:00",
       "is_available": true,
       "periods": [
         {
@@ -1869,7 +1877,7 @@
       "part_number": "G1CY0J/A",
       "url": "https://www.apple.com/jp/shop/product/g1cy0j/a/13%E3%82%A4%E3%83%B3%E3%83%81MacBook-Air-%5B%E6%95%B4%E5%82%99%E6%B8%88%E8%A3%BD%E5%93%81%5D-10%E3%82%B3%E3%82%A2CPU%E3%81%A810%E3%82%B3%E3%82%A2GPU%E3%82%92%E6%90%AD%E8%BC%89%E3%81%97%E3%81%9FApple-M4%E3%83%81%E3%83%83%E3%83%97-%E3%83%9F%E3%83%83%E3%83%89%E3%83%8A%E3%82%A4%E3%83%88?fnode=1b3d039f8f1f5717c2aa8cbfe50515e49791e1cbf026fdf91597f8468c7b112d6fdef12cf76e833cd324aa14b50410b47b21865f258088dd05d43e600e012537f3e628c2fc120db1cdc3aa64ece46013",
       "first_seen": "2026-04-28T14:57:45+09:00",
-      "last_seen": "2026-06-22T17:56:00+09:00",
+      "last_seen": "2026-06-22T23:37:10+09:00",
       "is_available": true,
       "periods": [
         {
@@ -1902,7 +1910,7 @@
       "part_number": "FC654J/A",
       "url": "https://www.apple.com/jp/shop/product/fc654j/a/13%E3%82%A4%E3%83%B3%E3%83%81MacBook-Air-%5B%E6%95%B4%E5%82%99%E6%B8%88%E8%A3%BD%E5%93%81%5D-10%E3%82%B3%E3%82%A2CPU%E3%81%A810%E3%82%B3%E3%82%A2GPU%E3%82%92%E6%90%AD%E8%BC%89%E3%81%97%E3%81%9FApple-M4%E3%83%81%E3%83%83%E3%83%97-%E3%82%B7%E3%83%AB%E3%83%90%E3%83%BC?fnode=1b3d039f8f1f5717c2aa8cbfe50515e49791e1cbf026fdf91597f8468c7b112d6fdef12cf76e833cd324aa14b50410b47b21865f258088dd05d43e600e012537f3e628c2fc120db1cdc3aa64ece46013",
       "first_seen": "2026-04-28T14:57:45+09:00",
-      "last_seen": "2026-06-22T17:56:00+09:00",
+      "last_seen": "2026-06-22T23:37:10+09:00",
       "is_available": true,
       "periods": [
         {
@@ -1948,7 +1956,7 @@
       "part_number": "FWUE3J/A",
       "url": "https://www.apple.com/jp/shop/product/fwue3j/a/24%E3%82%A4%E3%83%B3%E3%83%81iMac-%E6%95%B4%E5%82%99%E6%B8%88%E8%A3%BD%E5%93%81-8%E3%82%B3%E3%82%A2CPU%E3%81%A88%E3%82%B3%E3%82%A2GPU%E3%82%92%E6%90%AD%E8%BC%89%E3%81%97%E3%81%9FApple-M4%E3%83%81%E3%83%83%E3%83%97-%E3%82%B0%E3%83%AA%E3%83%BC%E3%83%B3?fnode=1b3d039f8f1f5717c2aa8cbfe50515e49791e1cbf026fdf91597f8468c7b112d6fdef12cf76e833cd324aa14b50410b47b21865f258088dd05d43e600e012537f3e628c2fc120db1cdc3aa64ece46013",
       "first_seen": "2026-04-28T14:57:45+09:00",
-      "last_seen": "2026-06-22T17:56:00+09:00",
+      "last_seen": "2026-06-22T23:37:10+09:00",
       "is_available": true,
       "periods": [
         {
@@ -1994,7 +2002,7 @@
       "part_number": "G1E50J/A",
       "url": "https://www.apple.com/jp/shop/product/g1e50j/a/24%E3%82%A4%E3%83%B3%E3%83%81iMac-%E6%95%B4%E5%82%99%E6%B8%88%E8%A3%BD%E5%93%81-8%E3%82%B3%E3%82%A2CPU%E3%81%A88%E3%82%B3%E3%82%A2GPU%E3%82%92%E6%90%AD%E8%BC%89%E3%81%97%E3%81%9FApple-M4%E3%83%81%E3%83%83%E3%83%97-%E3%82%AE%E3%82%AC%E3%83%93%E3%83%83%E3%83%88Ethernet-%E3%83%96%E3%83%AB%E3%83%BC?fnode=1b3d039f8f1f5717c2aa8cbfe50515e49791e1cbf026fdf91597f8468c7b112d6fdef12cf76e833cd324aa14b50410b47b21865f258088dd05d43e600e012537f3e628c2fc120db1cdc3aa64ece46013",
       "first_seen": "2026-04-28T14:57:45+09:00",
-      "last_seen": "2026-06-22T17:56:00+09:00",
+      "last_seen": "2026-06-22T23:37:10+09:00",
       "is_available": true,
       "periods": [
         {
@@ -2837,7 +2845,7 @@
       "part_number": "G1H80J/A",
       "url": "https://www.apple.com/jp/shop/product/g1h80j/a/13%E3%82%A4%E3%83%B3%E3%83%81MacBook-Air-%5B%E6%95%B4%E5%82%99%E6%B8%88%E8%A3%BD%E5%93%81%5D-10%E3%82%B3%E3%82%A2CPU%E3%81%A810%E3%82%B3%E3%82%A2GPU%E3%82%92%E6%90%AD%E8%BC%89%E3%81%97%E3%81%9FApple-M4%E3%83%81%E3%83%83%E3%83%97-%E3%82%B9%E3%82%AB%E3%82%A4%E3%83%96%E3%83%AB%E3%83%BC?fnode=9a5a277b6ec4713f7fed67ad4cd58267e1753dcada5682403c071893c8e7e216952dcc35826a5f12a748af16cdebf4482f575058346614fc2c497b03c8b4b98bc8a1c67e785b27353c0c0a473812e09e",
       "first_seen": "2026-05-19T15:46:47+09:00",
-      "last_seen": "2026-06-22T17:56:00+09:00",
+      "last_seen": "2026-06-22T23:37:10+09:00",
       "is_available": true,
       "periods": [
         {
@@ -2866,7 +2874,7 @@
       "part_number": "FC6C4J/A",
       "url": "https://www.apple.com/jp/shop/product/fc6c4j/a/13%E3%82%A4%E3%83%B3%E3%83%81MacBook-Air-%5B%E6%95%B4%E5%82%99%E6%B8%88%E8%A3%BD%E5%93%81%5D-10%E3%82%B3%E3%82%A2CPU%E3%81%A810%E3%82%B3%E3%82%A2GPU%E3%82%92%E6%90%AD%E8%BC%89%E3%81%97%E3%81%9FApple-M4%E3%83%81%E3%83%83%E3%83%97-%E3%83%9F%E3%83%83%E3%83%89%E3%83%8A%E3%82%A4%E3%83%88?fnode=9a5a277b6ec4713f7fed67ad4cd58267e1753dcada5682403c071893c8e7e216952dcc35826a5f12a748af16cdebf4482f575058346614fc2c497b03c8b4b98bc8a1c67e785b27353c0c0a473812e09e",
       "first_seen": "2026-05-19T15:46:47+09:00",
-      "last_seen": "2026-06-22T17:56:00+09:00",
+      "last_seen": "2026-06-22T23:37:10+09:00",
       "is_available": true,
       "periods": [
         {
@@ -3125,7 +3133,7 @@
       "url": "https://www.apple.com/jp/shop/product/fw103j/a/13%E3%82%A4%E3%83%B3%E3%83%81MacBook-Air-%5B%E6%95%B4%E5%82%99%E6%B8%88%E8%A3%BD%E5%93%81%5D-10%E3%82%B3%E3%82%A2CPU%E3%81%A810%E3%82%B3%E3%82%A2GPU%E3%82%92%E6%90%AD%E8%BC%89%E3%81%97%E3%81%9FApple-M4%E3%83%81%E3%83%83%E3%83%97-%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%A9%E3%82%A4%E3%83%88?fnode=8f2dba2aeea61c648e66e432fafab43c11fc28098b39710776c82ae70fa78b11e7b554a02ba019928ad09c9016e3a788c8773922a4f2c9641ea689e382a03e0ac6888eb6a4e7028d8ed1b1ac2b816b03",
       "first_seen": "2026-05-26T15:44:34+09:00",
       "last_seen": "2026-06-22T17:56:00+09:00",
-      "is_available": true,
+      "is_available": false,
       "periods": [
         {
           "start": "2026-05-26T15:44:34+09:00",
@@ -3137,7 +3145,7 @@
         },
         {
           "start": "2026-06-22T17:56:00+09:00",
-          "end": null
+          "end": "2026-06-22T23:37:10+09:00"
         }
       ]
     },
@@ -3149,7 +3157,7 @@
       "part_number": "FW133J/A",
       "url": "https://www.apple.com/jp/shop/product/fw133j/a/13%E3%82%A4%E3%83%B3%E3%83%81MacBook-Air-%5B%E6%95%B4%E5%82%99%E6%B8%88%E8%A3%BD%E5%93%81%5D-10%E3%82%B3%E3%82%A2CPU%E3%81%A810%E3%82%B3%E3%82%A2GPU%E3%82%92%E6%90%AD%E8%BC%89%E3%81%97%E3%81%9FApple-M4%E3%83%81%E3%83%83%E3%83%97-%E3%83%9F%E3%83%83%E3%83%89%E3%83%8A%E3%82%A4%E3%83%88?fnode=8f2dba2aeea61c648e66e432fafab43c11fc28098b39710776c82ae70fa78b11e7b554a02ba019928ad09c9016e3a788c8773922a4f2c9641ea689e382a03e0ac6888eb6a4e7028d8ed1b1ac2b816b03",
       "first_seen": "2026-05-26T15:44:34+09:00",
-      "last_seen": "2026-06-22T17:56:00+09:00",
+      "last_seen": "2026-06-22T23:37:10+09:00",
       "is_available": true,
       "periods": [
         {
@@ -3170,7 +3178,7 @@
       "part_number": "FC7A4J/A",
       "url": "https://www.apple.com/jp/shop/product/fc7a4j/a/15%E3%82%A4%E3%83%B3%E3%83%81MacBook-Air-%5B%E6%95%B4%E5%82%99%E6%B8%88%E8%A3%BD%E5%93%81%5D-10%E3%82%B3%E3%82%A2CPU%E3%81%A810%E3%82%B3%E3%82%A2GPU%E3%82%92%E6%90%AD%E8%BC%89%E3%81%97%E3%81%9FApple-M4-%E3%83%81%E3%83%83%E3%83%97-%E3%82%B9%E3%82%AB%E3%82%A4%E3%83%96%E3%83%AB%E3%83%BC?fnode=8f2dba2aeea61c648e66e432fafab43c11fc28098b39710776c82ae70fa78b11e7b554a02ba019928ad09c9016e3a788c8773922a4f2c9641ea689e382a03e0ac6888eb6a4e7028d8ed1b1ac2b816b03",
       "first_seen": "2026-05-26T15:44:34+09:00",
-      "last_seen": "2026-06-22T17:56:00+09:00",
+      "last_seen": "2026-06-22T23:37:10+09:00",
       "is_available": true,
       "periods": [
         {
@@ -3195,7 +3203,7 @@
       "part_number": "FW1G3J/A",
       "url": "https://www.apple.com/jp/shop/product/fw1g3j/a/15%E3%82%A4%E3%83%B3%E3%83%81MacBook-Air-%5B%E6%95%B4%E5%82%99%E6%B8%88%E8%A3%BD%E5%93%81%5D-10%E3%82%B3%E3%82%A2CPU%E3%81%A810%E3%82%B3%E3%82%A2GPU%E3%82%92%E6%90%AD%E8%BC%89%E3%81%97%E3%81%9FApple-M4-%E3%83%81%E3%83%83%E3%83%97-%E3%82%B7%E3%83%AB%E3%83%90%E3%83%BC?fnode=8f2dba2aeea61c648e66e432fafab43c11fc28098b39710776c82ae70fa78b11e7b554a02ba019928ad09c9016e3a788c8773922a4f2c9641ea689e382a03e0ac6888eb6a4e7028d8ed1b1ac2b816b03",
       "first_seen": "2026-05-26T15:44:34+09:00",
-      "last_seen": "2026-06-22T17:56:00+09:00",
+      "last_seen": "2026-06-22T23:37:10+09:00",
       "is_available": true,
       "periods": [
         {
@@ -3220,7 +3228,7 @@
       "part_number": "FW1J3J/A",
       "url": "https://www.apple.com/jp/shop/product/fw1j3j/a/15%E3%82%A4%E3%83%B3%E3%83%81MacBook-Air-%5B%E6%95%B4%E5%82%99%E6%B8%88%E8%A3%BD%E5%93%81%5D-10%E3%82%B3%E3%82%A2CPU%E3%81%A810%E3%82%B3%E3%82%A2GPU%E3%82%92%E6%90%AD%E8%BC%89%E3%81%97%E3%81%9FApple-M4-%E3%83%81%E3%83%83%E3%83%97-%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%A9%E3%82%A4%E3%83%88?fnode=8f2dba2aeea61c648e66e432fafab43c11fc28098b39710776c82ae70fa78b11e7b554a02ba019928ad09c9016e3a788c8773922a4f2c9641ea689e382a03e0ac6888eb6a4e7028d8ed1b1ac2b816b03",
       "first_seen": "2026-05-26T15:44:34+09:00",
-      "last_seen": "2026-06-22T17:56:00+09:00",
+      "last_seen": "2026-06-22T23:37:10+09:00",
       "is_available": true,
       "periods": [
         {
@@ -3246,7 +3254,7 @@
       "url": "https://www.apple.com/jp/shop/product/fw1l3j/a/15%E3%82%A4%E3%83%B3%E3%83%81MacBook-Air-%5B%E6%95%B4%E5%82%99%E6%B8%88%E8%A3%BD%E5%93%81%5D-10%E3%82%B3%E3%82%A2CPU%E3%81%A810%E3%82%B3%E3%82%A2GPU%E3%82%92%E6%90%AD%E8%BC%89%E3%81%97%E3%81%9FApple-M4-%E3%83%81%E3%83%83%E3%83%97-%E3%83%9F%E3%83%83%E3%83%89%E3%83%8A%E3%82%A4%E3%83%88?fnode=8f2dba2aeea61c648e66e432fafab43c11fc28098b39710776c82ae70fa78b11e7b554a02ba019928ad09c9016e3a788c8773922a4f2c9641ea689e382a03e0ac6888eb6a4e7028d8ed1b1ac2b816b03",
       "first_seen": "2026-05-26T15:44:34+09:00",
       "last_seen": "2026-06-22T17:56:00+09:00",
-      "is_available": true,
+      "is_available": false,
       "periods": [
         {
           "start": "2026-05-26T15:44:34+09:00",
@@ -3258,7 +3266,7 @@
         },
         {
           "start": "2026-06-19T17:30:23+09:00",
-          "end": null
+          "end": "2026-06-22T23:37:10+09:00"
         }
       ]
     },
@@ -3366,7 +3374,7 @@
       "part_number": "G1DF0J/A",
       "url": "https://www.apple.com/jp/shop/product/g1df0j/a/15%E3%82%A4%E3%83%B3%E3%83%81MacBook-Air-%5B%E6%95%B4%E5%82%99%E6%B8%88%E8%A3%BD%E5%93%81%5D-10%E3%82%B3%E3%82%A2CPU%E3%81%A810%E3%82%B3%E3%82%A2GPU%E3%82%92%E6%90%AD%E8%BC%89%E3%81%97%E3%81%9FApple-M4-%E3%83%81%E3%83%83%E3%83%97-%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%A9%E3%82%A4%E3%83%88?fnode=8f2dba2aeea61c648e66e432fafab43c11fc28098b39710776c82ae70fa78b11e7b554a02ba019928ad09c9016e3a788c8773922a4f2c9641ea689e382a03e0ac6888eb6a4e7028d8ed1b1ac2b816b03",
       "first_seen": "2026-05-26T15:44:34+09:00",
-      "last_seen": "2026-06-22T17:56:00+09:00",
+      "last_seen": "2026-06-22T23:37:10+09:00",
       "is_available": true,
       "periods": [
         {
@@ -3445,8 +3453,8 @@
       "part_number": "FC7D4J/A",
       "url": "https://www.apple.com/jp/shop/product/fc7d4j/a/15%E3%82%A4%E3%83%B3%E3%83%81MacBook-Air-%5B%E6%95%B4%E5%82%99%E6%B8%88%E8%A3%BD%E5%93%81%5D-10%E3%82%B3%E3%82%A2CPU%E3%81%A810%E3%82%B3%E3%82%A2GPU%E3%82%92%E6%90%AD%E8%BC%89%E3%81%97%E3%81%9FApple-M4-%E3%83%81%E3%83%83%E3%83%97-%E3%82%B9%E3%82%AB%E3%82%A4%E3%83%96%E3%83%AB%E3%83%BC?fnode=8f2dba2aeea61c648e66e432fafab43c11fc28098b39710776c82ae70fa78b11e7b554a02ba019928ad09c9016e3a788c8773922a4f2c9641ea689e382a03e0ac6888eb6a4e7028d8ed1b1ac2b816b03",
       "first_seen": "2026-05-26T15:44:34+09:00",
-      "last_seen": "2026-06-22T07:12:19+09:00",
-      "is_available": false,
+      "last_seen": "2026-06-22T23:37:10+09:00",
+      "is_available": true,
       "periods": [
         {
           "start": "2026-05-26T15:44:34+09:00",
@@ -3463,6 +3471,10 @@
         {
           "start": "2026-06-20T20:15:42+09:00",
           "end": "2026-06-22T17:56:00+09:00"
+        },
+        {
+          "start": "2026-06-22T23:37:10+09:00",
+          "end": null
         }
       ]
     },
@@ -3735,8 +3747,8 @@
       "part_number": "G1HE0J/A",
       "url": "https://www.apple.com/jp/shop/product/g1he0j/a/15%E3%82%A4%E3%83%B3%E3%83%81MacBook-Air-%5B%E6%95%B4%E5%82%99%E6%B8%88%E8%A3%BD%E5%93%81%5D-10%E3%82%B3%E3%82%A2CPU%E3%81%A810%E3%82%B3%E3%82%A2GPU%E3%82%92%E6%90%AD%E8%BC%89%E3%81%97%E3%81%9FApple-M4-%E3%83%81%E3%83%83%E3%83%97-%E3%82%B9%E3%82%AB%E3%82%A4%E3%83%96%E3%83%AB%E3%83%BC?fnode=6c1eb09a9e249c51be41822498f07fe8723418d8d512610455cde5ef6580875fff22fa78ee69cbbd3827a32c745810e15f3cd5767567decb8e6eafa9a15f116c9418d4fc64f5f5e7a68a5d89d36c2e7b",
       "first_seen": "2026-06-01T17:33:05+09:00",
-      "last_seen": "2026-06-22T07:12:19+09:00",
-      "is_available": false,
+      "last_seen": "2026-06-22T23:37:10+09:00",
+      "is_available": true,
       "periods": [
         {
           "start": "2026-06-01T17:33:05+09:00",
@@ -3745,6 +3757,10 @@
         {
           "start": "2026-06-20T20:15:42+09:00",
           "end": "2026-06-22T17:56:00+09:00"
+        },
+        {
+          "start": "2026-06-22T23:37:10+09:00",
+          "end": null
         }
       ]
     },
@@ -3979,7 +3995,7 @@
       "part_number": "G1E20J/A",
       "url": "https://www.apple.com/jp/shop/product/g1e20j/a/24%E3%82%A4%E3%83%B3%E3%83%81iMac-%E6%95%B4%E5%82%99%E6%B8%88%E8%A3%BD%E5%93%81-8%E3%82%B3%E3%82%A2CPU%E3%81%A88%E3%82%B3%E3%82%A2GPU%E3%82%92%E6%90%AD%E8%BC%89%E3%81%97%E3%81%9FApple-M4%E3%83%81%E3%83%83%E3%83%97-%E3%82%AE%E3%82%AC%E3%83%93%E3%83%83%E3%83%88Ethernet-%E3%82%B7%E3%83%AB%E3%83%90%E3%83%BC?fnode=a7f71329b5aafd77476216e8e0632011b721f781613afcbf4094731519b1e380c32eac4ea2669ce4479752c434560e49650cf8dcf0a6fc7f57e4c6544ac634dab10d6ec3acf3c3882cd3bebd76aa1229",
       "first_seen": "2026-06-16T17:44:47+09:00",
-      "last_seen": "2026-06-22T17:56:00+09:00",
+      "last_seen": "2026-06-22T23:37:10+09:00",
       "is_available": true,
       "periods": [
         {
@@ -3996,7 +4012,7 @@
       "part_number": "G1E60J/A",
       "url": "https://www.apple.com/jp/shop/product/g1e60j/a/24%E3%82%A4%E3%83%B3%E3%83%81iMac-%E6%95%B4%E5%82%99%E6%B8%88%E8%A3%BD%E5%93%81-8%E3%82%B3%E3%82%A2CPU%E3%81%A88%E3%82%B3%E3%82%A2GPU%E3%82%92%E6%90%AD%E8%BC%89%E3%81%97%E3%81%9FApple-M4%E3%83%81%E3%83%83%E3%83%97-%E3%82%AE%E3%82%AC%E3%83%93%E3%83%83%E3%83%88Ethernet-%E3%83%94%E3%83%B3%E3%82%AF?fnode=a7f71329b5aafd77476216e8e0632011b721f781613afcbf4094731519b1e380c32eac4ea2669ce4479752c434560e49650cf8dcf0a6fc7f57e4c6544ac634dab10d6ec3acf3c3882cd3bebd76aa1229",
       "first_seen": "2026-06-16T17:44:47+09:00",
-      "last_seen": "2026-06-22T17:56:00+09:00",
+      "last_seen": "2026-06-22T23:37:10+09:00",
       "is_available": true,
       "periods": [
         {
@@ -4171,11 +4187,11 @@
       "url": "https://www.apple.com/jp/shop/product/g1ct0j/a/13%E3%82%A4%E3%83%B3%E3%83%81MacBook-Air-%5B%E6%95%B4%E5%82%99%E6%B8%88%E8%A3%BD%E5%93%81%5D-10%E3%82%B3%E3%82%A2CPU%E3%81%A810%E3%82%B3%E3%82%A2GPU%E3%82%92%E6%90%AD%E8%BC%89%E3%81%97%E3%81%9FApple-M4%E3%83%81%E3%83%83%E3%83%97-%E3%82%B7%E3%83%AB%E3%83%90%E3%83%BC?fnode=94f1c5d16717dd0e6f29b64e4cf77e6de8a034779570bf6266b92ba7782103d1948c1fcc2ca80eb826b18d9a4912bb16fef73babb0a6591c52c0f69ee3409bda65aae11cecf87f6fb4d949f2df2506e1",
       "first_seen": "2026-06-22T17:56:00+09:00",
       "last_seen": "2026-06-22T17:56:00+09:00",
-      "is_available": true,
+      "is_available": false,
       "periods": [
         {
           "start": "2026-06-22T17:56:00+09:00",
-          "end": null
+          "end": "2026-06-22T23:37:10+09:00"
         }
       ]
     },
@@ -4188,11 +4204,11 @@
       "url": "https://www.apple.com/jp/shop/product/g1cv1j/a/13%E3%82%A4%E3%83%B3%E3%83%81MacBook-Air-%5B%E6%95%B4%E5%82%99%E6%B8%88%E8%A3%BD%E5%93%81%5D-10%E3%82%B3%E3%82%A2CPU%E3%81%A810%E3%82%B3%E3%82%A2GPU%E3%82%92%E6%90%AD%E8%BC%89%E3%81%97%E3%81%9FApple-M4%E3%83%81%E3%83%83%E3%83%97-%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%A9%E3%82%A4%E3%83%88?fnode=94f1c5d16717dd0e6f29b64e4cf77e6de8a034779570bf6266b92ba7782103d1948c1fcc2ca80eb826b18d9a4912bb16fef73babb0a6591c52c0f69ee3409bda65aae11cecf87f6fb4d949f2df2506e1",
       "first_seen": "2026-06-22T17:56:00+09:00",
       "last_seen": "2026-06-22T17:56:00+09:00",
-      "is_available": true,
+      "is_available": false,
       "periods": [
         {
           "start": "2026-06-22T17:56:00+09:00",
-          "end": null
+          "end": "2026-06-22T23:37:10+09:00"
         }
       ]
     },
@@ -4204,7 +4220,7 @@
       "part_number": "G1CX1J/A",
       "url": "https://www.apple.com/jp/shop/product/g1cx1j/a/13%E3%82%A4%E3%83%B3%E3%83%81MacBook-Air-%5B%E6%95%B4%E5%82%99%E6%B8%88%E8%A3%BD%E5%93%81%5D-10%E3%82%B3%E3%82%A2CPU%E3%81%A810%E3%82%B3%E3%82%A2GPU%E3%82%92%E6%90%AD%E8%BC%89%E3%81%97%E3%81%9FApple-M4%E3%83%81%E3%83%83%E3%83%97-%E3%83%9F%E3%83%83%E3%83%89%E3%83%8A%E3%82%A4%E3%83%88?fnode=94f1c5d16717dd0e6f29b64e4cf77e6de8a034779570bf6266b92ba7782103d1948c1fcc2ca80eb826b18d9a4912bb16fef73babb0a6591c52c0f69ee3409bda65aae11cecf87f6fb4d949f2df2506e1",
       "first_seen": "2026-06-22T17:56:00+09:00",
-      "last_seen": "2026-06-22T17:56:00+09:00",
+      "last_seen": "2026-06-22T23:37:10+09:00",
       "is_available": true,
       "periods": [
         {
@@ -5121,6 +5137,10 @@
     },
     {
       "timestamp": "2026-06-22T17:56:00+09:00",
+      "product_count": 30
+    },
+    {
+      "timestamp": "2026-06-22T23:37:10+09:00",
       "product_count": 30
     }
   ]
