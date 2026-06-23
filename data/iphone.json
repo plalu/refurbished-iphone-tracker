@@ -201,7 +201,7 @@
       "part_number": "FU713J/A",
       "url": "https://www.apple.com/jp/shop/product/fu713j/a/iphone-15-pro-max-1tb-%E3%83%8A%E3%83%81%E3%83%A5%E3%83%A9%E3%83%AB%E3%83%81%E3%82%BF%E3%83%8B%E3%82%A6%E3%83%A0-SIM%E3%83%95%E3%83%AA%E3%83%BC-%E6%95%B4%E5%82%99%E6%B8%88%E8%A3%BD%E5%93%81?fnode=d291c180856e4ed0d36f7d735c775e91cf55754e6a64357d4702120dd25643f683aada16f2917ff912432f099153e96cca3cf5564a3d7f3edf5a011bc560e7820841fcca154000c3acb803581910333ac3ac126dc8c86dff34081e864cae9f08",
       "first_seen": "2026-04-20T21:12:05+09:00",
-      "last_seen": "2026-06-23T07:45:18+09:00",
+      "last_seen": "2026-06-23T15:49:28+09:00",
       "is_available": true,
       "periods": [
         {
@@ -1237,7 +1237,7 @@
       "part_number": "FU6W3J/A",
       "url": "https://www.apple.com/jp/shop/product/fu6w3j/a/iphone-15-pro-max-512gb-%E3%83%8A%E3%83%81%E3%83%A5%E3%83%A9%E3%83%AB%E3%83%81%E3%82%BF%E3%83%8B%E3%82%A6%E3%83%A0-SIM%E3%83%95%E3%83%AA%E3%83%BC-%E6%95%B4%E5%82%99%E6%B8%88%E8%A3%BD%E5%93%81?fnode=b919d8c54815aa055fe3521f522e04e47ffa73222be31ddef0ccd7b2254dd06727a7b4126788cc09665a043e8c908a0c9b89139507d0ff341347f4f4221ce0ce1b6f6004ed55c3e458b3648349f60960bdfcc1fcb33615461aaf01e4db808d47",
       "first_seen": "2026-05-02T18:57:29+09:00",
-      "last_seen": "2026-06-23T07:45:18+09:00",
+      "last_seen": "2026-06-23T15:49:28+09:00",
       "is_available": true,
       "periods": [
         {
@@ -1995,11 +1995,11 @@
       "url": "https://www.apple.com/jp/shop/product/ftmv3j/a/iphone-15-512gb-%E3%83%94%E3%83%B3%E3%82%AF-SIM%E3%83%95%E3%83%AA%E3%83%BC-%E6%95%B4%E5%82%99%E6%B8%88%E8%A3%BD%E5%93%81?fnode=07c3a5b728c06a098f545f23fcdc24f2f7ad48bb9d2bbcedf0fca8b72cd2e79a1859f849d1532250b522dc11951d2d0ba5a38ccabde8339495f8a58e0a30a707937fdacb91bd883d1adba0d8d1061ae0a9c53bb52629ee05bf6410b641c38d08",
       "first_seen": "2026-06-16T17:44:37+09:00",
       "last_seen": "2026-06-23T07:45:18+09:00",
-      "is_available": true,
+      "is_available": false,
       "periods": [
         {
           "start": "2026-06-16T17:44:37+09:00",
-          "end": null
+          "end": "2026-06-23T15:49:28+09:00"
         }
       ]
     },
@@ -3078,6 +3078,10 @@
     {
       "timestamp": "2026-06-23T07:45:18+09:00",
       "product_count": 3
+    },
+    {
+      "timestamp": "2026-06-23T15:49:28+09:00",
+      "product_count": 2
     }
   ]
 }
