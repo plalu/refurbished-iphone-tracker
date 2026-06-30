@@ -411,7 +411,7 @@
       "url": "https://www.apple.com/jp/shop/product/fu6u3j/a/iphone-15-pro-max-512gb-%E3%83%96%E3%83%A9%E3%83%83%E3%82%AF%E3%83%81%E3%82%BF%E3%83%8B%E3%82%A6%E3%83%A0-SIM%E3%83%95%E3%83%AA%E3%83%BC-%E6%95%B4%E5%82%99%E6%B8%88%E8%A3%BD%E5%93%81?fnode=a6b94eaee6e5c61e7ba01f6977c5329b5fda1b6ede61f310c5879dd1211619a89c55eda4b02320247f6bf4e1eaf10a1c3db2761ea1555c385bd897d15666b6a366f2a7aad7b1cb00f39dc2f812c1663e21dfb1f32e93caadfdc3cad0850c93ea",
       "first_seen": "2026-04-23T14:28:26+09:00",
       "last_seen": "2026-06-28T16:00:48+09:00",
-      "is_available": true,
+      "is_available": false,
       "periods": [
         {
           "start": "2026-04-23T14:28:26+09:00",
@@ -439,7 +439,7 @@
         },
         {
           "start": "2026-06-28T16:00:48+09:00",
-          "end": null
+          "end": "2026-06-30T20:44:01+09:00"
         }
       ]
     },
@@ -2124,6 +2124,108 @@
           "end": "2026-06-19T21:43:55+09:00"
         }
       ]
+    },
+    "FD1Q4J/A": {
+      "name": "iPhone 16e 128GB - ブラック（SIMフリー）",
+      "price": 69800,
+      "price_text": "69,800円",
+      "retail_price_text": "¥69,800",
+      "part_number": "FD1Q4J/A",
+      "url": "https://www.apple.com/jp/shop/product/fd1q4j/a/iPhone-16e-128GB-%E3%83%96%E3%83%A9%E3%83%83%E3%82%AFSIM%E3%83%95%E3%83%AA%E3%83%BC%E6%95%B4%E5%82%99%E6%B8%88%E8%A3%BD%E5%93%81?fnode=172e80abf7527fa489bd9f5ba3b78d77f2cfe76c5e7adb609e2d2aff9fceb3c8c3c90ee6add12b42e335705a258c925a64e9f1eb3e9a1521efb193d7f229a1769cb1d903f67f4295ed2060aa8f77bf1ea834a730381266fddde40e3d5f0745a9",
+      "first_seen": "2026-06-30T20:44:01+09:00",
+      "last_seen": "2026-06-30T20:44:01+09:00",
+      "is_available": true,
+      "periods": [
+        {
+          "start": "2026-06-30T20:44:01+09:00",
+          "end": null
+        }
+      ]
+    },
+    "FD1R4J/A": {
+      "name": "iPhone 16e 128GB - ホワイト（SIMフリー）",
+      "price": 69800,
+      "price_text": "69,800円",
+      "retail_price_text": "¥69,800",
+      "part_number": "FD1R4J/A",
+      "url": "https://www.apple.com/jp/shop/product/fd1r4j/a/iPhone-16e-128GB-%E3%83%9B%E3%83%AF%E3%82%A4%E3%83%88SIM%E3%83%95%E3%83%AA%E3%83%BC%E6%95%B4%E5%82%99%E6%B8%88%E8%A3%BD%E5%93%81?fnode=172e80abf7527fa489bd9f5ba3b78d77f2cfe76c5e7adb609e2d2aff9fceb3c8c3c90ee6add12b42e335705a258c925a64e9f1eb3e9a1521efb193d7f229a1769cb1d903f67f4295ed2060aa8f77bf1ea834a730381266fddde40e3d5f0745a9",
+      "first_seen": "2026-06-30T20:44:01+09:00",
+      "last_seen": "2026-06-30T20:44:01+09:00",
+      "is_available": true,
+      "periods": [
+        {
+          "start": "2026-06-30T20:44:01+09:00",
+          "end": null
+        }
+      ]
+    },
+    "FD1T4J/A": {
+      "name": "iPhone 16e 256GB - ブラック（SIMフリー）",
+      "price": 84800,
+      "price_text": "84,800円",
+      "retail_price_text": "¥84,800",
+      "part_number": "FD1T4J/A",
+      "url": "https://www.apple.com/jp/shop/product/fd1t4j/a/iPhone-16e-256GB-%E3%83%96%E3%83%A9%E3%83%83%E3%82%AFSIM%E3%83%95%E3%83%AA%E3%83%BC%E6%95%B4%E5%82%99%E6%B8%88%E8%A3%BD%E5%93%81?fnode=172e80abf7527fa489bd9f5ba3b78d77f2cfe76c5e7adb609e2d2aff9fceb3c8c3c90ee6add12b42e335705a258c925a64e9f1eb3e9a1521efb193d7f229a1769cb1d903f67f4295ed2060aa8f77bf1ea834a730381266fddde40e3d5f0745a9",
+      "first_seen": "2026-06-30T20:44:01+09:00",
+      "last_seen": "2026-06-30T20:44:01+09:00",
+      "is_available": true,
+      "periods": [
+        {
+          "start": "2026-06-30T20:44:01+09:00",
+          "end": null
+        }
+      ]
+    },
+    "FD1W4J/A": {
+      "name": "iPhone 16e 256GB - ホワイト（SIMフリー）",
+      "price": 84800,
+      "price_text": "84,800円",
+      "retail_price_text": "¥84,800",
+      "part_number": "FD1W4J/A",
+      "url": "https://www.apple.com/jp/shop/product/fd1w4j/a/iPhone-16e-256GB-%E3%83%9B%E3%83%AF%E3%82%A4%E3%83%88SIM%E3%83%95%E3%83%AA%E3%83%BC%E6%95%B4%E5%82%99%E6%B8%88%E8%A3%BD%E5%93%81?fnode=172e80abf7527fa489bd9f5ba3b78d77f2cfe76c5e7adb609e2d2aff9fceb3c8c3c90ee6add12b42e335705a258c925a64e9f1eb3e9a1521efb193d7f229a1769cb1d903f67f4295ed2060aa8f77bf1ea834a730381266fddde40e3d5f0745a9",
+      "first_seen": "2026-06-30T20:44:01+09:00",
+      "last_seen": "2026-06-30T20:44:01+09:00",
+      "is_available": true,
+      "periods": [
+        {
+          "start": "2026-06-30T20:44:01+09:00",
+          "end": null
+        }
+      ]
+    },
+    "FD1X4J/A": {
+      "name": "iPhone 16e 512GB - ブラック（SIMフリー）",
+      "price": 112800,
+      "price_text": "112,800円",
+      "retail_price_text": "¥112,800",
+      "part_number": "FD1X4J/A",
+      "url": "https://www.apple.com/jp/shop/product/fd1x4j/a/iPhone-16e-512GB-%E3%83%96%E3%83%A9%E3%83%83%E3%82%AFSIM%E3%83%95%E3%83%AA%E3%83%BC%E6%95%B4%E5%82%99%E6%B8%88%E8%A3%BD%E5%93%81?fnode=172e80abf7527fa489bd9f5ba3b78d77f2cfe76c5e7adb609e2d2aff9fceb3c8c3c90ee6add12b42e335705a258c925a64e9f1eb3e9a1521efb193d7f229a1769cb1d903f67f4295ed2060aa8f77bf1ea834a730381266fddde40e3d5f0745a9",
+      "first_seen": "2026-06-30T20:44:01+09:00",
+      "last_seen": "2026-06-30T20:44:01+09:00",
+      "is_available": true,
+      "periods": [
+        {
+          "start": "2026-06-30T20:44:01+09:00",
+          "end": null
+        }
+      ]
+    },
+    "FD274J/A": {
+      "name": "iPhone 16e 512GB - ホワイト（SIMフリー）",
+      "price": 112800,
+      "price_text": "112,800円",
+      "retail_price_text": "¥112,800",
+      "part_number": "FD274J/A",
+      "url": "https://www.apple.com/jp/shop/product/fd274j/a/iPhone-16e-512GB-%E3%83%9B%E3%83%AF%E3%82%A4%E3%83%88SIM%E3%83%95%E3%83%AA%E3%83%BC%E6%95%B4%E5%82%99%E6%B8%88%E8%A3%BD%E5%93%81?fnode=172e80abf7527fa489bd9f5ba3b78d77f2cfe76c5e7adb609e2d2aff9fceb3c8c3c90ee6add12b42e335705a258c925a64e9f1eb3e9a1521efb193d7f229a1769cb1d903f67f4295ed2060aa8f77bf1ea834a730381266fddde40e3d5f0745a9",
+      "first_seen": "2026-06-30T20:44:01+09:00",
+      "last_seen": "2026-06-30T20:44:01+09:00",
+      "is_available": true,
+      "periods": [
+        {
+          "start": "2026-06-30T20:44:01+09:00",
+          "end": null
+        }
+      ]
     }
   },
   "scrape_history": [
@@ -3150,6 +3252,10 @@
     {
       "timestamp": "2026-06-28T16:00:48+09:00",
       "product_count": 1
+    },
+    {
+      "timestamp": "2026-06-30T20:44:01+09:00",
+      "product_count": 6
     }
   ]
 }
