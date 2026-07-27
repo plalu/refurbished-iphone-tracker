@@ -42,7 +42,7 @@
       "url": "https://www.apple.com/jp/shop/product/fd4p4j/a/iPadA16Wi-Fi-256GB-%E3%83%94%E3%83%B3%E3%82%AF-%E6%95%B4%E5%82%99%E6%B8%88%E8%A3%BD%E5%93%81?fnode=2bbe2a9cbed52839239ae1f5dca724d0a7aad03104b36356c6b730d63dda975dbf9458cfe5b0974b998aa8ff119d8d3e4b5d2552b43684702e2615d946026fed9b4fc7d0a98d40df9b1e929b03c79662",
       "first_seen": "2026-04-22T19:19:08+09:00",
       "last_seen": "2026-07-27T15:26:53+09:00",
-      "is_available": true,
+      "is_available": false,
       "periods": [
         {
           "start": "2026-04-22T19:19:08+09:00",
@@ -58,7 +58,7 @@
         },
         {
           "start": "2026-07-27T15:26:53+09:00",
-          "end": null
+          "end": "2026-07-27T21:19:33+09:00"
         }
       ]
     },
@@ -129,12 +129,16 @@
       "part_number": "FNYC3J/A",
       "url": "https://www.apple.com/jp/shop/product/fnyc3j/a/11%E3%82%A4%E3%83%B3%E3%83%81iPad-Pro-Wi-Fi-Cellular-128GB-%E3%82%B9%E3%83%9A%E3%83%BC%E3%82%B9%E3%82%B0%E3%83%AC%E3%82%A4%E7%AC%AC4%E4%B8%96%E4%BB%A3%E6%95%B4%E5%82%99%E6%B8%88%E8%A3%BD%E5%93%81?fnode=2bbe2a9cbed52839239ae1f5dca724d0a7aad03104b36356c6b730d63dda975dbf9458cfe5b0974b998aa8ff119d8d3e4b5d2552b43684702e2615d946026fed9b4fc7d0a98d40df9b1e929b03c79662",
       "first_seen": "2026-04-22T19:19:08+09:00",
-      "last_seen": "2026-07-27T06:57:00+09:00",
-      "is_available": false,
+      "last_seen": "2026-07-27T21:19:33+09:00",
+      "is_available": true,
       "periods": [
         {
           "start": "2026-04-22T19:19:08+09:00",
           "end": "2026-07-27T15:26:53+09:00"
+        },
+        {
+          "start": "2026-07-27T21:19:33+09:00",
+          "end": null
         }
       ]
     },
@@ -146,12 +150,16 @@
       "part_number": "FNYD3J/A",
       "url": "https://www.apple.com/jp/shop/product/fnyd3j/a/11%E3%82%A4%E3%83%B3%E3%83%81iPad-Pro-Wi-Fi-Cellular-128GB-%E3%82%B7%E3%83%AB%E3%83%90%E3%83%BC%E7%AC%AC4%E4%B8%96%E4%BB%A3%E6%95%B4%E5%82%99%E6%B8%88%E8%A3%BD%E5%93%81?fnode=2bbe2a9cbed52839239ae1f5dca724d0a7aad03104b36356c6b730d63dda975dbf9458cfe5b0974b998aa8ff119d8d3e4b5d2552b43684702e2615d946026fed9b4fc7d0a98d40df9b1e929b03c79662",
       "first_seen": "2026-04-22T19:19:08+09:00",
-      "last_seen": "2026-07-27T06:57:00+09:00",
-      "is_available": false,
+      "last_seen": "2026-07-27T21:19:33+09:00",
+      "is_available": true,
       "periods": [
         {
           "start": "2026-04-22T19:19:08+09:00",
           "end": "2026-07-27T15:26:53+09:00"
+        },
+        {
+          "start": "2026-07-27T21:19:33+09:00",
+          "end": null
         }
       ]
     },
@@ -875,7 +883,7 @@
       "url": "https://www.apple.com/jp/shop/product/fd3y4j/a/iPadA16Wi-Fi-128GB-%E3%82%B7%E3%83%AB%E3%83%90%E3%83%BC-%E6%95%B4%E5%82%99%E6%B8%88%E8%A3%BD%E5%93%81?fnode=fd0b2fd250c35a9acf43976a69fc3d8f6dac87e138bbe85eb3267f209174e8008319e32399239403e36e5059c600450851f6ec55a13f6f5d780980e88c2e35b436d82073d9a5f3665ae12d95d490784e",
       "first_seen": "2026-04-28T14:58:09+09:00",
       "last_seen": "2026-07-27T15:26:53+09:00",
-      "is_available": true,
+      "is_available": false,
       "periods": [
         {
           "start": "2026-04-28T14:58:09+09:00",
@@ -903,7 +911,7 @@
         },
         {
           "start": "2026-07-27T15:26:53+09:00",
-          "end": null
+          "end": "2026-07-27T21:19:33+09:00"
         }
       ]
     },
@@ -916,7 +924,7 @@
       "url": "https://www.apple.com/jp/shop/product/fd4a4j/a/iPadA16Wi-Fi-128GB-%E3%83%96%E3%83%AB%E3%83%BC-%E6%95%B4%E5%82%99%E6%B8%88%E8%A3%BD%E5%93%81?fnode=fd0b2fd250c35a9acf43976a69fc3d8f6dac87e138bbe85eb3267f209174e8008319e32399239403e36e5059c600450851f6ec55a13f6f5d780980e88c2e35b436d82073d9a5f3665ae12d95d490784e",
       "first_seen": "2026-04-28T14:58:09+09:00",
       "last_seen": "2026-07-27T15:26:53+09:00",
-      "is_available": true,
+      "is_available": false,
       "periods": [
         {
           "start": "2026-04-28T14:58:09+09:00",
@@ -936,7 +944,7 @@
         },
         {
           "start": "2026-07-27T15:26:53+09:00",
-          "end": null
+          "end": "2026-07-27T21:19:33+09:00"
         }
       ]
     },
@@ -974,7 +982,7 @@
       "url": "https://www.apple.com/jp/shop/product/fd4e4j/a/iPadA16Wi-Fi-128GB-%E3%83%94%E3%83%B3%E3%82%AF-%E6%95%B4%E5%82%99%E6%B8%88%E8%A3%BD%E5%93%81?fnode=fd0b2fd250c35a9acf43976a69fc3d8f6dac87e138bbe85eb3267f209174e8008319e32399239403e36e5059c600450851f6ec55a13f6f5d780980e88c2e35b436d82073d9a5f3665ae12d95d490784e",
       "first_seen": "2026-04-28T14:58:09+09:00",
       "last_seen": "2026-07-27T15:26:53+09:00",
-      "is_available": true,
+      "is_available": false,
       "periods": [
         {
           "start": "2026-04-28T14:58:09+09:00",
@@ -990,7 +998,7 @@
         },
         {
           "start": "2026-07-27T15:26:53+09:00",
-          "end": null
+          "end": "2026-07-27T21:19:33+09:00"
         }
       ]
     },
@@ -1061,7 +1069,7 @@
       "part_number": "FD7H4J/A",
       "url": "https://www.apple.com/jp/shop/product/fd7h4j/a/iPadA16Wi-Fi-Cellular-128GB-%E3%82%A4%E3%82%A8%E3%83%AD%E3%83%BC-%E6%95%B4%E5%82%99%E6%B8%88%E8%A3%BD%E5%93%81?fnode=fd0b2fd250c35a9acf43976a69fc3d8f6dac87e138bbe85eb3267f209174e8008319e32399239403e36e5059c600450851f6ec55a13f6f5d780980e88c2e35b436d82073d9a5f3665ae12d95d490784e",
       "first_seen": "2026-04-28T14:58:09+09:00",
-      "last_seen": "2026-07-27T15:26:53+09:00",
+      "last_seen": "2026-07-27T21:19:33+09:00",
       "is_available": true,
       "periods": [
         {
@@ -1087,7 +1095,7 @@
       "url": "https://www.apple.com/jp/shop/product/fd7j4j/a/iPadA16Wi-Fi-Cellular-128GB-%E3%83%94%E3%83%B3%E3%82%AF-%E6%95%B4%E5%82%99%E6%B8%88%E8%A3%BD%E5%93%81?fnode=fd0b2fd250c35a9acf43976a69fc3d8f6dac87e138bbe85eb3267f209174e8008319e32399239403e36e5059c600450851f6ec55a13f6f5d780980e88c2e35b436d82073d9a5f3665ae12d95d490784e",
       "first_seen": "2026-04-28T14:58:09+09:00",
       "last_seen": "2026-07-27T15:26:53+09:00",
-      "is_available": true,
+      "is_available": false,
       "periods": [
         {
           "start": "2026-04-28T14:58:09+09:00",
@@ -1095,7 +1103,7 @@
         },
         {
           "start": "2026-07-27T15:26:53+09:00",
-          "end": null
+          "end": "2026-07-27T21:19:33+09:00"
         }
       ]
     },
@@ -1212,7 +1220,7 @@
       "part_number": "FD4Y4J/A",
       "url": "https://www.apple.com/jp/shop/product/fd4y4j/a/iPadA16Wi-Fi-512GB-%E3%83%96%E3%83%AB%E3%83%BC-%E6%95%B4%E5%82%99%E6%B8%88%E8%A3%BD%E5%93%81?fnode=fd0b2fd250c35a9acf43976a69fc3d8f6dac87e138bbe85eb3267f209174e8008319e32399239403e36e5059c600450851f6ec55a13f6f5d780980e88c2e35b436d82073d9a5f3665ae12d95d490784e",
       "first_seen": "2026-04-28T14:58:09+09:00",
-      "last_seen": "2026-07-27T15:26:53+09:00",
+      "last_seen": "2026-07-27T21:19:33+09:00",
       "is_available": true,
       "periods": [
         {
@@ -1668,7 +1676,7 @@
       "part_number": "FCG04J/A",
       "url": "https://www.apple.com/jp/shop/product/fcg04j/a/11%E3%82%A4%E3%83%B3%E3%83%81iPad-AirM3Wi-Fi-Cellular-256GB-%E3%82%B9%E3%83%9A%E3%83%BC%E3%82%B9%E3%82%B0%E3%83%AC%E3%82%A4-%E6%95%B4%E5%82%99%E6%B8%88%E8%A3%BD%E5%93%81?fnode=426afe16df5d256471bd8d965c4ff4e1752dcfb400df1b82dc780cc5cfc35e93ee9d26571def3a4fc8bfb77723cf7b6b011b202e2299aa7bd229a2f65a172c8816b114ee283f872695e4f8a5186c66b7",
       "first_seen": "2026-06-06T15:29:04+09:00",
-      "last_seen": "2026-07-27T15:26:53+09:00",
+      "last_seen": "2026-07-27T21:19:33+09:00",
       "is_available": true,
       "periods": [
         {
@@ -1689,8 +1697,8 @@
       "part_number": "FCG14J/A",
       "url": "https://www.apple.com/jp/shop/product/fcg14j/a/11%E3%82%A4%E3%83%B3%E3%83%81iPad-AirM3Wi-Fi-Cellular-256GB-%E3%83%96%E3%83%AB%E3%83%BC-%E6%95%B4%E5%82%99%E6%B8%88%E8%A3%BD%E5%93%81?fnode=426afe16df5d256471bd8d965c4ff4e1752dcfb400df1b82dc780cc5cfc35e93ee9d26571def3a4fc8bfb77723cf7b6b011b202e2299aa7bd229a2f65a172c8816b114ee283f872695e4f8a5186c66b7",
       "first_seen": "2026-06-06T15:29:04+09:00",
-      "last_seen": "2026-07-14T06:53:52+09:00",
-      "is_available": false,
+      "last_seen": "2026-07-27T21:19:33+09:00",
+      "is_available": true,
       "periods": [
         {
           "start": "2026-06-06T15:29:04+09:00",
@@ -1699,6 +1707,10 @@
         {
           "start": "2026-07-13T15:14:06+09:00",
           "end": "2026-07-14T14:26:56+09:00"
+        },
+        {
+          "start": "2026-07-27T21:19:33+09:00",
+          "end": null
         }
       ]
     },
@@ -2010,7 +2022,7 @@
       "part_number": "FUWJ3J/A",
       "url": "https://www.apple.com/jp/shop/product/fuwj3j/a/11%E3%82%A4%E3%83%B3%E3%83%81iPad-AirM2Wi-Fi-256GB-%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%A9%E3%82%A4%E3%83%88-%E6%95%B4%E5%82%99%E6%B8%88%E8%A3%BD%E5%93%81?fnode=b604684df838c228976d01eeefb861e07da716f00d36a0452f1eb55bfbc89e232ea7d17a99881bb8bdb2320c997399c4046bf7e62d1631f74472167a46351ab853e3fb02677a8f37306d622a826819b8",
       "first_seen": "2026-07-13T15:14:06+09:00",
-      "last_seen": "2026-07-27T15:26:53+09:00",
+      "last_seen": "2026-07-27T21:19:33+09:00",
       "is_available": true,
       "periods": [
         {
@@ -2031,7 +2043,7 @@
       "part_number": "FC9W4J/A",
       "url": "https://www.apple.com/jp/shop/product/fc9w4j/a/11%E3%82%A4%E3%83%B3%E3%83%81iPad-AirM3Wi-Fi-128GB-%E3%82%B9%E3%83%9A%E3%83%BC%E3%82%B9%E3%82%B0%E3%83%AC%E3%82%A4-%E6%95%B4%E5%82%99%E6%B8%88%E8%A3%BD%E5%93%81?fnode=b604684df838c228976d01eeefb861e07da716f00d36a0452f1eb55bfbc89e232ea7d17a99881bb8bdb2320c997399c4046bf7e62d1631f74472167a46351ab853e3fb02677a8f37306d622a826819b8",
       "first_seen": "2026-07-13T15:14:06+09:00",
-      "last_seen": "2026-07-27T15:26:53+09:00",
+      "last_seen": "2026-07-27T21:19:33+09:00",
       "is_available": true,
       "periods": [
         {
@@ -2048,7 +2060,7 @@
       "part_number": "FC9X4J/A",
       "url": "https://www.apple.com/jp/shop/product/fc9x4j/a/11%E3%82%A4%E3%83%B3%E3%83%81iPad-AirM3Wi-Fi-128GB-%E3%83%96%E3%83%AB%E3%83%BC-%E6%95%B4%E5%82%99%E6%B8%88%E8%A3%BD%E5%93%81?fnode=b604684df838c228976d01eeefb861e07da716f00d36a0452f1eb55bfbc89e232ea7d17a99881bb8bdb2320c997399c4046bf7e62d1631f74472167a46351ab853e3fb02677a8f37306d622a826819b8",
       "first_seen": "2026-07-13T15:14:06+09:00",
-      "last_seen": "2026-07-27T15:26:53+09:00",
+      "last_seen": "2026-07-27T21:19:33+09:00",
       "is_available": true,
       "periods": [
         {
@@ -2065,7 +2077,7 @@
       "part_number": "FC9Y4J/A",
       "url": "https://www.apple.com/jp/shop/product/fc9y4j/a/11%E3%82%A4%E3%83%B3%E3%83%81iPad-AirM3Wi-Fi-128GB-%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%A9%E3%82%A4%E3%83%88-%E6%95%B4%E5%82%99%E6%B8%88%E8%A3%BD%E5%93%81?fnode=b604684df838c228976d01eeefb861e07da716f00d36a0452f1eb55bfbc89e232ea7d17a99881bb8bdb2320c997399c4046bf7e62d1631f74472167a46351ab853e3fb02677a8f37306d622a826819b8",
       "first_seen": "2026-07-13T15:14:06+09:00",
-      "last_seen": "2026-07-27T15:26:53+09:00",
+      "last_seen": "2026-07-27T21:19:33+09:00",
       "is_available": true,
       "periods": [
         {
@@ -2082,7 +2094,7 @@
       "part_number": "FCA04J/A",
       "url": "https://www.apple.com/jp/shop/product/fca04j/a/11%E3%82%A4%E3%83%B3%E3%83%81iPad-AirM3Wi-Fi-128GB-%E3%83%91%E3%83%BC%E3%83%97%E3%83%AB-%E6%95%B4%E5%82%99%E6%B8%88%E8%A3%BD%E5%93%81?fnode=b604684df838c228976d01eeefb861e07da716f00d36a0452f1eb55bfbc89e232ea7d17a99881bb8bdb2320c997399c4046bf7e62d1631f74472167a46351ab853e3fb02677a8f37306d622a826819b8",
       "first_seen": "2026-07-13T15:14:06+09:00",
-      "last_seen": "2026-07-27T15:26:53+09:00",
+      "last_seen": "2026-07-27T21:19:33+09:00",
       "is_available": true,
       "periods": [
         {
@@ -2116,7 +2128,7 @@
       "part_number": "FCA14J/A",
       "url": "https://www.apple.com/jp/shop/product/fca14j/a/11%E3%82%A4%E3%83%B3%E3%83%81iPad-AirM3Wi-Fi-256GB-%E3%82%B9%E3%83%9A%E3%83%BC%E3%82%B9%E3%82%B0%E3%83%AC%E3%82%A4-%E6%95%B4%E5%82%99%E6%B8%88%E8%A3%BD%E5%93%81?fnode=b604684df838c228976d01eeefb861e07da716f00d36a0452f1eb55bfbc89e232ea7d17a99881bb8bdb2320c997399c4046bf7e62d1631f74472167a46351ab853e3fb02677a8f37306d622a826819b8",
       "first_seen": "2026-07-13T15:14:06+09:00",
-      "last_seen": "2026-07-27T15:26:53+09:00",
+      "last_seen": "2026-07-27T21:19:33+09:00",
       "is_available": true,
       "periods": [
         {
@@ -2134,7 +2146,7 @@
       "url": "https://www.apple.com/jp/shop/product/fca34j/a/11%E3%82%A4%E3%83%B3%E3%83%81iPad-AirM3Wi-Fi-256GB-%E3%83%96%E3%83%AB%E3%83%BC-%E6%95%B4%E5%82%99%E6%B8%88%E8%A3%BD%E5%93%81?fnode=b604684df838c228976d01eeefb861e07da716f00d36a0452f1eb55bfbc89e232ea7d17a99881bb8bdb2320c997399c4046bf7e62d1631f74472167a46351ab853e3fb02677a8f37306d622a826819b8",
       "first_seen": "2026-07-13T15:14:06+09:00",
       "last_seen": "2026-07-27T15:26:53+09:00",
-      "is_available": true,
+      "is_available": false,
       "periods": [
         {
           "start": "2026-07-13T15:14:06+09:00",
@@ -2142,7 +2154,7 @@
         },
         {
           "start": "2026-07-27T15:26:53+09:00",
-          "end": null
+          "end": "2026-07-27T21:19:33+09:00"
         }
       ]
     },
@@ -2154,7 +2166,7 @@
       "part_number": "FCA44J/A",
       "url": "https://www.apple.com/jp/shop/product/fca44j/a/11%E3%82%A4%E3%83%B3%E3%83%81iPad-AirM3Wi-Fi-256GB-%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%A9%E3%82%A4%E3%83%88-%E6%95%B4%E5%82%99%E6%B8%88%E8%A3%BD%E5%93%81?fnode=b604684df838c228976d01eeefb861e07da716f00d36a0452f1eb55bfbc89e232ea7d17a99881bb8bdb2320c997399c4046bf7e62d1631f74472167a46351ab853e3fb02677a8f37306d622a826819b8",
       "first_seen": "2026-07-13T15:14:06+09:00",
-      "last_seen": "2026-07-27T15:26:53+09:00",
+      "last_seen": "2026-07-27T21:19:33+09:00",
       "is_available": true,
       "periods": [
         {
@@ -2179,7 +2191,7 @@
       "part_number": "FCA64J/A",
       "url": "https://www.apple.com/jp/shop/product/fca64j/a/11%E3%82%A4%E3%83%B3%E3%83%81iPad-AirM3Wi-Fi-256GB-%E3%83%91%E3%83%BC%E3%83%97%E3%83%AB-%E6%95%B4%E5%82%99%E6%B8%88%E8%A3%BD%E5%93%81?fnode=b604684df838c228976d01eeefb861e07da716f00d36a0452f1eb55bfbc89e232ea7d17a99881bb8bdb2320c997399c4046bf7e62d1631f74472167a46351ab853e3fb02677a8f37306d622a826819b8",
       "first_seen": "2026-07-13T15:14:06+09:00",
-      "last_seen": "2026-07-27T15:26:53+09:00",
+      "last_seen": "2026-07-27T21:19:33+09:00",
       "is_available": true,
       "periods": [
         {
@@ -2255,7 +2267,7 @@
       "part_number": "FCNH4J/A",
       "url": "https://www.apple.com/jp/shop/product/fcnh4j/a/13%E3%82%A4%E3%83%B3%E3%83%81iPad-AirM3Wi-Fi-128GB-%E3%82%B9%E3%83%9A%E3%83%BC%E3%82%B9%E3%82%B0%E3%83%AC%E3%82%A4-%E6%95%B4%E5%82%99%E6%B8%88%E8%A3%BD%E5%93%81?fnode=b604684df838c228976d01eeefb861e07da716f00d36a0452f1eb55bfbc89e232ea7d17a99881bb8bdb2320c997399c4046bf7e62d1631f74472167a46351ab853e3fb02677a8f37306d622a826819b8",
       "first_seen": "2026-07-13T15:14:06+09:00",
-      "last_seen": "2026-07-27T15:26:53+09:00",
+      "last_seen": "2026-07-27T21:19:33+09:00",
       "is_available": true,
       "periods": [
         {
@@ -2272,7 +2284,7 @@
       "part_number": "FCNK4J/A",
       "url": "https://www.apple.com/jp/shop/product/fcnk4j/a/13%E3%82%A4%E3%83%B3%E3%83%81iPad-AirM3Wi-Fi-128GB-%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%A9%E3%82%A4%E3%83%88-%E6%95%B4%E5%82%99%E6%B8%88%E8%A3%BD%E5%93%81?fnode=b604684df838c228976d01eeefb861e07da716f00d36a0452f1eb55bfbc89e232ea7d17a99881bb8bdb2320c997399c4046bf7e62d1631f74472167a46351ab853e3fb02677a8f37306d622a826819b8",
       "first_seen": "2026-07-13T15:14:06+09:00",
-      "last_seen": "2026-07-27T15:26:53+09:00",
+      "last_seen": "2026-07-27T21:19:33+09:00",
       "is_available": true,
       "periods": [
         {
@@ -2310,12 +2322,16 @@
       "part_number": "FCNN4J/A",
       "url": "https://www.apple.com/jp/shop/product/fcnn4j/a/13%E3%82%A4%E3%83%B3%E3%83%81iPad-AirM3Wi-Fi-256GB-%E3%82%B9%E3%83%9A%E3%83%BC%E3%82%B9%E3%82%B0%E3%83%AC%E3%82%A4-%E6%95%B4%E5%82%99%E6%B8%88%E8%A3%BD%E5%93%81?fnode=572f54e7f9bbf9b788ea104b6c2945efdd47cb2ce438285c455fe6936677120f3b659005dea4e1db6a88a3ebfe7613910720fbf0812055d195867fa57d52890bf29dbf4c5786695f55d7388b123c61f8",
       "first_seen": "2026-07-13T20:58:30+09:00",
-      "last_seen": "2026-07-14T06:53:52+09:00",
-      "is_available": false,
+      "last_seen": "2026-07-27T21:19:33+09:00",
+      "is_available": true,
       "periods": [
         {
           "start": "2026-07-13T20:58:30+09:00",
           "end": "2026-07-14T14:26:56+09:00"
+        },
+        {
+          "start": "2026-07-27T21:19:33+09:00",
+          "end": null
         }
       ]
     },
@@ -2416,7 +2432,7 @@
       "part_number": "FK7V3J/A",
       "url": "https://www.apple.com/jp/shop/product/fk7v3j/a/ipad-mini-6-wi-fi-256gb-%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%A9%E3%82%A4%E3%83%88-%E6%95%B4%E5%82%99%E6%B8%88%E8%A3%BD%E5%93%81?fnode=e8e3a203e9405d7074442df148e59e5c489b143b817d7e6e6a05c85195ba9e63928c6dc352869b7c63e58aecf036db2406a3a26ddd8ae3c4bcd8d92027dbb4dc60b89e1190adcc59598f1cc9238bdaca",
       "first_seen": "2026-07-27T15:26:53+09:00",
-      "last_seen": "2026-07-27T15:26:53+09:00",
+      "last_seen": "2026-07-27T21:19:33+09:00",
       "is_available": true,
       "periods": [
         {
@@ -2433,7 +2449,7 @@
       "part_number": "FUWC3J/A",
       "url": "https://www.apple.com/jp/shop/product/fuwc3j/a/11%E3%82%A4%E3%83%B3%E3%83%81iPad-AirM2Wi-Fi-128GB-%E3%82%B9%E3%83%9A%E3%83%BC%E3%82%B9%E3%82%B0%E3%83%AC%E3%82%A4-%E6%95%B4%E5%82%99%E6%B8%88%E8%A3%BD%E5%93%81?fnode=e8e3a203e9405d7074442df148e59e5c489b143b817d7e6e6a05c85195ba9e63928c6dc352869b7c63e58aecf036db2406a3a26ddd8ae3c4bcd8d92027dbb4dc60b89e1190adcc59598f1cc9238bdaca",
       "first_seen": "2026-07-27T15:26:53+09:00",
-      "last_seen": "2026-07-27T15:26:53+09:00",
+      "last_seen": "2026-07-27T21:19:33+09:00",
       "is_available": true,
       "periods": [
         {
@@ -2451,11 +2467,11 @@
       "url": "https://www.apple.com/jp/shop/product/fuwd3j/a/11%E3%82%A4%E3%83%B3%E3%83%81iPad-AirM2Wi-Fi-128GB-%E3%83%96%E3%83%AB%E3%83%BC-%E6%95%B4%E5%82%99%E6%B8%88%E8%A3%BD%E5%93%81?fnode=e8e3a203e9405d7074442df148e59e5c489b143b817d7e6e6a05c85195ba9e63928c6dc352869b7c63e58aecf036db2406a3a26ddd8ae3c4bcd8d92027dbb4dc60b89e1190adcc59598f1cc9238bdaca",
       "first_seen": "2026-07-27T15:26:53+09:00",
       "last_seen": "2026-07-27T15:26:53+09:00",
-      "is_available": true,
+      "is_available": false,
       "periods": [
         {
           "start": "2026-07-27T15:26:53+09:00",
-          "end": null
+          "end": "2026-07-27T21:19:33+09:00"
         }
       ]
     },
@@ -2467,7 +2483,7 @@
       "part_number": "FUWE3J/A",
       "url": "https://www.apple.com/jp/shop/product/fuwe3j/a/11%E3%82%A4%E3%83%B3%E3%83%81iPad-AirM2Wi-Fi-128GB-%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%A9%E3%82%A4%E3%83%88-%E6%95%B4%E5%82%99%E6%B8%88%E8%A3%BD%E5%93%81?fnode=e8e3a203e9405d7074442df148e59e5c489b143b817d7e6e6a05c85195ba9e63928c6dc352869b7c63e58aecf036db2406a3a26ddd8ae3c4bcd8d92027dbb4dc60b89e1190adcc59598f1cc9238bdaca",
       "first_seen": "2026-07-27T15:26:53+09:00",
-      "last_seen": "2026-07-27T15:26:53+09:00",
+      "last_seen": "2026-07-27T21:19:33+09:00",
       "is_available": true,
       "periods": [
         {
@@ -2485,11 +2501,11 @@
       "url": "https://www.apple.com/jp/shop/product/fuwg3j/a/11%E3%82%A4%E3%83%B3%E3%83%81iPad-AirM2Wi-Fi-256GB-%E3%82%B9%E3%83%9A%E3%83%BC%E3%82%B9%E3%82%B0%E3%83%AC%E3%82%A4-%E6%95%B4%E5%82%99%E6%B8%88%E8%A3%BD%E5%93%81?fnode=e8e3a203e9405d7074442df148e59e5c489b143b817d7e6e6a05c85195ba9e63928c6dc352869b7c63e58aecf036db2406a3a26ddd8ae3c4bcd8d92027dbb4dc60b89e1190adcc59598f1cc9238bdaca",
       "first_seen": "2026-07-27T15:26:53+09:00",
       "last_seen": "2026-07-27T15:26:53+09:00",
-      "is_available": true,
+      "is_available": false,
       "periods": [
         {
           "start": "2026-07-27T15:26:53+09:00",
-          "end": null
+          "end": "2026-07-27T21:19:33+09:00"
         }
       ]
     },
@@ -2501,7 +2517,7 @@
       "part_number": "FK8H3J/A",
       "url": "https://www.apple.com/jp/shop/product/fk8h3j/a/ipad-mini-6-wi-fi-cellular-256gb-%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%A9%E3%82%A4%E3%83%88-%E6%95%B4%E5%82%99%E6%B8%88%E8%A3%BD%E5%93%81?fnode=e8e3a203e9405d7074442df148e59e5c489b143b817d7e6e6a05c85195ba9e63928c6dc352869b7c63e58aecf036db2406a3a26ddd8ae3c4bcd8d92027dbb4dc60b89e1190adcc59598f1cc9238bdaca",
       "first_seen": "2026-07-27T15:26:53+09:00",
-      "last_seen": "2026-07-27T15:26:53+09:00",
+      "last_seen": "2026-07-27T21:19:33+09:00",
       "is_available": true,
       "periods": [
         {
@@ -2518,7 +2534,7 @@
       "part_number": "FCFX4J/A",
       "url": "https://www.apple.com/jp/shop/product/fcfx4j/a/11%E3%82%A4%E3%83%B3%E3%83%81iPad-AirM3Wi-Fi-Cellular-128GB-%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%A9%E3%82%A4%E3%83%88-%E6%95%B4%E5%82%99%E6%B8%88%E8%A3%BD%E5%93%81?fnode=e8e3a203e9405d7074442df148e59e5c489b143b817d7e6e6a05c85195ba9e63928c6dc352869b7c63e58aecf036db2406a3a26ddd8ae3c4bcd8d92027dbb4dc60b89e1190adcc59598f1cc9238bdaca",
       "first_seen": "2026-07-27T15:26:53+09:00",
-      "last_seen": "2026-07-27T15:26:53+09:00",
+      "last_seen": "2026-07-27T21:19:33+09:00",
       "is_available": true,
       "periods": [
         {
@@ -2535,7 +2551,7 @@
       "part_number": "FNXD3J/A",
       "url": "https://www.apple.com/jp/shop/product/fnxd3j/a/11%E3%82%A4%E3%83%B3%E3%83%81iPad-Pro-Wi-Fi-128GB-%E3%82%B9%E3%83%9A%E3%83%BC%E3%82%B9%E3%82%B0%E3%83%AC%E3%82%A4%E7%AC%AC4%E4%B8%96%E4%BB%A3%E6%95%B4%E5%82%99%E6%B8%88%E8%A3%BD%E5%93%81?fnode=e8e3a203e9405d7074442df148e59e5c489b143b817d7e6e6a05c85195ba9e63928c6dc352869b7c63e58aecf036db2406a3a26ddd8ae3c4bcd8d92027dbb4dc60b89e1190adcc59598f1cc9238bdaca",
       "first_seen": "2026-07-27T15:26:53+09:00",
-      "last_seen": "2026-07-27T15:26:53+09:00",
+      "last_seen": "2026-07-27T21:19:33+09:00",
       "is_available": true,
       "periods": [
         {
@@ -2552,7 +2568,7 @@
       "part_number": "FV6R3J/A",
       "url": "https://www.apple.com/jp/shop/product/fv6r3j/a/13%E3%82%A4%E3%83%B3%E3%83%81iPad-AirM2Wi-FiCellular-128GB-%E3%83%96%E3%83%AB%E3%83%BC-%E6%95%B4%E5%82%99%E6%B8%88%E8%A3%BD%E5%93%81?fnode=e8e3a203e9405d7074442df148e59e5c489b143b817d7e6e6a05c85195ba9e63928c6dc352869b7c63e58aecf036db2406a3a26ddd8ae3c4bcd8d92027dbb4dc60b89e1190adcc59598f1cc9238bdaca",
       "first_seen": "2026-07-27T15:26:53+09:00",
-      "last_seen": "2026-07-27T15:26:53+09:00",
+      "last_seen": "2026-07-27T21:19:33+09:00",
       "is_available": true,
       "periods": [
         {
@@ -2569,7 +2585,7 @@
       "part_number": "FV6T3J/A",
       "url": "https://www.apple.com/jp/shop/product/fv6t3j/a/13%E3%82%A4%E3%83%B3%E3%83%81iPad-AirM2Wi-FiCellular-128GB-%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%A9%E3%82%A4%E3%83%88-%E6%95%B4%E5%82%99%E6%B8%88%E8%A3%BD%E5%93%81?fnode=e8e3a203e9405d7074442df148e59e5c489b143b817d7e6e6a05c85195ba9e63928c6dc352869b7c63e58aecf036db2406a3a26ddd8ae3c4bcd8d92027dbb4dc60b89e1190adcc59598f1cc9238bdaca",
       "first_seen": "2026-07-27T15:26:53+09:00",
-      "last_seen": "2026-07-27T15:26:53+09:00",
+      "last_seen": "2026-07-27T21:19:33+09:00",
       "is_available": true,
       "periods": [
         {
@@ -2586,11 +2602,79 @@
       "part_number": "FCNJ4J/A",
       "url": "https://www.apple.com/jp/shop/product/fcnj4j/a/13%E3%82%A4%E3%83%B3%E3%83%81iPad-AirM3Wi-Fi-128GB-%E3%83%96%E3%83%AB%E3%83%BC-%E6%95%B4%E5%82%99%E6%B8%88%E8%A3%BD%E5%93%81?fnode=e8e3a203e9405d7074442df148e59e5c489b143b817d7e6e6a05c85195ba9e63928c6dc352869b7c63e58aecf036db2406a3a26ddd8ae3c4bcd8d92027dbb4dc60b89e1190adcc59598f1cc9238bdaca",
       "first_seen": "2026-07-27T15:26:53+09:00",
-      "last_seen": "2026-07-27T15:26:53+09:00",
+      "last_seen": "2026-07-27T21:19:33+09:00",
       "is_available": true,
       "periods": [
         {
           "start": "2026-07-27T15:26:53+09:00",
+          "end": null
+        }
+      ]
+    },
+    "FCG34J/A": {
+      "name": "11インチiPad Air（M3）Wi-Fi + Cellular 256GB - パープル",
+      "price": 138800,
+      "price_text": "138,800円",
+      "retail_price_text": "¥138,800",
+      "part_number": "FCG34J/A",
+      "url": "https://www.apple.com/jp/shop/product/fcg34j/a/11%E3%82%A4%E3%83%B3%E3%83%81iPad-AirM3Wi-Fi-Cellular-256GB-%E3%83%91%E3%83%BC%E3%83%97%E3%83%AB-%E6%95%B4%E5%82%99%E6%B8%88%E8%A3%BD%E5%93%81?fnode=950c367041ae26827019ccbfaafaff1c7d98a0e5b9f0eb6085dfdc924d8ddcbc077d72f0be68d862ff3937cd1f1260c017608e0bc9e9c8d285c3a588c6746e53a4f0c2a7068ce018606a54fce5a307ea",
+      "first_seen": "2026-07-27T21:19:33+09:00",
+      "last_seen": "2026-07-27T21:19:33+09:00",
+      "is_available": true,
+      "periods": [
+        {
+          "start": "2026-07-27T21:19:33+09:00",
+          "end": null
+        }
+      ]
+    },
+    "FNXF3J/A": {
+      "name": "11インチiPad Pro Wi-Fi 256GB - スペースグレイ（第4世代）",
+      "price": 138800,
+      "price_text": "138,800円",
+      "retail_price_text": "¥138,800",
+      "part_number": "FNXF3J/A",
+      "url": "https://www.apple.com/jp/shop/product/fnxf3j/a/11%E3%82%A4%E3%83%B3%E3%83%81iPad-Pro-Wi-Fi-256GB-%E3%82%B9%E3%83%9A%E3%83%BC%E3%82%B9%E3%82%B0%E3%83%AC%E3%82%A4%E7%AC%AC4%E4%B8%96%E4%BB%A3%E6%95%B4%E5%82%99%E6%B8%88%E8%A3%BD%E5%93%81?fnode=950c367041ae26827019ccbfaafaff1c7d98a0e5b9f0eb6085dfdc924d8ddcbc077d72f0be68d862ff3937cd1f1260c017608e0bc9e9c8d285c3a588c6746e53a4f0c2a7068ce018606a54fce5a307ea",
+      "first_seen": "2026-07-27T21:19:33+09:00",
+      "last_seen": "2026-07-27T21:19:33+09:00",
+      "is_available": true,
+      "periods": [
+        {
+          "start": "2026-07-27T21:19:33+09:00",
+          "end": null
+        }
+      ]
+    },
+    "FV6W3J/A": {
+      "name": "13インチiPad Air（M2）Wi-Fi+Cellular 256GB - ブルー",
+      "price": 143800,
+      "price_text": "143,800円",
+      "retail_price_text": "¥143,800",
+      "part_number": "FV6W3J/A",
+      "url": "https://www.apple.com/jp/shop/product/fv6w3j/a/13%E3%82%A4%E3%83%B3%E3%83%81iPad-AirM2Wi-FiCellular-256GB-%E3%83%96%E3%83%AB%E3%83%BC-%E6%95%B4%E5%82%99%E6%B8%88%E8%A3%BD%E5%93%81?fnode=950c367041ae26827019ccbfaafaff1c7d98a0e5b9f0eb6085dfdc924d8ddcbc077d72f0be68d862ff3937cd1f1260c017608e0bc9e9c8d285c3a588c6746e53a4f0c2a7068ce018606a54fce5a307ea",
+      "first_seen": "2026-07-27T21:19:33+09:00",
+      "last_seen": "2026-07-27T21:19:33+09:00",
+      "is_available": true,
+      "periods": [
+        {
+          "start": "2026-07-27T21:19:33+09:00",
+          "end": null
+        }
+      ]
+    },
+    "FCAE4J/A": {
+      "name": "11インチiPad Air（M3）Wi-Fi 512GB - パープル",
+      "price": 146800,
+      "price_text": "146,800円",
+      "retail_price_text": "¥146,800",
+      "part_number": "FCAE4J/A",
+      "url": "https://www.apple.com/jp/shop/product/fcae4j/a/11%E3%82%A4%E3%83%B3%E3%83%81iPad-AirM3Wi-Fi-512GB-%E3%83%91%E3%83%BC%E3%83%97%E3%83%AB-%E6%95%B4%E5%82%99%E6%B8%88%E8%A3%BD%E5%93%81?fnode=950c367041ae26827019ccbfaafaff1c7d98a0e5b9f0eb6085dfdc924d8ddcbc077d72f0be68d862ff3937cd1f1260c017608e0bc9e9c8d285c3a588c6746e53a4f0c2a7068ce018606a54fce5a307ea",
+      "first_seen": "2026-07-27T21:19:33+09:00",
+      "last_seen": "2026-07-27T21:19:33+09:00",
+      "is_available": true,
+      "periods": [
+        {
+          "start": "2026-07-27T21:19:33+09:00",
           "end": null
         }
       ]
@@ -3959,6 +4043,10 @@
     },
     {
       "timestamp": "2026-07-27T15:26:53+09:00",
+      "product_count": 30
+    },
+    {
+      "timestamp": "2026-07-27T21:19:33+09:00",
       "product_count": 30
     }
   ]
