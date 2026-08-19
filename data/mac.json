@@ -8,7 +8,7 @@
       "part_number": "FWUC3J/A",
       "url": "https://www.apple.com/jp/shop/product/fwuc3j/a/24%E3%82%A4%E3%83%B3%E3%83%81iMac-%E6%95%B4%E5%82%99%E6%B8%88%E8%A3%BD%E5%93%81-8%E3%82%B3%E3%82%A2CPU%E3%81%A88%E3%82%B3%E3%82%A2GPU%E3%82%92%E6%90%AD%E8%BC%89%E3%81%97%E3%81%9FApple-M4%E3%83%81%E3%83%83%E3%83%97-%E3%82%B7%E3%83%AB%E3%83%90%E3%83%BC?fnode=4c714e8d249bc25c9a0503b744833a99c3dd52fd4d286859f20f023cd8c65cd78d79bbb1d3e185ac1b4e844665d48a434897462ad5af1a87eca16f4788ca214e9baf599ab158c04b50d58af09890a424",
       "first_seen": "2026-04-22T19:18:14+09:00",
-      "last_seen": "2026-08-19T06:21:42+09:00",
+      "last_seen": "2026-08-19T12:46:01+09:00",
       "is_available": true,
       "periods": [
         {
@@ -171,7 +171,7 @@
       "url": "https://www.apple.com/jp/shop/product/fwuy3j/a/24%E3%82%A4%E3%83%B3%E3%83%81imac-%E6%95%B4%E5%82%99%E6%B8%88%E8%A3%BD%E5%93%81-10%E3%82%B3%E3%82%A2cpu%E3%81%A810%E3%82%B3%E3%82%A2gpu%E3%82%92%E6%90%AD%E8%BC%89%E3%81%97%E3%81%9Fapple-m4%E3%83%81%E3%83%83%E3%83%97-%E3%82%AE%E3%82%AC%E3%83%93%E3%83%83%E3%83%88ethernet-%E3%82%B0%E3%83%AA%E3%83%BC%E3%83%B3?fnode=4c714e8d249bc25c9a0503b744833a99c3dd52fd4d286859f20f023cd8c65cd78d79bbb1d3e185ac1b4e844665d48a434897462ad5af1a87eca16f4788ca214e9baf599ab158c04b50d58af09890a424",
       "first_seen": "2026-04-22T19:18:14+09:00",
       "last_seen": "2026-08-19T06:21:42+09:00",
-      "is_available": true,
+      "is_available": false,
       "periods": [
         {
           "start": "2026-04-22T19:18:14+09:00",
@@ -227,7 +227,7 @@
         },
         {
           "start": "2026-08-14T13:46:36+09:00",
-          "end": null
+          "end": "2026-08-19T12:46:01+09:00"
         }
       ]
     },
@@ -277,7 +277,7 @@
       "url": "https://www.apple.com/jp/shop/product/fwv43j/a/24%E3%82%A4%E3%83%B3%E3%83%81imac-%E6%95%B4%E5%82%99%E6%B8%88%E8%A3%BD%E5%93%81-10%E3%82%B3%E3%82%A2cpu%E3%81%A810%E3%82%B3%E3%82%A2gpu%E3%82%92%E6%90%AD%E8%BC%89%E3%81%97%E3%81%9Fapple-m4%E3%83%81%E3%83%83%E3%83%97-%E3%82%AE%E3%82%AC%E3%83%93%E3%83%83%E3%83%88ethernet-%E3%83%94%E3%83%B3%E3%82%AF?fnode=4c714e8d249bc25c9a0503b744833a99c3dd52fd4d286859f20f023cd8c65cd78d79bbb1d3e185ac1b4e844665d48a434897462ad5af1a87eca16f4788ca214e9baf599ab158c04b50d58af09890a424",
       "first_seen": "2026-04-22T19:18:14+09:00",
       "last_seen": "2026-08-19T06:21:42+09:00",
-      "is_available": true,
+      "is_available": false,
       "periods": [
         {
           "start": "2026-04-22T19:18:14+09:00",
@@ -337,7 +337,7 @@
         },
         {
           "start": "2026-08-14T13:46:36+09:00",
-          "end": null
+          "end": "2026-08-19T12:46:01+09:00"
         }
       ]
     },
@@ -2376,7 +2376,7 @@
       "part_number": "FWUE3J/A",
       "url": "https://www.apple.com/jp/shop/product/fwue3j/a/24%E3%82%A4%E3%83%B3%E3%83%81iMac-%E6%95%B4%E5%82%99%E6%B8%88%E8%A3%BD%E5%93%81-8%E3%82%B3%E3%82%A2CPU%E3%81%A88%E3%82%B3%E3%82%A2GPU%E3%82%92%E6%90%AD%E8%BC%89%E3%81%97%E3%81%9FApple-M4%E3%83%81%E3%83%83%E3%83%97-%E3%82%B0%E3%83%AA%E3%83%BC%E3%83%B3?fnode=1b3d039f8f1f5717c2aa8cbfe50515e49791e1cbf026fdf91597f8468c7b112d6fdef12cf76e833cd324aa14b50410b47b21865f258088dd05d43e600e012537f3e628c2fc120db1cdc3aa64ece46013",
       "first_seen": "2026-04-28T14:57:45+09:00",
-      "last_seen": "2026-08-19T06:21:42+09:00",
+      "last_seen": "2026-08-19T12:46:01+09:00",
       "is_available": true,
       "periods": [
         {
@@ -2409,8 +2409,8 @@
       "part_number": "FWUH3J/A",
       "url": "https://www.apple.com/jp/shop/product/fwuh3j/a/24%E3%82%A4%E3%83%B3%E3%83%81iMac-%E6%95%B4%E5%82%99%E6%B8%88%E8%A3%BD%E5%93%81-8%E3%82%B3%E3%82%A2CPU%E3%81%A88%E3%82%B3%E3%82%A2GPU%E3%82%92%E6%90%AD%E8%BC%89%E3%81%97%E3%81%9FApple-M4%E3%83%81%E3%83%83%E3%83%97-%E3%83%91%E3%83%BC%E3%83%97%E3%83%AB?fnode=1b3d039f8f1f5717c2aa8cbfe50515e49791e1cbf026fdf91597f8468c7b112d6fdef12cf76e833cd324aa14b50410b47b21865f258088dd05d43e600e012537f3e628c2fc120db1cdc3aa64ece46013",
       "first_seen": "2026-04-28T14:57:45+09:00",
-      "last_seen": "2026-06-26T15:54:00+09:00",
-      "is_available": false,
+      "last_seen": "2026-08-19T12:46:01+09:00",
+      "is_available": true,
       "periods": [
         {
           "start": "2026-04-28T14:57:45+09:00",
@@ -2423,6 +2423,10 @@
         {
           "start": "2026-06-23T20:59:04+09:00",
           "end": "2026-06-28T16:00:51+09:00"
+        },
+        {
+          "start": "2026-08-19T12:46:01+09:00",
+          "end": null
         }
       ]
     },
@@ -2492,8 +2496,8 @@
       "part_number": "G1E21J/A",
       "url": "https://www.apple.com/jp/shop/product/g1e21j/a/24%E3%82%A4%E3%83%B3%E3%83%81iMac-%E6%95%B4%E5%82%99%E6%B8%88%E8%A3%BD%E5%93%81-8%E3%82%B3%E3%82%A2CPU%E3%81%A88%E3%82%B3%E3%82%A2GPU%E3%82%92%E6%90%AD%E8%BC%89%E3%81%97%E3%81%9FApple-M4%E3%83%81%E3%83%83%E3%83%97-%E3%82%B7%E3%83%AB%E3%83%90%E3%83%BC?fnode=1b3d039f8f1f5717c2aa8cbfe50515e49791e1cbf026fdf91597f8468c7b112d6fdef12cf76e833cd324aa14b50410b47b21865f258088dd05d43e600e012537f3e628c2fc120db1cdc3aa64ece46013",
       "first_seen": "2026-04-28T14:57:45+09:00",
-      "last_seen": "2026-07-25T07:02:37+09:00",
-      "is_available": false,
+      "last_seen": "2026-08-19T12:46:01+09:00",
+      "is_available": true,
       "periods": [
         {
           "start": "2026-04-28T14:57:45+09:00",
@@ -2506,6 +2510,10 @@
         {
           "start": "2026-07-24T14:48:09+09:00",
           "end": "2026-07-25T14:41:24+09:00"
+        },
+        {
+          "start": "2026-08-19T12:46:01+09:00",
+          "end": null
         }
       ]
     },
@@ -2764,7 +2772,7 @@
       "part_number": "FW2U3J/A",
       "url": "https://www.apple.com/jp/shop/product/fw2u3j/a/14%E3%82%A4%E3%83%B3%E3%83%81macbook-pro-%E6%95%B4%E5%82%99%E6%B8%88%E8%A3%BD%E5%93%81-10%E3%82%B3%E3%82%A2cpu%E3%81%A810%E3%82%B3%E3%82%A2gpu%E3%82%92%E6%90%AD%E8%BC%89%E3%81%97%E3%81%9Fapple-m4%E3%83%81%E3%83%83%E3%83%97-%E3%82%B9%E3%83%9A%E3%83%BC%E3%82%B9%E3%83%96%E3%83%A9%E3%83%83%E3%82%AF?fnode=5c448535055cbcf1080cdf089133a8eb0023c309e1e826e8f12196075a43eb369058d90b7ce593f2a0c72eba571b164947c634bbe7ad9d1d3f50444405a44d58b13ef930989ee8c04f3f618b9a703d01",
       "first_seen": "2026-05-02T14:35:10+09:00",
-      "last_seen": "2026-08-19T06:21:42+09:00",
+      "last_seen": "2026-08-19T12:46:01+09:00",
       "is_available": true,
       "periods": [
         {
@@ -2785,7 +2793,7 @@
       "part_number": "FW2W3J/A",
       "url": "https://www.apple.com/jp/shop/product/fw2w3j/a/14%E3%82%A4%E3%83%B3%E3%83%81macbook-pro-%E6%95%B4%E5%82%99%E6%B8%88%E8%A3%BD%E5%93%81-10%E3%82%B3%E3%82%A2cpu%E3%81%A810%E3%82%B3%E3%82%A2gpu%E3%82%92%E6%90%AD%E8%BC%89%E3%81%97%E3%81%9Fapple-m4%E3%83%81%E3%83%83%E3%83%97-%E3%82%B7%E3%83%AB%E3%83%90%E3%83%BC?fnode=5c448535055cbcf1080cdf089133a8eb0023c309e1e826e8f12196075a43eb369058d90b7ce593f2a0c72eba571b164947c634bbe7ad9d1d3f50444405a44d58b13ef930989ee8c04f3f618b9a703d01",
       "first_seen": "2026-05-02T14:35:10+09:00",
-      "last_seen": "2026-08-19T06:21:42+09:00",
+      "last_seen": "2026-08-19T12:46:01+09:00",
       "is_available": true,
       "periods": [
         {
@@ -3329,7 +3337,7 @@
       "part_number": "G1H80J/A",
       "url": "https://www.apple.com/jp/shop/product/g1h80j/a/13%E3%82%A4%E3%83%B3%E3%83%81MacBook-Air-%5B%E6%95%B4%E5%82%99%E6%B8%88%E8%A3%BD%E5%93%81%5D-10%E3%82%B3%E3%82%A2CPU%E3%81%A810%E3%82%B3%E3%82%A2GPU%E3%82%92%E6%90%AD%E8%BC%89%E3%81%97%E3%81%9FApple-M4%E3%83%81%E3%83%83%E3%83%97-%E3%82%B9%E3%82%AB%E3%82%A4%E3%83%96%E3%83%AB%E3%83%BC?fnode=9a5a277b6ec4713f7fed67ad4cd58267e1753dcada5682403c071893c8e7e216952dcc35826a5f12a748af16cdebf4482f575058346614fc2c497b03c8b4b98bc8a1c67e785b27353c0c0a473812e09e",
       "first_seen": "2026-05-19T15:46:47+09:00",
-      "last_seen": "2026-08-19T06:21:42+09:00",
+      "last_seen": "2026-08-19T12:46:01+09:00",
       "is_available": true,
       "periods": [
         {
@@ -5019,7 +5027,7 @@
       "part_number": "FDHA4J/A",
       "url": "https://www.apple.com/jp/shop/product/fdha4j/a?fnode=73d61b35e99464ce1052ed73039de1fd57a7b1250ae6cb2de063c7c949f993eac47350ae2207ce66afc99f61b94d75418bce4add59b0184f4dee5b5a4fce56b926be38609a879887300e7dbf9c32e525",
       "first_seen": "2026-06-26T02:10:33+09:00",
-      "last_seen": "2026-08-19T06:21:42+09:00",
+      "last_seen": "2026-08-19T12:46:01+09:00",
       "is_available": true,
       "periods": [
         {
@@ -5060,7 +5068,7 @@
       "part_number": "FDH74J/A",
       "url": "https://www.apple.com/jp/shop/product/fdh74j/a?fnode=73d61b35e99464ce1052ed73039de1fd57a7b1250ae6cb2de063c7c949f993eac47350ae2207ce66afc99f61b94d75418bce4add59b0184f4dee5b5a4fce56b926be38609a879887300e7dbf9c32e525",
       "first_seen": "2026-06-26T02:10:33+09:00",
-      "last_seen": "2026-08-19T06:21:42+09:00",
+      "last_seen": "2026-08-19T12:46:01+09:00",
       "is_available": true,
       "periods": [
         {
@@ -5086,7 +5094,7 @@
       "url": "https://www.apple.com/jp/shop/product/fdhe4j/a?fnode=73d61b35e99464ce1052ed73039de1fd57a7b1250ae6cb2de063c7c949f993eac47350ae2207ce66afc99f61b94d75418bce4add59b0184f4dee5b5a4fce56b926be38609a879887300e7dbf9c32e525",
       "first_seen": "2026-06-26T02:10:33+09:00",
       "last_seen": "2026-08-19T06:21:42+09:00",
-      "is_available": true,
+      "is_available": false,
       "periods": [
         {
           "start": "2026-06-26T02:10:33+09:00",
@@ -5114,7 +5122,7 @@
         },
         {
           "start": "2026-08-15T12:35:26+09:00",
-          "end": null
+          "end": "2026-08-19T12:46:01+09:00"
         }
       ]
     },
@@ -5126,7 +5134,7 @@
       "part_number": "FDHH4J/A",
       "url": "https://www.apple.com/jp/shop/product/fdhh4j/a?fnode=73d61b35e99464ce1052ed73039de1fd57a7b1250ae6cb2de063c7c949f993eac47350ae2207ce66afc99f61b94d75418bce4add59b0184f4dee5b5a4fce56b926be38609a879887300e7dbf9c32e525",
       "first_seen": "2026-06-26T02:10:33+09:00",
-      "last_seen": "2026-08-19T06:21:42+09:00",
+      "last_seen": "2026-08-19T12:46:01+09:00",
       "is_available": true,
       "periods": [
         {
@@ -5188,7 +5196,7 @@
       "part_number": "G1L30J/A",
       "url": "https://www.apple.com/jp/shop/product/g1l30j/a?fnode=73d61b35e99464ce1052ed73039de1fd57a7b1250ae6cb2de063c7c949f993eac47350ae2207ce66afc99f61b94d75418bce4add59b0184f4dee5b5a4fce56b926be38609a879887300e7dbf9c32e525",
       "first_seen": "2026-06-26T02:10:33+09:00",
-      "last_seen": "2026-08-19T06:21:42+09:00",
+      "last_seen": "2026-08-19T12:46:01+09:00",
       "is_available": true,
       "periods": [
         {
@@ -5295,7 +5303,7 @@
       "part_number": "FDV94J/A",
       "url": "https://www.apple.com/jp/shop/product/fdv94j/a?fnode=73d61b35e99464ce1052ed73039de1fd57a7b1250ae6cb2de063c7c949f993eac47350ae2207ce66afc99f61b94d75418bce4add59b0184f4dee5b5a4fce56b926be38609a879887300e7dbf9c32e525",
       "first_seen": "2026-06-26T02:10:33+09:00",
-      "last_seen": "2026-08-19T06:21:42+09:00",
+      "last_seen": "2026-08-19T12:46:01+09:00",
       "is_available": true,
       "periods": [
         {
@@ -5320,7 +5328,7 @@
       "part_number": "FDVD4J/A",
       "url": "https://www.apple.com/jp/shop/product/fdvd4j/a?fnode=73d61b35e99464ce1052ed73039de1fd57a7b1250ae6cb2de063c7c949f993eac47350ae2207ce66afc99f61b94d75418bce4add59b0184f4dee5b5a4fce56b926be38609a879887300e7dbf9c32e525",
       "first_seen": "2026-06-26T02:10:33+09:00",
-      "last_seen": "2026-08-19T06:21:42+09:00",
+      "last_seen": "2026-08-19T12:46:01+09:00",
       "is_available": true,
       "periods": [
         {
@@ -5353,7 +5361,7 @@
       "part_number": "FDVH4J/A",
       "url": "https://www.apple.com/jp/shop/product/fdvh4j/a?fnode=73d61b35e99464ce1052ed73039de1fd57a7b1250ae6cb2de063c7c949f993eac47350ae2207ce66afc99f61b94d75418bce4add59b0184f4dee5b5a4fce56b926be38609a879887300e7dbf9c32e525",
       "first_seen": "2026-06-26T02:10:33+09:00",
-      "last_seen": "2026-08-19T06:21:42+09:00",
+      "last_seen": "2026-08-19T12:46:01+09:00",
       "is_available": true,
       "periods": [
         {
@@ -5386,7 +5394,7 @@
       "part_number": "FDVQ4J/A",
       "url": "https://www.apple.com/jp/shop/product/fdvq4j/a?fnode=73d61b35e99464ce1052ed73039de1fd57a7b1250ae6cb2de063c7c949f993eac47350ae2207ce66afc99f61b94d75418bce4add59b0184f4dee5b5a4fce56b926be38609a879887300e7dbf9c32e525",
       "first_seen": "2026-06-26T02:10:33+09:00",
-      "last_seen": "2026-08-19T06:21:42+09:00",
+      "last_seen": "2026-08-19T12:46:01+09:00",
       "is_available": true,
       "periods": [
         {
@@ -5469,7 +5477,7 @@
       "part_number": "FDH84J/A",
       "url": "https://www.apple.com/jp/shop/product/fdh84j/a?fnode=814d2909c2c87b6ef2797522b73c7d43787d9e6221e5cf1262768774973ffd363070d63d1ee1bc6b41b9270c9d6fe9deb5797b5b3409077b7b2d66a91dbe1a5e932f690303220bae0f60a543021ac2be",
       "first_seen": "2026-06-26T07:19:22+09:00",
-      "last_seen": "2026-08-19T06:21:42+09:00",
+      "last_seen": "2026-08-19T12:46:01+09:00",
       "is_available": true,
       "periods": [
         {
@@ -5510,7 +5518,7 @@
       "part_number": "FHFA4J/A",
       "url": "https://www.apple.com/jp/shop/product/fhfa4j/a/macbook-neo-%E6%95%B4%E5%82%99%E6%B8%88%E8%A3%BD%E5%93%81-apple-a18-pro-%E3%83%81%E3%83%83%E3%83%97-%E3%82%B7%E3%83%AB%E3%83%90%E3%83%BC?fnode=814d2909c2c87b6ef2797522b73c7d43787d9e6221e5cf1262768774973ffd363070d63d1ee1bc6b41b9270c9d6fe9deb5797b5b3409077b7b2d66a91dbe1a5e932f690303220bae0f60a543021ac2be",
       "first_seen": "2026-06-26T15:54:00+09:00",
-      "last_seen": "2026-08-19T06:21:42+09:00",
+      "last_seen": "2026-08-19T12:46:01+09:00",
       "is_available": true,
       "periods": [
         {
@@ -5527,7 +5535,7 @@
       "part_number": "FHFD4J/A",
       "url": "https://www.apple.com/jp/shop/product/fhfd4j/a/macbook-neo-%E6%95%B4%E5%82%99%E6%B8%88%E8%A3%BD%E5%93%81-apple-a18-pro-%E3%83%81%E3%83%83%E3%83%97-%E3%82%B7%E3%83%88%E3%83%A9%E3%82%B9?fnode=814d2909c2c87b6ef2797522b73c7d43787d9e6221e5cf1262768774973ffd363070d63d1ee1bc6b41b9270c9d6fe9deb5797b5b3409077b7b2d66a91dbe1a5e932f690303220bae0f60a543021ac2be",
       "first_seen": "2026-06-26T15:54:00+09:00",
-      "last_seen": "2026-08-19T06:21:42+09:00",
+      "last_seen": "2026-08-19T12:46:01+09:00",
       "is_available": true,
       "periods": [
         {
@@ -5548,7 +5556,7 @@
       "part_number": "FHFF4J/A",
       "url": "https://www.apple.com/jp/shop/product/fhff4j/a/macbook-neo-%E6%95%B4%E5%82%99%E6%B8%88%E8%A3%BD%E5%93%81-apple-a18-pro-%E3%83%81%E3%83%83%E3%83%97-%E3%82%A4%E3%83%B3%E3%83%87%E3%82%A3%E3%82%B4?fnode=814d2909c2c87b6ef2797522b73c7d43787d9e6221e5cf1262768774973ffd363070d63d1ee1bc6b41b9270c9d6fe9deb5797b5b3409077b7b2d66a91dbe1a5e932f690303220bae0f60a543021ac2be",
       "first_seen": "2026-06-26T15:54:00+09:00",
-      "last_seen": "2026-08-19T06:21:42+09:00",
+      "last_seen": "2026-08-19T12:46:01+09:00",
       "is_available": true,
       "periods": [
         {
@@ -5565,7 +5573,7 @@
       "part_number": "FHFH4J/A",
       "url": "https://www.apple.com/jp/shop/product/fhfh4j/a/macbook-neo-%E6%95%B4%E5%82%99%E6%B8%88%E8%A3%BD%E5%93%81-apple-a18-pro-%E3%83%81%E3%83%83%E3%83%97-%E3%83%96%E3%83%A9%E3%83%83%E3%82%B7%E3%83%A5?fnode=814d2909c2c87b6ef2797522b73c7d43787d9e6221e5cf1262768774973ffd363070d63d1ee1bc6b41b9270c9d6fe9deb5797b5b3409077b7b2d66a91dbe1a5e932f690303220bae0f60a543021ac2be",
       "first_seen": "2026-06-26T15:54:00+09:00",
-      "last_seen": "2026-08-19T06:21:42+09:00",
+      "last_seen": "2026-08-19T12:46:01+09:00",
       "is_available": true,
       "periods": [
         {
@@ -5582,7 +5590,7 @@
       "part_number": "FHFE4J/A",
       "url": "https://www.apple.com/jp/shop/product/fhfe4j/a/macbook-neo-%E6%95%B4%E5%82%99%E6%B8%88%E8%A3%BD%E5%93%81-apple-a18-pro-%E3%83%81%E3%83%83%E3%83%97-touch-id-%E3%82%B7%E3%83%88%E3%83%A9%E3%82%B9?fnode=95430e62b4b01a9f154b4a9ede9f555ce4294c2e876795a423994c9b2e9ed4a27380cc4bae3b74d0e5f569ddfc0a8fdca6dd361d4f317547a9ec6fb7db31abf5a711a800dcd502fb3888deebf3144c01",
       "first_seen": "2026-06-28T16:00:51+09:00",
-      "last_seen": "2026-08-19T06:21:42+09:00",
+      "last_seen": "2026-08-19T12:46:01+09:00",
       "is_available": true,
       "periods": [
         {
@@ -5607,7 +5615,7 @@
       "part_number": "FHFC4J/A",
       "url": "https://www.apple.com/jp/shop/product/fhfc4j/a/macbook-neo-%E6%95%B4%E5%82%99%E6%B8%88%E8%A3%BD%E5%93%81-apple-a18-pro-%E3%83%81%E3%83%83%E3%83%97-touch-id-%E3%82%B7%E3%83%AB%E3%83%90%E3%83%BC?fnode=95430e62b4b01a9f154b4a9ede9f555ce4294c2e876795a423994c9b2e9ed4a27380cc4bae3b74d0e5f569ddfc0a8fdca6dd361d4f317547a9ec6fb7db31abf5a711a800dcd502fb3888deebf3144c01",
       "first_seen": "2026-06-28T16:00:51+09:00",
-      "last_seen": "2026-08-19T06:21:42+09:00",
+      "last_seen": "2026-08-19T12:46:01+09:00",
       "is_available": true,
       "periods": [
         {
@@ -5628,7 +5636,7 @@
       "part_number": "FHFG4J/A",
       "url": "https://www.apple.com/jp/shop/product/fhfg4j/a/macbook-neo-%E6%95%B4%E5%82%99%E6%B8%88%E8%A3%BD%E5%93%81-apple-a18-pro-%E3%83%81%E3%83%83%E3%83%97-touch-id-%E3%82%A4%E3%83%B3%E3%83%87%E3%82%A3%E3%82%B4?fnode=95430e62b4b01a9f154b4a9ede9f555ce4294c2e876795a423994c9b2e9ed4a27380cc4bae3b74d0e5f569ddfc0a8fdca6dd361d4f317547a9ec6fb7db31abf5a711a800dcd502fb3888deebf3144c01",
       "first_seen": "2026-06-28T16:00:51+09:00",
-      "last_seen": "2026-08-19T06:21:42+09:00",
+      "last_seen": "2026-08-19T12:46:01+09:00",
       "is_available": true,
       "periods": [
         {
@@ -5657,7 +5665,7 @@
       "part_number": "FHFJ4J/A",
       "url": "https://www.apple.com/jp/shop/product/fhfj4j/a/13%E3%82%A4%E3%83%B3%E3%83%81macbook-neo-%E3%83%96%E3%83%A9%E3%83%83%E3%82%B7%E3%83%A5?fnode=95430e62b4b01a9f154b4a9ede9f555ce4294c2e876795a423994c9b2e9ed4a27380cc4bae3b74d0e5f569ddfc0a8fdca6dd361d4f317547a9ec6fb7db31abf5a711a800dcd502fb3888deebf3144c01",
       "first_seen": "2026-06-28T16:00:51+09:00",
-      "last_seen": "2026-08-19T06:21:42+09:00",
+      "last_seen": "2026-08-19T12:46:01+09:00",
       "is_available": true,
       "periods": [
         {
@@ -5678,7 +5686,7 @@
       "part_number": "FDHC4J/A",
       "url": "https://www.apple.com/jp/shop/product/fdhc4j/a?fnode=623850a9fdb7aa61bdf048d363b1a5259fd9064d5774e883c8ee482faec2e4580449a7d628507fcc4269253b5fa4e1563128b177e9bf239fce854019833cab190cefe89ce0b755fe1925382faf01727b",
       "first_seen": "2026-06-30T20:44:09+09:00",
-      "last_seen": "2026-08-19T06:21:42+09:00",
+      "last_seen": "2026-08-19T12:46:01+09:00",
       "is_available": true,
       "periods": [
         {
@@ -5715,7 +5723,7 @@
       "part_number": "FDHF4J/A",
       "url": "https://www.apple.com/jp/shop/product/fdhf4j/a?fnode=623850a9fdb7aa61bdf048d363b1a5259fd9064d5774e883c8ee482faec2e4580449a7d628507fcc4269253b5fa4e1563128b177e9bf239fce854019833cab190cefe89ce0b755fe1925382faf01727b",
       "first_seen": "2026-06-30T20:44:09+09:00",
-      "last_seen": "2026-08-19T06:21:42+09:00",
+      "last_seen": "2026-08-19T12:46:01+09:00",
       "is_available": true,
       "periods": [
         {
@@ -5752,7 +5760,7 @@
       "part_number": "FDHJ4J/A",
       "url": "https://www.apple.com/jp/shop/product/fdhj4j/a?fnode=623850a9fdb7aa61bdf048d363b1a5259fd9064d5774e883c8ee482faec2e4580449a7d628507fcc4269253b5fa4e1563128b177e9bf239fce854019833cab190cefe89ce0b755fe1925382faf01727b",
       "first_seen": "2026-06-30T20:44:09+09:00",
-      "last_seen": "2026-08-19T06:21:42+09:00",
+      "last_seen": "2026-08-19T12:46:01+09:00",
       "is_available": true,
       "periods": [
         {
@@ -5907,7 +5915,7 @@
       "part_number": "G1L91J/A",
       "url": "https://www.apple.com/jp/shop/product/g1l91j/a?fnode=623850a9fdb7aa61bdf048d363b1a5259fd9064d5774e883c8ee482faec2e4580449a7d628507fcc4269253b5fa4e1563128b177e9bf239fce854019833cab190cefe89ce0b755fe1925382faf01727b",
       "first_seen": "2026-06-30T20:44:09+09:00",
-      "last_seen": "2026-08-19T06:21:42+09:00",
+      "last_seen": "2026-08-19T12:46:01+09:00",
       "is_available": true,
       "periods": [
         {
@@ -6019,7 +6027,7 @@
       "url": "https://www.apple.com/jp/shop/product/g1lz0j/a?fnode=e310e73e608d86cdab93584f5a61ee4a6ff6cbe6dadabf2cfb7ed129dd7ec538dc8ea43e18febf24bee4eec0630dbc50a557f6802d3488b5a618b6ecff938c728fa7f3286bdec201616172a32ea04ed6",
       "first_seen": "2026-07-03T15:29:31+09:00",
       "last_seen": "2026-08-19T06:21:42+09:00",
-      "is_available": true,
+      "is_available": false,
       "periods": [
         {
           "start": "2026-07-03T15:29:31+09:00",
@@ -6043,7 +6051,7 @@
         },
         {
           "start": "2026-08-18T12:41:45+09:00",
-          "end": null
+          "end": "2026-08-19T12:46:01+09:00"
         }
       ]
     },
@@ -6237,12 +6245,16 @@
       "part_number": "FU9D3J/A",
       "url": "https://www.apple.com/jp/shop/product/fu9d3j/a/Mac-mini-%E6%95%B4%E5%82%99%E6%B8%88%E8%A3%BD%E5%93%81-10%E3%82%B3%E3%82%A2CPU%E3%81%A810%E3%82%B3%E3%82%A2GPU%E3%82%92%E6%90%AD%E8%BC%89%E3%81%97%E3%81%9FApple-M4%E3%83%81%E3%83%83%E3%83%97%E3%82%AE%E3%82%AC%E3%83%93%E3%83%83%E3%83%88Ethernet?fnode=fdad88a71163f660922592bb713d170e374d597ded10193b793aa640eaac2bd72bf3a09517407430916bf8b3241c6b930bc1a312c07eb31aee42eb36f62047193fe89f31b94c5c481a59b2a20d6f61e2",
       "first_seen": "2026-07-19T14:49:24+09:00",
-      "last_seen": "2026-07-19T14:49:24+09:00",
-      "is_available": false,
+      "last_seen": "2026-08-19T12:46:01+09:00",
+      "is_available": true,
       "periods": [
         {
           "start": "2026-07-19T14:49:24+09:00",
           "end": "2026-07-19T19:25:03+09:00"
+        },
+        {
+          "start": "2026-08-19T12:46:01+09:00",
+          "end": null
         }
       ]
     },
@@ -6386,6 +6398,23 @@
         {
           "start": "2026-08-16T06:17:59+09:00",
           "end": "2026-08-16T12:44:42+09:00"
+        }
+      ]
+    },
+    "FU9E3J/A": {
+      "name": "Mac mini [整備済製品] 10コアCPUと10コアGPUを搭載したApple M4チップ、ギガビットEthernet",
+      "price": 144800,
+      "price_text": "144,800円",
+      "retail_price_text": "¥144,800",
+      "part_number": "FU9E3J/A",
+      "url": "https://www.apple.com/jp/shop/product/fu9e3j/a/Mac-mini-%E6%95%B4%E5%82%99%E6%B8%88%E8%A3%BD%E5%93%81-10%E3%82%B3%E3%82%A2CPU%E3%81%A810%E3%82%B3%E3%82%A2GPU%E3%82%92%E6%90%AD%E8%BC%89%E3%81%97%E3%81%9FApple-M4%E3%83%81%E3%83%83%E3%83%97%E3%82%AE%E3%82%AC%E3%83%93%E3%83%83%E3%83%88Ethernet?fnode=ba8b6bad61475fff938003bdebab8675de269b991ca048d9115f522aba682d311091fc328f37fa004843e901a29f09207efe50d36a8bc3f0b8b03662791c06f9c0ba5bb511e65326134ec94618f7aca5",
+      "first_seen": "2026-08-19T12:46:01+09:00",
+      "last_seen": "2026-08-19T12:46:01+09:00",
+      "is_available": true,
+      "periods": [
+        {
+          "start": "2026-08-19T12:46:01+09:00",
+          "end": null
         }
       ]
     }
@@ -8113,6 +8142,10 @@
     },
     {
       "timestamp": "2026-08-19T06:21:42+09:00",
+      "product_count": 30
+    },
+    {
+      "timestamp": "2026-08-19T12:46:01+09:00",
       "product_count": 30
     }
   ]
