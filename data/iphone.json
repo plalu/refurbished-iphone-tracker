@@ -252,7 +252,7 @@
       "part_number": "FU703J/A",
       "url": "https://www.apple.com/jp/shop/product/fu703j/a/iphone-15-pro-max-1tb-%E3%83%9B%E3%83%AF%E3%82%A4%E3%83%88%E3%83%81%E3%82%BF%E3%83%8B%E3%82%A6%E3%83%A0-SIM%E3%83%95%E3%83%AA%E3%83%BC-%E6%95%B4%E5%82%99%E6%B8%88%E8%A3%BD%E5%93%81?fnode=d291c180856e4ed0d36f7d735c775e91cf55754e6a64357d4702120dd25643f683aada16f2917ff912432f099153e96cca3cf5564a3d7f3edf5a011bc560e7820841fcca154000c3acb803581910333ac3ac126dc8c86dff34081e864cae9f08",
       "first_seen": "2026-04-20T21:12:05+09:00",
-      "last_seen": "2026-09-03T07:57:58+09:00",
+      "last_seen": "2026-09-03T16:45:15+09:00",
       "is_available": true,
       "periods": [
         {
@@ -327,8 +327,8 @@
       "part_number": "FTMH3J/A",
       "url": "https://www.apple.com/jp/shop/product/ftmh3j/a/Iphone-15-128GB-%E3%83%96%E3%83%A9%E3%83%83%E3%82%AF-SIM%E3%83%95%E3%83%AA%E3%83%BC-%E6%95%B4%E5%82%99%E6%B8%88%E8%A3%BD%E5%93%81?fnode=a6b94eaee6e5c61e7ba01f6977c5329b5fda1b6ede61f310c5879dd1211619a89c55eda4b02320247f6bf4e1eaf10a1c3db2761ea1555c385bd897d15666b6a366f2a7aad7b1cb00f39dc2f812c1663e21dfb1f32e93caadfdc3cad0850c93ea",
       "first_seen": "2026-04-23T14:28:26+09:00",
-      "last_seen": "2026-08-29T18:42:19+09:00",
-      "is_available": false,
+      "last_seen": "2026-09-03T16:45:15+09:00",
+      "is_available": true,
       "periods": [
         {
           "start": "2026-04-23T14:28:26+09:00",
@@ -373,6 +373,10 @@
         {
           "start": "2026-08-29T18:42:19+09:00",
           "end": "2026-08-30T03:09:41+09:00"
+        },
+        {
+          "start": "2026-09-03T16:45:15+09:00",
+          "end": null
         }
       ]
     },
@@ -384,8 +388,8 @@
       "part_number": "FTML3J/A",
       "url": "https://www.apple.com/jp/shop/product/ftml3j/a/iphone-15-128gb-%E3%83%96%E3%83%AB%E3%83%BC-SIM%E3%83%95%E3%83%AA%E3%83%BC-%E6%95%B4%E5%82%99%E6%B8%88%E8%A3%BD%E5%93%81?fnode=a6b94eaee6e5c61e7ba01f6977c5329b5fda1b6ede61f310c5879dd1211619a89c55eda4b02320247f6bf4e1eaf10a1c3db2761ea1555c385bd897d15666b6a366f2a7aad7b1cb00f39dc2f812c1663e21dfb1f32e93caadfdc3cad0850c93ea",
       "first_seen": "2026-04-23T14:28:26+09:00",
-      "last_seen": "2026-08-17T18:37:26+09:00",
-      "is_available": false,
+      "last_seen": "2026-09-03T16:45:15+09:00",
+      "is_available": true,
       "periods": [
         {
           "start": "2026-04-23T14:28:26+09:00",
@@ -422,6 +426,10 @@
         {
           "start": "2026-08-17T12:46:40+09:00",
           "end": "2026-08-18T00:21:26+09:00"
+        },
+        {
+          "start": "2026-09-03T16:45:15+09:00",
+          "end": null
         }
       ]
     },
@@ -433,8 +441,8 @@
       "part_number": "FTMQ3J/A",
       "url": "https://www.apple.com/jp/shop/product/ftmq3j/a/iphone-15-256gb-%E3%82%A4%E3%82%A8%E3%83%AD%E3%83%BC-SIM%E3%83%95%E3%83%AA%E3%83%BC-%E6%95%B4%E5%82%99%E6%B8%88%E8%A3%BD%E5%93%81?fnode=a6b94eaee6e5c61e7ba01f6977c5329b5fda1b6ede61f310c5879dd1211619a89c55eda4b02320247f6bf4e1eaf10a1c3db2761ea1555c385bd897d15666b6a366f2a7aad7b1cb00f39dc2f812c1663e21dfb1f32e93caadfdc3cad0850c93ea",
       "first_seen": "2026-04-23T14:28:26+09:00",
-      "last_seen": "2026-08-22T06:20:33+09:00",
-      "is_available": false,
+      "last_seen": "2026-09-03T16:45:15+09:00",
+      "is_available": true,
       "periods": [
         {
           "start": "2026-04-23T14:28:26+09:00",
@@ -463,6 +471,10 @@
         {
           "start": "2026-08-21T18:32:47+09:00",
           "end": "2026-08-22T12:38:42+09:00"
+        },
+        {
+          "start": "2026-09-03T16:45:15+09:00",
+          "end": null
         }
       ]
     },
@@ -474,8 +486,8 @@
       "part_number": "FTMU3J/A",
       "url": "https://www.apple.com/jp/shop/product/ftmu3j/a/iphone-15-512gb-%E3%83%96%E3%83%A9%E3%83%83%E3%82%AF-SIM%E3%83%95%E3%83%AA%E3%83%BC-%E6%95%B4%E5%82%99%E6%B8%88%E8%A3%BD%E5%93%81?fnode=a6b94eaee6e5c61e7ba01f6977c5329b5fda1b6ede61f310c5879dd1211619a89c55eda4b02320247f6bf4e1eaf10a1c3db2761ea1555c385bd897d15666b6a366f2a7aad7b1cb00f39dc2f812c1663e21dfb1f32e93caadfdc3cad0850c93ea",
       "first_seen": "2026-04-23T14:28:26+09:00",
-      "last_seen": "2026-08-19T06:21:38+09:00",
-      "is_available": false,
+      "last_seen": "2026-09-03T16:45:15+09:00",
+      "is_available": true,
       "periods": [
         {
           "start": "2026-04-23T14:28:26+09:00",
@@ -504,6 +516,10 @@
         {
           "start": "2026-08-17T12:46:40+09:00",
           "end": "2026-08-19T12:45:59+09:00"
+        },
+        {
+          "start": "2026-09-03T16:45:15+09:00",
+          "end": null
         }
       ]
     },
@@ -586,7 +602,7 @@
       "part_number": "FU6U3J/A",
       "url": "https://www.apple.com/jp/shop/product/fu6u3j/a/iphone-15-pro-max-512gb-%E3%83%96%E3%83%A9%E3%83%83%E3%82%AF%E3%83%81%E3%82%BF%E3%83%8B%E3%82%A6%E3%83%A0-SIM%E3%83%95%E3%83%AA%E3%83%BC-%E6%95%B4%E5%82%99%E6%B8%88%E8%A3%BD%E5%93%81?fnode=a6b94eaee6e5c61e7ba01f6977c5329b5fda1b6ede61f310c5879dd1211619a89c55eda4b02320247f6bf4e1eaf10a1c3db2761ea1555c385bd897d15666b6a366f2a7aad7b1cb00f39dc2f812c1663e21dfb1f32e93caadfdc3cad0850c93ea",
       "first_seen": "2026-04-23T14:28:26+09:00",
-      "last_seen": "2026-09-03T07:57:58+09:00",
+      "last_seen": "2026-09-03T16:45:15+09:00",
       "is_available": true,
       "periods": [
         {
@@ -1060,8 +1076,8 @@
       "part_number": "FYDQ3J/A",
       "url": "https://www.apple.com/jp/shop/product/fydq3j/a/iphone-16-128gb-%E3%83%96%E3%83%A9%E3%83%83%E3%82%AF-sim%E3%83%95%E3%83%AA%E3%83%BC-%E6%95%B4%E5%82%99%E6%B8%88%E8%A3%BD%E5%93%81?fnode=18806de53947dd425a54edb043ce530819796a70f52beca95e661d96346a491a5ead511c0dafb7de55d368f5cae045a7494fb01b9d52da215321a279b1456a0aa6ff75dfb84982953c90b1df395467770b14e1062de1f3ae29629c54c31a2a87",
       "first_seen": "2026-05-01T15:14:55+09:00",
-      "last_seen": "2026-08-06T20:20:29+09:00",
-      "is_available": false,
+      "last_seen": "2026-09-03T16:45:15+09:00",
+      "is_available": true,
       "periods": [
         {
           "start": "2026-05-01T15:14:55+09:00",
@@ -1090,6 +1106,10 @@
         {
           "start": "2026-08-06T14:46:03+09:00",
           "end": "2026-08-07T10:00:26+09:00"
+        },
+        {
+          "start": "2026-09-03T16:45:15+09:00",
+          "end": null
         }
       ]
     },
@@ -1101,8 +1121,8 @@
       "part_number": "FYDR3J/A",
       "url": "https://www.apple.com/jp/shop/product/fydr3j/a/iphone-16-128gb-%E3%83%9B%E3%83%AF%E3%82%A4%E3%83%88-sim%E3%83%95%E3%83%AA%E3%83%BC-%E6%95%B4%E5%82%99%E6%B8%88%E8%A3%BD%E5%93%81?fnode=18806de53947dd425a54edb043ce530819796a70f52beca95e661d96346a491a5ead511c0dafb7de55d368f5cae045a7494fb01b9d52da215321a279b1456a0aa6ff75dfb84982953c90b1df395467770b14e1062de1f3ae29629c54c31a2a87",
       "first_seen": "2026-05-01T15:14:55+09:00",
-      "last_seen": "2026-08-15T12:35:23+09:00",
-      "is_available": false,
+      "last_seen": "2026-09-03T16:45:15+09:00",
+      "is_available": true,
       "periods": [
         {
           "start": "2026-05-01T15:14:55+09:00",
@@ -1135,6 +1155,10 @@
         {
           "start": "2026-08-15T12:35:23+09:00",
           "end": "2026-08-15T18:22:11+09:00"
+        },
+        {
+          "start": "2026-09-03T16:45:15+09:00",
+          "end": null
         }
       ]
     },
@@ -1177,14 +1201,14 @@
     },
     "FYDU3J/A": {
       "name": "iPhone 16 128GB - ウルトラマリン（SIMフリー）",
-      "price": 96800,
-      "price_text": "96,800円",
+      "price": 105800,
+      "price_text": "105,800円",
       "retail_price_text": "¥96,800",
       "part_number": "FYDU3J/A",
       "url": "https://www.apple.com/jp/shop/product/fydu3j/a/iphone-16-128gb-%E3%82%A6%E3%83%AB%E3%83%88%E3%83%A9%E3%83%9E%E3%83%AA%E3%83%B3-sim%E3%83%95%E3%83%AA%E3%83%BC-%E6%95%B4%E5%82%99%E6%B8%88%E8%A3%BD%E5%93%81?fnode=18806de53947dd425a54edb043ce530819796a70f52beca95e661d96346a491a5ead511c0dafb7de55d368f5cae045a7494fb01b9d52da215321a279b1456a0aa6ff75dfb84982953c90b1df395467770b14e1062de1f3ae29629c54c31a2a87",
       "first_seen": "2026-05-01T15:14:55+09:00",
-      "last_seen": "2026-06-16T17:44:37+09:00",
-      "is_available": false,
+      "last_seen": "2026-09-03T16:45:15+09:00",
+      "is_available": true,
       "periods": [
         {
           "start": "2026-05-01T15:14:55+09:00",
@@ -1201,19 +1225,23 @@
         {
           "start": "2026-06-16T17:44:37+09:00",
           "end": "2026-06-16T22:26:42+09:00"
+        },
+        {
+          "start": "2026-09-03T16:45:15+09:00",
+          "end": null
         }
       ]
     },
     "FYDV3J/A": {
       "name": "iPhone 16 128GB - ティール（SIMフリー）",
-      "price": 96800,
-      "price_text": "96,800円",
+      "price": 105800,
+      "price_text": "105,800円",
       "retail_price_text": "¥96,800",
       "part_number": "FYDV3J/A",
       "url": "https://www.apple.com/jp/shop/product/fydv3j/a/iphone-16-128gb-%E3%83%86%E3%82%A3%E3%83%BC%E3%83%AB-sim%E3%83%95%E3%83%AA%E3%83%BC-%E6%95%B4%E5%82%99%E6%B8%88%E8%A3%BD%E5%93%81?fnode=18806de53947dd425a54edb043ce530819796a70f52beca95e661d96346a491a5ead511c0dafb7de55d368f5cae045a7494fb01b9d52da215321a279b1456a0aa6ff75dfb84982953c90b1df395467770b14e1062de1f3ae29629c54c31a2a87",
       "first_seen": "2026-05-01T15:14:55+09:00",
-      "last_seen": "2026-06-16T17:44:37+09:00",
-      "is_available": false,
+      "last_seen": "2026-09-03T16:45:15+09:00",
+      "is_available": true,
       "periods": [
         {
           "start": "2026-05-01T15:14:55+09:00",
@@ -1230,6 +1258,10 @@
         {
           "start": "2026-06-16T17:44:37+09:00",
           "end": "2026-06-16T22:26:42+09:00"
+        },
+        {
+          "start": "2026-09-03T16:45:15+09:00",
+          "end": null
         }
       ]
     },
@@ -1633,7 +1665,7 @@
       "part_number": "FU6W3J/A",
       "url": "https://www.apple.com/jp/shop/product/fu6w3j/a/iphone-15-pro-max-512gb-%E3%83%8A%E3%83%81%E3%83%A5%E3%83%A9%E3%83%AB%E3%83%81%E3%82%BF%E3%83%8B%E3%82%A6%E3%83%A0-SIM%E3%83%95%E3%83%AA%E3%83%BC-%E6%95%B4%E5%82%99%E6%B8%88%E8%A3%BD%E5%93%81?fnode=b919d8c54815aa055fe3521f522e04e47ffa73222be31ddef0ccd7b2254dd06727a7b4126788cc09665a043e8c908a0c9b89139507d0ff341347f4f4221ce0ce1b6f6004ed55c3e458b3648349f60960bdfcc1fcb33615461aaf01e4db808d47",
       "first_seen": "2026-05-02T18:57:29+09:00",
-      "last_seen": "2026-09-03T07:57:58+09:00",
+      "last_seen": "2026-09-03T16:45:15+09:00",
       "is_available": true,
       "periods": [
         {
@@ -2046,8 +2078,8 @@
       "part_number": "FTMP3J/A",
       "url": "https://www.apple.com/jp/shop/product/ftmp3j/a/iphone-15-256gb-%E3%83%94%E3%83%B3%E3%82%AF-SIM%E3%83%95%E3%83%AA%E3%83%BC-%E6%95%B4%E5%82%99%E6%B8%88%E8%A3%BD%E5%93%81?fnode=b6494f886e757ae6cc6fb9d16f7760b040c881badecaca04f8291bf9541de0872d6ee2f872e336b4fbc0997cf26350956f4c3e6fae7c5a965eb701bf22052b59df9b8a00fb540bb27b934c1e3432405b11ef11daab81d7c138239a36460fc116",
       "first_seen": "2026-05-15T15:33:19+09:00",
-      "last_seen": "2026-08-17T18:37:26+09:00",
-      "is_available": false,
+      "last_seen": "2026-09-03T16:45:15+09:00",
+      "is_available": true,
       "periods": [
         {
           "start": "2026-05-15T15:33:19+09:00",
@@ -2068,6 +2100,10 @@
         {
           "start": "2026-08-17T12:46:40+09:00",
           "end": "2026-08-18T00:21:26+09:00"
+        },
+        {
+          "start": "2026-09-03T16:45:15+09:00",
+          "end": null
         }
       ]
     },
@@ -2557,8 +2593,8 @@
       "part_number": "FTMT3J/A",
       "url": "https://www.apple.com/jp/shop/product/ftmt3j/a/iphone-15-256gb-%E3%82%B0%E3%83%AA%E3%83%BC%E3%83%B3-SIM%E3%83%95%E3%83%AA%E3%83%BC-%E6%95%B4%E5%82%99%E6%B8%88%E8%A3%BD%E5%93%81?fnode=07c3a5b728c06a098f545f23fcdc24f2f7ad48bb9d2bbcedf0fca8b72cd2e79a1859f849d1532250b522dc11951d2d0ba5a38ccabde8339495f8a58e0a30a707937fdacb91bd883d1adba0d8d1061ae0a9c53bb52629ee05bf6410b641c38d08",
       "first_seen": "2026-06-16T17:44:37+09:00",
-      "last_seen": "2026-07-31T15:09:52+09:00",
-      "is_available": false,
+      "last_seen": "2026-09-03T16:45:15+09:00",
+      "is_available": true,
       "periods": [
         {
           "start": "2026-06-16T17:44:37+09:00",
@@ -2571,6 +2607,10 @@
         {
           "start": "2026-07-31T15:09:52+09:00",
           "end": "2026-07-31T20:27:09+09:00"
+        },
+        {
+          "start": "2026-09-03T16:45:15+09:00",
+          "end": null
         }
       ]
     },
@@ -2649,7 +2689,7 @@
       "part_number": "FU6Q3J/A",
       "url": "https://www.apple.com/jp/shop/product/fu6q3j/a/iphone-15-pro-max-256gb-%E3%83%9B%E3%83%AF%E3%82%A4%E3%83%88%E3%83%81%E3%82%BF%E3%83%8B%E3%82%A6%E3%83%A0-SIM%E3%83%95%E3%83%AA%E3%83%BC-%E6%95%B4%E5%82%99%E6%B8%88%E8%A3%BD%E5%93%81?fnode=07c3a5b728c06a098f545f23fcdc24f2f7ad48bb9d2bbcedf0fca8b72cd2e79a1859f849d1532250b522dc11951d2d0ba5a38ccabde8339495f8a58e0a30a707937fdacb91bd883d1adba0d8d1061ae0a9c53bb52629ee05bf6410b641c38d08",
       "first_seen": "2026-06-16T17:44:37+09:00",
-      "last_seen": "2026-09-03T07:57:58+09:00",
+      "last_seen": "2026-09-03T16:45:15+09:00",
       "is_available": true,
       "periods": [
         {
@@ -2711,7 +2751,7 @@
       "part_number": "FTUQ3J/A",
       "url": "https://www.apple.com/jp/shop/product/ftuq3j/a/iphone-15-pro-1tb-%E3%83%96%E3%83%A9%E3%83%83%E3%82%AF%E3%83%81%E3%82%BF%E3%83%8B%E3%82%A6%E3%83%A0-SIM%E3%83%95%E3%83%AA%E3%83%BC-%E6%95%B4%E5%82%99%E6%B8%88%E8%A3%BD%E5%93%81?fnode=1c1908505f021df1df4d133aa34c1fe03d2d6c0e2d01f1b76f35b4939df237867ded5f61998d0d8a017edf66305dfcab43b250fb8ee5a248b5b0336560cce7133b550b8a5e385904db522f658a6e06461d4e04890e807c8a154322fc23b89760",
       "first_seen": "2026-06-19T17:30:16+09:00",
-      "last_seen": "2026-09-03T07:57:58+09:00",
+      "last_seen": "2026-09-03T16:45:15+09:00",
       "is_available": true,
       "periods": [
         {
@@ -2876,7 +2916,7 @@
       "part_number": "FU6T3J/A",
       "url": "https://www.apple.com/jp/shop/product/fu6t3j/a/iphone-15-pro-max-256gb-%E3%83%96%E3%83%AB%E3%83%BC%E3%83%81%E3%82%BF%E3%83%8B%E3%82%A6%E3%83%A0-SIM%E3%83%95%E3%83%AA%E3%83%BC-%E6%95%B4%E5%82%99%E6%B8%88%E8%A3%BD%E5%93%81?fnode=b6cfe3fac4803eeb91a4d36fc3c0d4d21a52a2a611e0ceea064ea55d83d2f7f4ca1b2e70f48ea57efc3985ae19947621484c3e013083023b19d86d332ef974a0cc213717440d56b43824ba590740213628c6cfaca94c56c1a3cada72ee0ae573",
       "first_seen": "2026-07-03T15:29:23+09:00",
-      "last_seen": "2026-09-03T07:57:58+09:00",
+      "last_seen": "2026-09-03T16:45:15+09:00",
       "is_available": true,
       "periods": [
         {
@@ -2909,7 +2949,7 @@
       "part_number": "FU6V3J/A",
       "url": "https://www.apple.com/jp/shop/product/fu6v3j/a/iphone-15-pro-max-512gb-%E3%83%9B%E3%83%AF%E3%82%A4%E3%83%88%E3%83%81%E3%82%BF%E3%83%8B%E3%82%A6%E3%83%A0-SIM%E3%83%95%E3%83%AA%E3%83%BC-%E6%95%B4%E5%82%99%E6%B8%88%E8%A3%BD%E5%93%81?fnode=b6cfe3fac4803eeb91a4d36fc3c0d4d21a52a2a611e0ceea064ea55d83d2f7f4ca1b2e70f48ea57efc3985ae19947621484c3e013083023b19d86d332ef974a0cc213717440d56b43824ba590740213628c6cfaca94c56c1a3cada72ee0ae573",
       "first_seen": "2026-07-03T15:29:23+09:00",
-      "last_seen": "2026-09-03T07:57:58+09:00",
+      "last_seen": "2026-09-03T16:45:15+09:00",
       "is_available": true,
       "periods": [
         {
@@ -2930,7 +2970,7 @@
       "part_number": "FU6X3J/A",
       "url": "https://www.apple.com/jp/shop/product/fu6x3j/a/iphone-15-pro-max-512gb-%E3%83%96%E3%83%AB%E3%83%BC%E3%83%81%E3%82%BF%E3%83%8B%E3%82%A6%E3%83%A0-SIM%E3%83%95%E3%83%AA%E3%83%BC-%E6%95%B4%E5%82%99%E6%B8%88%E8%A3%BD%E5%93%81?fnode=b6cfe3fac4803eeb91a4d36fc3c0d4d21a52a2a611e0ceea064ea55d83d2f7f4ca1b2e70f48ea57efc3985ae19947621484c3e013083023b19d86d332ef974a0cc213717440d56b43824ba590740213628c6cfaca94c56c1a3cada72ee0ae573",
       "first_seen": "2026-07-03T15:29:23+09:00",
-      "last_seen": "2026-09-03T07:57:58+09:00",
+      "last_seen": "2026-09-03T16:45:15+09:00",
       "is_available": true,
       "periods": [
         {
@@ -2973,7 +3013,7 @@
       "url": "https://www.apple.com/jp/shop/product/fu6r3j/a/iphone-15-pro-max-256gb-%E3%83%8A%E3%83%81%E3%83%A5%E3%83%A9%E3%83%AB%E3%83%81%E3%82%BF%E3%83%8B%E3%82%A6%E3%83%A0-SIM%E3%83%95%E3%83%AA%E3%83%BC-%E6%95%B4%E5%82%99%E6%B8%88%E8%A3%BD%E5%93%81?fnode=3ce0123ae9a7c66f505012898387b40ed0f70b0f8846b915185d472f82824a5c973b3c2f6f132610fa29879e4be5019be41496b9d772cb8cff2fcc27e3f1fe2b5623095c6b6ccf31c63c48e51f1cafedb75d5c26911bb30337638baf1ae5151a",
       "first_seen": "2026-07-31T15:09:52+09:00",
       "last_seen": "2026-09-03T07:57:58+09:00",
-      "is_available": true,
+      "is_available": false,
       "periods": [
         {
           "start": "2026-07-31T15:09:52+09:00",
@@ -2981,7 +3021,7 @@
         },
         {
           "start": "2026-09-01T17:16:29+09:00",
-          "end": null
+          "end": "2026-09-03T16:45:15+09:00"
         }
       ]
     },
@@ -4983,6 +5023,10 @@
     {
       "timestamp": "2026-09-03T07:57:58+09:00",
       "product_count": 9
+    },
+    {
+      "timestamp": "2026-09-03T16:45:15+09:00",
+      "product_count": 18
     }
   ]
 }
